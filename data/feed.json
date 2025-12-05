@@ -1,139 +1,560 @@
 [
   {
-    "domain": "coinbase-support-help.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/coinbase-support-help.com.html",
-    "date": "2025-12-05T19:21:10.393253+00:00",
+    "domain": "te-daon.qa.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/te-daon.qa.paypal.com.html",
+    "date": "2025-12-05T19:49:24.480143+00:00",
     "mx": false,
-    "keywords": [
-      "support",
-      "help"
-    ],
-    "brand_match": "coinbase",
+    "keywords": [],
+    "brand_match": "paypal",
     "brand_similarity": 1.0,
-    "threat_score": 45,
+    "threat_score": 35,
     "threat_level": "MEDIUM"
   },
   {
-    "domain": "apple-id-confirm.net",
-    "link": "https://richesec.github.io/phishing-watchdog/check/apple-id-confirm.net.html",
-    "date": "2025-12-05T19:21:10.391795+00:00",
+    "domain": "www.test29.stage.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/www.test29.stage.paypal.com.html",
+    "date": "2025-12-05T19:49:24.451530+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "secure.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/secure.paypal.com.html",
+    "date": "2025-12-05T19:49:24.444317+00:00",
+    "mx": true,
+    "keywords": [
+      "secure"
+    ],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 80,
+    "threat_level": "CRITICAL"
+  },
+  {
+    "domain": "slcppsso9205b.slc.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/slcppsso9205b.slc.paypal.com.html",
+    "date": "2025-12-05T19:49:24.403488+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "thegooglestore.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/thegooglestore.com.html",
+    "date": "2025-12-05T19:49:24.382646+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "ping.feedburner.google.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/ping.feedburner.google.com.html",
+    "date": "2025-12-05T19:49:24.292888+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "ccg01splunksrchgp3.ccg01.phx.paypalinc.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/ccg01splunksrchgp3.ccg01.phx.paypalinc.com.html",
+    "date": "2025-12-05T19:49:24.211265+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "tensorflow.google.cn",
+    "link": "https://richesec.github.io/phishing-watchdog/check/tensorflow.google.cn.html",
+    "date": "2025-12-05T19:49:24.171232+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "www.bofa.stage.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/www.bofa.stage.paypal.com.html",
+    "date": "2025-12-05T19:49:24.135996+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "api.test27.stage.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/api.test27.stage.paypal.com.html",
+    "date": "2025-12-05T19:49:24.127995+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "ccg14splunksrchgp3.ccg14.slc.paypalinc.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/ccg14splunksrchgp3.ccg14.slc.paypalinc.com.html",
+    "date": "2025-12-05T19:49:24.105406+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "image.fastlane-emails.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/image.fastlane-emails.paypal.com.html",
+    "date": "2025-12-05T19:49:24.086058+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "manifestserv.qa.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/manifestserv.qa.paypal.com.html",
+    "date": "2025-12-05T19:49:23.597528+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "api.cardinal.stage.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/api.cardinal.stage.paypal.com.html",
+    "date": "2025-12-05T19:49:23.573573+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "accounts.hcaptcha.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/accounts.hcaptcha.paypal.com.html",
+    "date": "2025-12-05T19:49:23.566493+00:00",
     "mx": false,
     "keywords": [
-      "confirm"
+      "account"
     ],
-    "brand_match": "apple",
+    "brand_match": "paypal",
     "brand_similarity": 1.0,
     "threat_score": 40,
     "threat_level": "MEDIUM"
   },
   {
-    "domain": "faceb00k-verify.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/faceb00k-verify.com.html",
-    "date": "2025-12-05T19:21:10.389196+00:00",
+    "domain": "uk.paypal-qrc.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/uk.paypal-qrc.com.html",
+    "date": "2025-12-05T19:49:23.547259+00:00",
     "mx": false,
-    "keywords": [
-      "verify"
-    ],
-    "brand_match": null,
-    "brand_similarity": null,
-    "threat_score": 20,
-    "threat_level": "LOW"
-  },
-  {
-    "domain": "netflix-password-reset.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/netflix-password-reset.com.html",
-    "date": "2025-12-05T19:21:10.388024+00:00",
-    "mx": false,
-    "keywords": [
-      "password",
-      "reset"
-    ],
-    "brand_match": "netflix",
+    "keywords": [],
+    "brand_match": "paypal",
     "brand_similarity": 1.0,
-    "threat_score": 60,
-    "threat_level": "HIGH"
-  },
-  {
-    "domain": "crypto-wallet-recovery.io",
-    "link": "https://richesec.github.io/phishing-watchdog/check/crypto-wallet-recovery.io.html",
-    "date": "2025-12-05T19:21:10.386460+00:00",
-    "mx": false,
-    "keywords": [
-      "wallet",
-      "crypto",
-      "recovery",
-      "recover"
-    ],
-    "brand_match": null,
-    "brand_similarity": null,
     "threat_score": 35,
     "threat_level": "MEDIUM"
   },
   {
-    "domain": "bank-secure-login.org",
-    "link": "https://richesec.github.io/phishing-watchdog/check/bank-secure-login.org.html",
-    "date": "2025-12-05T19:21:10.385120+00:00",
+    "domain": "slcppsso7186b.slc.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/slcppsso7186b.slc.paypal.com.html",
+    "date": "2025-12-05T19:49:23.473079+00:00",
     "mx": false,
-    "keywords": [
-      "login",
-      "secure",
-      "bank"
-    ],
-    "brand_match": null,
-    "brand_similarity": null,
-    "threat_score": 30,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
     "threat_level": "MEDIUM"
   },
   {
-    "domain": "microsft-support.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/microsft-support.com.html",
-    "date": "2025-12-05T19:21:10.383861+00:00",
+    "domain": "p.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/p.paypal.com.html",
+    "date": "2025-12-05T19:49:23.452084+00:00",
     "mx": false,
-    "keywords": [
-      "support"
-    ],
-    "brand_match": null,
-    "brand_similarity": null,
-    "threat_score": 5,
-    "threat_level": "LOW"
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
   },
   {
-    "domain": "googl3.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/googl3.com.html",
-    "date": "2025-12-05T19:21:10.382738+00:00",
+    "domain": "api.test31.stage.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/api.test31.stage.paypal.com.html",
+    "date": "2025-12-05T19:49:23.413883+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "www-st.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/www-st.paypal.com.html",
+    "date": "2025-12-05T19:49:23.406840+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "lvs.stats.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/lvs.stats.paypal.com.html",
+    "date": "2025-12-05T19:49:23.393262+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "devsite-sni.developers.google.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/devsite-sni.developers.google.com.html",
+    "date": "2025-12-05T19:49:23.371670+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "slcppsso8878b.slc.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/slcppsso8878b.slc.paypal.com.html",
+    "date": "2025-12-05T19:49:23.330596+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "splunk.paypalinc.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/splunk.paypalinc.com.html",
+    "date": "2025-12-05T19:49:23.293821+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "ccg13ppsso7787.ccg13.slc.paypalinc.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/ccg13ppsso7787.ccg13.slc.paypalinc.com.html",
+    "date": "2025-12-05T19:49:23.259531+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "api.test22.stage.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/api.test22.stage.paypal.com.html",
+    "date": "2025-12-05T19:49:23.238215+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "ccg24airflow-dalm-web3.ccg24-hrzana-airflow.ccg24.lvs.paypalinc.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/ccg24airflow-dalm-web3.ccg24-hrzana-airflow.ccg24.lvs.paypalinc.com.html",
+    "date": "2025-12-05T19:49:23.218792+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "cors.api.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/cors.api.paypal.com.html",
+    "date": "2025-12-05T19:49:23.177987+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "www.test13.stage.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/www.test13.stage.paypal.com.html",
+    "date": "2025-12-05T19:49:23.151081+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "transfer.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/transfer.paypal.com.html",
+    "date": "2025-12-05T19:49:23.132207+00:00",
+    "mx": false,
+    "keywords": [
+      "transfer"
+    ],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 40,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "googletraveladservices-cn.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/googletraveladservices-cn.com.html",
+    "date": "2025-12-05T19:49:23.111095+00:00",
+    "mx": true,
+    "keywords": [
+      "service"
+    ],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 65,
+    "threat_level": "HIGH"
+  },
+  {
+    "domain": "console.in.cloud.google",
+    "link": "https://richesec.github.io/phishing-watchdog/check/console.in.cloud.google.html",
+    "date": "2025-12-05T19:49:22.976054+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "icloud",
     "brand_similarity": 0.83,
     "threat_score": 29,
     "threat_level": "MEDIUM"
   },
   {
-    "domain": "amazon-account-verify.net",
-    "link": "https://richesec.github.io/phishing-watchdog/check/amazon-account-verify.net.html",
-    "date": "2025-12-05T19:21:10.381652+00:00",
+    "domain": "raptordocssearch.qa.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/raptordocssearch.qa.paypal.com.html",
+    "date": "2025-12-05T19:49:22.932341+00:00",
     "mx": false,
-    "keywords": [
-      "verify",
-      "account"
-    ],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 60,
-    "threat_level": "HIGH"
-  },
-  {
-    "domain": "secure-paypal-login.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/secure-paypal-login.com.html",
-    "date": "2025-12-05T19:21:10.379215+00:00",
-    "mx": false,
-    "keywords": [
-      "login",
-      "secure"
-    ],
+    "keywords": [],
     "brand_match": "paypal",
     "brand_similarity": 1.0,
-    "threat_score": 60,
-    "threat_level": "HIGH"
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "gcd-poc-region2.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/gcd-poc-region2.paypal.com.html",
+    "date": "2025-12-05T19:49:22.894181+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "adjvendor.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/adjvendor.paypal.com.html",
+    "date": "2025-12-05T19:49:22.864466+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "s.svc-1.google.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/s.svc-1.google.com.html",
+    "date": "2025-12-05T19:49:22.825545+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "saml-enc.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/saml-enc.paypal.com.html",
+    "date": "2025-12-05T19:49:22.784877+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "internal.te-sispnodeweb.qa.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/internal.te-sispnodeweb.qa.paypal.com.html",
+    "date": "2025-12-05T19:49:22.760810+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "www.webhnotifications.stage.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/www.webhnotifications.stage.paypal.com.html",
+    "date": "2025-12-05T19:49:22.755195+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "gcd-poc-region2-az1.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/gcd-poc-region2-az1.paypal.com.html",
+    "date": "2025-12-05T19:49:22.734670+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "googlesverige.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/googlesverige.com.html",
+    "date": "2025-12-05T19:49:22.712369+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "pp-eu.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/pp-eu.paypal.com.html",
+    "date": "2025-12-05T19:49:22.600435+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "clickserver.googleads.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/clickserver.googleads.com.html",
+    "date": "2025-12-05T19:49:22.563153+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "api.test30.stage.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/api.test30.stage.paypal.com.html",
+    "date": "2025-12-05T19:49:22.456704+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "splunk.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/splunk.paypal.com.html",
+    "date": "2025-12-05T19:49:22.449153+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "pointofsale-s.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/pointofsale-s.paypal.com.html",
+    "date": "2025-12-05T19:49:22.415253+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "controlmem-upg-mops-api-admin.qa.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/controlmem-upg-mops-api-admin.qa.paypal.com.html",
+    "date": "2025-12-05T19:49:22.378095+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "partners2.stage.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/partners2.stage.paypal.com.html",
+    "date": "2025-12-05T19:49:22.356768+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "checkout.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/checkout.paypal.com.html",
+    "date": "2025-12-05T19:49:22.315795+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "dashboard-prodv2-genesis.paypalcorp.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/dashboard-prodv2-genesis.paypalcorp.com.html",
+    "date": "2025-12-05T19:49:22.276281+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
   }
 ]
