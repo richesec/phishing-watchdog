@@ -90,57 +90,73 @@ def get_recent_domains():
     for term in QUERY_TERMS:
         print(f"[*] Querying crt.sh for '%{term}%'...")
         
-        try:
-            # Query crt.sh for domains containing the term
-            url = f"https://crt.sh/?q=%25{term}%25&output=json"
-            r = requests.get(url, timeout=30, headers={
-                'User-Agent': 'PhishingWatchdog/1.0'
-            })
-            
-            if r.status_code != 200:
-                print(f"    [!] Status {r.status_code}, skipping")
-                continue
-                
+        # Retry logic with exponential backoff
+        max_retries = 3
+        for attempt in range(max_retries):
             try:
-                results = r.json()
-            except:
-                print(f"    [!] Invalid JSON response, skipping")
-                continue
-            
-            # Filter by date
-            count = 0
-            for c in results:
-                # Check if cert was issued recently
-                not_before = c.get("not_before", "")
-                if not_before:
-                    try:
-                        cert_date = datetime.fromisoformat(not_before.replace("T", " ").split(".")[0])
-                        if cert_date.replace(tzinfo=timezone.utc) < past:
-                            continue
-                    except:
-                        pass
+                # Query crt.sh for domains containing the term
+                url = f"https://crt.sh/?q=%25{term}%25&output=json"
+                r = requests.get(url, timeout=60, headers={
+                    'User-Agent': 'Mozilla/5.0 (compatible; PhishingWatchdog/1.0)'
+                })
                 
-                name = c.get("common_name") or ""
-                if name and "." in name:
-                    all_domains.add(name.lower().strip())
-                    count += 1
-
-                san = c.get("name_value") or ""
-                for d in san.split("\n"):
-                    d = d.strip().lower()
-                    if "." in d and not d.startswith("*"):
-                        all_domains.add(d)
+                if r.status_code == 502 or r.status_code == 503:
+                    wait_time = (attempt + 1) * 5  # 5s, 10s, 15s
+                    print(f"    [!] Status {r.status_code}, retry {attempt+1}/{max_retries} in {wait_time}s...")
+                    time.sleep(wait_time)
+                    continue
+                    
+                if r.status_code != 200:
+                    print(f"    [!] Status {r.status_code}, skipping")
+                    break
+                    
+                try:
+                    results = r.json()
+                except:
+                    print(f"    [!] Invalid JSON response, skipping")
+                    break
+                
+                # Filter by date
+                count = 0
+                for c in results:
+                    # Check if cert was issued recently
+                    not_before = c.get("not_before", "")
+                    if not_before:
+                        try:
+                            cert_date = datetime.fromisoformat(not_before.replace("T", " ").split(".")[0])
+                            if cert_date.replace(tzinfo=timezone.utc) < past:
+                                continue
+                        except:
+                            pass
+                    
+                    name = c.get("common_name") or ""
+                    if name and "." in name:
+                        all_domains.add(name.lower().strip())
                         count += 1
-            
-            print(f"    [+] Found {count} recent domains")
-            
-            # Brief pause to avoid rate limiting
-            time.sleep(1)
-            
-        except requests.exceptions.Timeout:
-            print(f"    [!] Timeout, skipping")
-        except Exception as e:
-            print(f"    [!] Error: {e}")
+
+                    san = c.get("name_value") or ""
+                    for d in san.split("\n"):
+                        d = d.strip().lower()
+                        if "." in d and not d.startswith("*"):
+                            all_domains.add(d)
+                            count += 1
+                
+                print(f"    [+] Found {count} recent domains")
+                break  # Success, exit retry loop
+                
+            except requests.exceptions.Timeout:
+                if attempt < max_retries - 1:
+                    wait_time = (attempt + 1) * 5
+                    print(f"    [!] Timeout, retry {attempt+1}/{max_retries} in {wait_time}s...")
+                    time.sleep(wait_time)
+                else:
+                    print(f"    [!] Timeout after {max_retries} attempts, skipping")
+            except Exception as e:
+                print(f"    [!] Error: {e}")
+                break
+        
+        # Longer pause between queries to avoid rate limiting (3 seconds)
+        time.sleep(3)
 
     print(f"[+] Total unique domains: {len(all_domains)}")
     return list(all_domains)
