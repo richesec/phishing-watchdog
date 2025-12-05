@@ -326,9 +326,9 @@ def save_json(data):
 
 
 def save_feed(data):
-    """Generate JSON feed with latest domains."""
+    """Generate JSON feed with all domains."""
     items = []
-    for d in reversed(data[-50:]):
+    for d in reversed(data):  # Include all domains, not just last 50
         url = f"{SITE_URL}/check/{quote(d['domain'])}.html"
         threat_score = d.get("threat_score", calculate_threat_score(d))
         items.append({
