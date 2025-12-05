@@ -767,6 +767,10 @@
                         </tbody>
                     </table>
                 </div>
+                <div id="pagination-controls" style="display:none; margin-top: 1.5rem; text-align: center;">
+                    <span id="showing-count" style="color: var(--text-secondary); font-size: 0.9rem; margin-right: 1rem;"></span>
+                    <button id="load-more-btn" class="btn btn-primary" onclick="loadMoreDomains()">Show More ↓</button>
+                </div>
             </div>
         </div>
 
@@ -778,6 +782,9 @@
 
     <script>
         let keywordChart, timelineChart;
+        let allDomains = [];
+        let displayedCount = 25;  // Initial display count
+        const LOAD_INCREMENT = 25;  // Load this many more each time
         
         // Color palette
         const colors = {
@@ -923,18 +930,28 @@
             `).join('');
         }
 
-        function updateDomainsTable(domains) {
+        function updateDomainsTable(domains, append = false) {
             const tbody = document.getElementById('domains-tbody');
+            const controls = document.getElementById('pagination-controls');
+            const showingSpan = document.getElementById('showing-count');
+            const loadMoreBtn = document.getElementById('load-more-btn');
             
             if (domains.length === 0) {
                 tbody.innerHTML = '<tr><td colspan="5" style="text-align:center">No domains detected</td></tr>';
+                controls.style.display = 'none';
                 return;
             }
             
-            // Sort by threat score descending
-            const sorted = [...domains].sort((a, b) => (b.threat_score || 0) - (a.threat_score || 0));
+            // Store all domains on first load
+            if (!append) {
+                allDomains = [...domains].sort((a, b) => (b.threat_score || 0) - (a.threat_score || 0));
+                displayedCount = 25;
+            }
             
-            tbody.innerHTML = sorted.slice(0, 15).map(d => {
+            // Get domains to display
+            const toShow = allDomains.slice(0, displayedCount);
+            
+            tbody.innerHTML = toShow.map(d => {
                 const tags = [];
                 if (d.brand_match) {
                     const similarity = d.brand_similarity ? Math.round(d.brand_similarity * 100) : 100;
@@ -979,6 +996,23 @@
                     </tr>
                 `;
             }).join('');
+            
+            // Update pagination controls
+            controls.style.display = 'flex';
+            controls.style.justifyContent = 'center';
+            controls.style.alignItems = 'center';
+            showingSpan.textContent = `Showing ${toShow.length} of ${allDomains.length} domains`;
+            
+            if (displayedCount >= allDomains.length) {
+                loadMoreBtn.style.display = 'none';
+            } else {
+                loadMoreBtn.style.display = 'inline-flex';
+            }
+        }
+        
+        function loadMoreDomains() {
+            displayedCount += LOAD_INCREMENT;
+            updateDomainsTable([], true);
         }
 
         function updateKeywordChart(domains) {
