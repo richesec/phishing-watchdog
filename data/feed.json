@@ -1,0 +1,139 @@
+[
+  {
+    "domain": "coinbase-support-help.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/coinbase-support-help.com.html",
+    "date": "2025-12-05T19:21:10.393253+00:00",
+    "mx": false,
+    "keywords": [
+      "support",
+      "help"
+    ],
+    "brand_match": "coinbase",
+    "brand_similarity": 1.0,
+    "threat_score": 45,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "apple-id-confirm.net",
+    "link": "https://richesec.github.io/phishing-watchdog/check/apple-id-confirm.net.html",
+    "date": "2025-12-05T19:21:10.391795+00:00",
+    "mx": false,
+    "keywords": [
+      "confirm"
+    ],
+    "brand_match": "apple",
+    "brand_similarity": 1.0,
+    "threat_score": 40,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "faceb00k-verify.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/faceb00k-verify.com.html",
+    "date": "2025-12-05T19:21:10.389196+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "netflix-password-reset.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/netflix-password-reset.com.html",
+    "date": "2025-12-05T19:21:10.388024+00:00",
+    "mx": false,
+    "keywords": [
+      "password",
+      "reset"
+    ],
+    "brand_match": "netflix",
+    "brand_similarity": 1.0,
+    "threat_score": 60,
+    "threat_level": "HIGH"
+  },
+  {
+    "domain": "crypto-wallet-recovery.io",
+    "link": "https://richesec.github.io/phishing-watchdog/check/crypto-wallet-recovery.io.html",
+    "date": "2025-12-05T19:21:10.386460+00:00",
+    "mx": false,
+    "keywords": [
+      "wallet",
+      "crypto",
+      "recovery",
+      "recover"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "bank-secure-login.org",
+    "link": "https://richesec.github.io/phishing-watchdog/check/bank-secure-login.org.html",
+    "date": "2025-12-05T19:21:10.385120+00:00",
+    "mx": false,
+    "keywords": [
+      "login",
+      "secure",
+      "bank"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 30,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "microsft-support.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/microsft-support.com.html",
+    "date": "2025-12-05T19:21:10.383861+00:00",
+    "mx": false,
+    "keywords": [
+      "support"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 5,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "googl3.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/googl3.com.html",
+    "date": "2025-12-05T19:21:10.382738+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 0.83,
+    "threat_score": 29,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "amazon-account-verify.net",
+    "link": "https://richesec.github.io/phishing-watchdog/check/amazon-account-verify.net.html",
+    "date": "2025-12-05T19:21:10.381652+00:00",
+    "mx": false,
+    "keywords": [
+      "verify",
+      "account"
+    ],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "threat_score": 60,
+    "threat_level": "HIGH"
+  },
+  {
+    "domain": "secure-paypal-login.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/secure-paypal-login.com.html",
+    "date": "2025-12-05T19:21:10.379215+00:00",
+    "mx": false,
+    "keywords": [
+      "login",
+      "secure"
+    ],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 60,
+    "threat_level": "HIGH"
+  }
+]

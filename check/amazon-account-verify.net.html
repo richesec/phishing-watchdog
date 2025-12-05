@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>⚠️ amazon-account-verify.net - Threat Score 60/100</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root {
+    --bg-primary: #0a0a0f;
+    --bg-card: #1a1a24;
+    --border: #2a2a3a;
+    --text-primary: #fff;
+    --text-secondary: #8b8b9e;
+    --accent: #00ff88;
+    --danger: #ff4757;
+    --threat-color: #ff4757;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+    font-family: 'Inter', -apple-system, sans-serif;
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    min-height: 100vh;
+    padding: 2rem;
+    line-height: 1.6;
+}
+.container { max-width: 800px; margin: 0 auto; }
+.threat-header {
+    text-align: center;
+    padding: 2rem;
+    background: linear-gradient(135deg, #ff475722, #ff6b7a11);
+    border: 1px solid #ff475744;
+    border-radius: 16px;
+    margin-bottom: 2rem;
+}
+.threat-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: #ff4757;
+    color: #000;
+    padding: 0.5rem 1rem;
+    border-radius: 50px;
+    font-weight: 700;
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+}
+.threat-score {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 4rem;
+    font-weight: 700;
+    color: #ff4757;
+    line-height: 1;
+}
+.threat-score span {
+    font-size: 1.5rem;
+    color: var(--text-secondary);
+}
+.domain-name {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 1.25rem;
+    color: var(--danger);
+    word-break: break-all;
+    margin-top: 1rem;
+    padding: 1rem;
+    background: var(--bg-card);
+    border-radius: 8px;
+}
+.card {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+.card h2 {
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+.card p { margin-bottom: 0.5rem; color: var(--text-secondary); }
+.card strong { color: var(--text-primary); }
+.card code {
+    background: var(--bg-primary);
+    padding: 0.2rem 0.5rem;
+    border-radius: 4px;
+    font-family: 'JetBrains Mono', monospace;
+}
+.card ul { margin-left: 1.5rem; color: var(--text-secondary); }
+.card li { margin-bottom: 0.25rem; }
+.score-breakdown {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1rem;
+    margin-top: 1rem;
+}
+.score-item {
+    background: var(--bg-primary);
+    padding: 1rem;
+    border-radius: 8px;
+    text-align: center;
+}
+.score-item .value {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+.score-item .label {
+    font-size: 0.75rem;
+    color: var(--text-secondary);
+    text-transform: uppercase;
+}
+.back-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: var(--accent);
+    text-decoration: none;
+    font-weight: 500;
+    margin-top: 1rem;
+}
+.back-link:hover { text-decoration: underline; }
+.mx-warning {
+    color: var(--danger);
+    font-weight: 600;
+}
+</style>
+</head>
+<body>
+<div class="container">
+
+<div class="threat-header">
+    <div class="threat-badge">⚡ HIGH THREAT</div>
+    <div class="threat-score">60<span>/100</span></div>
+    <div class="domain-name">🔗 amazon-account-verify.net</div>
+</div>
+
+<div class="card">
+    <h2>📊 Threat Analysis</h2>
+    <div class="score-breakdown">
+        <div class="score-item">
+            <div class="value" style="color: var(--accent)">NO</div>
+            <div class="label">MX Record</div>
+        </div>
+        <div class="score-item">
+            <div class="value" style="color: var(--threat-color)">100%</div>
+            <div class="label">Brand Match</div>
+        </div>
+        <div class="score-item">
+            <div class="value">2</div>
+            <div class="label">Keywords</div>
+        </div>
+        <div class="score-item">
+            <div class="value">YES</div>
+            <div class="label">Resolves</div>
+        </div>
+    </div>
+</div>
+
+<div class="card">
+    <h2>🔍 Detection Details</h2>
+    <p><strong>Detected:</strong> 2025-12-05T19:21:10.381652+00:00</p>
+    <p><strong>MX Record:</strong> No</p>
+    <p><strong>Matched Keywords:</strong> verify, account</p>
+    
+<p><strong>⚠️ Brand Impersonation:</strong> Targeting <code>amazon</code></p>
+<p><strong>Similarity Score:</strong> <span style="color: #ff4757; font-weight: bold;">100%</span> match (Levenshtein distance)</p>
+
+</div>
+
+<div class="card">
+    <h2>ℹ️ What This Means</h2>
+    <p>This domain was detected in Certificate Transparency logs and matches patterns commonly used in phishing attacks.</p>
+    <p>The <strong>Threat Score</strong> is calculated based on:</p>
+    <ul>
+        <li>MX Records (+25 pts) - Can receive emails</li>
+        <li>Brand Similarity (up to +35 pts) - Typosquatting detection</li>
+        <li>Keyword Matches (+5 pts each, max +25)</li>
+        <li>High-Risk Keywords (+15 pts bonus)</li>
+    </ul>
+</div>
+
+<div class="card">
+    <h2>🛡️ Protect Yourself</h2>
+    <ul>
+        <li>Never enter credentials on unfamiliar websites</li>
+        <li>Check URLs carefully for typos</li>
+        <li>Enable two-factor authentication</li>
+        <li>Use a password manager</li>
+        <li>Report suspicious domains to your security team</li>
+    </ul>
+</div>
+
+<a href="../index.html" class="back-link">← Back to Dashboard</a>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,1100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Phishing Watchdog 🐕 | Security Dashboard</title>
+    <meta name="description" content="Monitor suspicious domains from Certificate Transparency logs. Updated 4x daily.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        :root {
+            --bg-primary: #0a0a0f;
+            --bg-secondary: #12121a;
+            --bg-card: #1a1a24;
+            --bg-card-hover: #22222e;
+            --accent: #00ff88;
+            --accent-dim: #00ff8833;
+            --danger: #ff4757;
+            --danger-dim: #ff475722;
+            --warning: #ffa502;
+            --warning-dim: #ffa50222;
+            --info: #3b82f6;
+            --info-dim: #3b82f622;
+            --text-primary: #ffffff;
+            --text-secondary: #8b8b9e;
+            --border: #2a2a3a;
+            --gradient-1: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            --gradient-2: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+            --gradient-3: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+            --gradient-4: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            min-height: 100vh;
+            line-height: 1.6;
+        }
+
+        /* Animated background */
+        .bg-effects {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: 0;
+            overflow: hidden;
+        }
+
+        .bg-grid {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background-image: 
+                linear-gradient(rgba(0, 255, 136, 0.03) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(0, 255, 136, 0.03) 1px, transparent 1px);
+            background-size: 50px 50px;
+        }
+
+        .bg-glow {
+            position: absolute;
+            width: 600px;
+            height: 600px;
+            background: radial-gradient(circle, var(--accent-dim) 0%, transparent 70%);
+            top: -200px;
+            right: -200px;
+            animation: float 20s ease-in-out infinite;
+        }
+
+        .bg-glow-2 {
+            position: absolute;
+            width: 400px;
+            height: 400px;
+            background: radial-gradient(circle, var(--danger-dim) 0%, transparent 70%);
+            bottom: -100px;
+            left: -100px;
+            animation: float 15s ease-in-out infinite reverse;
+        }
+
+        @keyframes float {
+            0%, 100% { transform: translate(0, 0); }
+            50% { transform: translate(30px, 30px); }
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 1.5rem;
+            position: relative;
+            z-index: 1;
+        }
+
+        /* Header */
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1rem 0 2rem;
+            border-bottom: 1px solid var(--border);
+            margin-bottom: 2rem;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+
+        .brand {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .logo {
+            font-size: 2.5rem;
+            animation: pulse 2s ease-in-out infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.1); }
+        }
+
+        .brand-text h1 {
+            font-size: 1.75rem;
+            font-weight: 700;
+            background: linear-gradient(135deg, var(--accent), #00ccff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .brand-text p {
+            color: var(--text-secondary);
+            font-size: 0.85rem;
+        }
+
+        .header-actions {
+            display: flex;
+            gap: 1rem;
+            align-items: center;
+        }
+
+        .status-badge {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            background: var(--bg-card);
+            padding: 0.5rem 1rem;
+            border-radius: 50px;
+            border: 1px solid var(--border);
+            font-size: 0.85rem;
+        }
+
+        .status-dot {
+            width: 8px;
+            height: 8px;
+            background: var(--accent);
+            border-radius: 50%;
+            animation: blink 2s ease-in-out infinite;
+        }
+
+        @keyframes blink {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.3; }
+        }
+
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.6rem 1.2rem;
+            border-radius: 8px;
+            font-size: 0.9rem;
+            font-weight: 500;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            cursor: pointer;
+            border: none;
+        }
+
+        .btn-primary {
+            background: var(--accent);
+            color: var(--bg-primary);
+        }
+
+        .btn-primary:hover {
+            box-shadow: 0 0 20px var(--accent-dim);
+            transform: translateY(-2px);
+        }
+
+        .btn-outline {
+            background: transparent;
+            color: var(--accent);
+            border: 1px solid var(--accent);
+        }
+
+        .btn-outline:hover {
+            background: var(--accent);
+            color: var(--bg-primary);
+        }
+
+        /* Dashboard Grid */
+        .dashboard {
+            display: grid;
+            grid-template-columns: repeat(12, 1fr);
+            gap: 1.5rem;
+        }
+
+        .card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 1.5rem;
+            transition: all 0.3s ease;
+        }
+
+        .card:hover {
+            border-color: var(--accent);
+            box-shadow: 0 0 30px var(--accent-dim);
+        }
+
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1rem;
+        }
+
+        .card-title {
+            font-size: 0.9rem;
+            font-weight: 600;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .card-icon {
+            font-size: 1.25rem;
+        }
+
+        /* Stat Cards */
+        .stat-card {
+            grid-column: span 3;
+        }
+
+        .stat-value {
+            font-size: 2.5rem;
+            font-weight: 700;
+            font-family: 'JetBrains Mono', monospace;
+            line-height: 1;
+            margin-bottom: 0.25rem;
+        }
+
+        .stat-value.accent { color: var(--accent); }
+        .stat-value.danger { color: var(--danger); }
+        .stat-value.warning { color: var(--warning); }
+        .stat-value.info { color: var(--info); }
+
+        .stat-change {
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+        }
+
+        .stat-change.positive { color: var(--accent); }
+        .stat-change.negative { color: var(--danger); }
+
+        /* Chart Cards */
+        .chart-card {
+            grid-column: span 6;
+            min-height: 300px;
+        }
+
+        .chart-container {
+            position: relative;
+            height: 250px;
+        }
+
+        /* Threat Meter */
+        .threat-card {
+            grid-column: span 4;
+        }
+
+        .threat-meter {
+            position: relative;
+            height: 200px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .threat-gauge {
+            width: 180px;
+            height: 90px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .threat-gauge::before {
+            content: '';
+            position: absolute;
+            width: 180px;
+            height: 180px;
+            border-radius: 50%;
+            background: conic-gradient(
+                var(--accent) 0deg,
+                var(--warning) 120deg,
+                var(--danger) 240deg,
+                var(--danger) 360deg
+            );
+            opacity: 0.3;
+        }
+
+        .threat-gauge::after {
+            content: '';
+            position: absolute;
+            width: 140px;
+            height: 140px;
+            background: var(--bg-card);
+            border-radius: 50%;
+            top: 20px;
+            left: 20px;
+        }
+
+        .threat-needle {
+            position: absolute;
+            width: 4px;
+            height: 70px;
+            background: var(--text-primary);
+            bottom: 0;
+            left: 50%;
+            transform-origin: bottom center;
+            transform: translateX(-50%) rotate(var(--needle-rotation, -60deg));
+            border-radius: 2px;
+            z-index: 1;
+            transition: transform 1s ease-out;
+        }
+
+        .threat-label {
+            margin-top: 1rem;
+            font-size: 1.5rem;
+            font-weight: 700;
+            text-transform: uppercase;
+        }
+
+        .threat-label.low { color: var(--accent); }
+        .threat-label.medium { color: var(--warning); }
+        .threat-label.high { color: var(--danger); }
+
+        /* Activity Timeline */
+        .timeline-card {
+            grid-column: span 4;
+            max-height: 400px;
+            overflow: hidden;
+        }
+
+        .timeline {
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+            max-height: 320px;
+            overflow-y: auto;
+            padding-right: 0.5rem;
+        }
+
+        .timeline::-webkit-scrollbar {
+            width: 4px;
+        }
+
+        .timeline::-webkit-scrollbar-track {
+            background: var(--bg-secondary);
+            border-radius: 2px;
+        }
+
+        .timeline::-webkit-scrollbar-thumb {
+            background: var(--border);
+            border-radius: 2px;
+        }
+
+        .timeline-item {
+            display: flex;
+            gap: 0.75rem;
+            padding: 0.75rem;
+            background: var(--bg-secondary);
+            border-radius: 8px;
+            transition: all 0.3s ease;
+        }
+
+        .timeline-item:hover {
+            background: var(--bg-card-hover);
+            transform: translateX(5px);
+        }
+
+        .timeline-icon {
+            width: 32px;
+            height: 32px;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.9rem;
+            flex-shrink: 0;
+        }
+
+        .timeline-icon.danger { background: var(--danger-dim); }
+        .timeline-icon.warning { background: var(--warning-dim); }
+        .timeline-icon.info { background: var(--info-dim); }
+
+        .timeline-content {
+            flex: 1;
+            min-width: 0;
+        }
+
+        .timeline-domain {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            color: var(--danger);
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .timeline-meta {
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+        }
+
+        /* Domains Table */
+        .table-card {
+            grid-column: span 8;
+        }
+
+        .domains-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        .domains-table th,
+        .domains-table td {
+            padding: 1rem;
+            text-align: left;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .domains-table th {
+            font-size: 0.75rem;
+            font-weight: 600;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .domains-table tr:hover td {
+            background: var(--bg-secondary);
+        }
+
+        .domains-table .domain-name {
+            font-family: 'JetBrains Mono', monospace;
+            color: var(--danger);
+            font-size: 0.9rem;
+        }
+
+        .tag {
+            display: inline-block;
+            padding: 0.2rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.7rem;
+            font-weight: 600;
+            margin-right: 0.25rem;
+        }
+
+        .tag-brand { background: var(--warning-dim); color: var(--warning); }
+        .tag-keyword { background: var(--info-dim); color: var(--info); }
+        .tag-mx { background: var(--danger-dim); color: var(--danger); }
+
+        .view-btn {
+            color: var(--accent);
+            text-decoration: none;
+            font-size: 0.85rem;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.25rem;
+            transition: all 0.3s ease;
+        }
+
+        .view-btn:hover {
+            gap: 0.5rem;
+        }
+
+        /* Top Brands */
+        .brands-card {
+            grid-column: span 4;
+        }
+
+        .brand-list {
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+        }
+
+        .brand-item {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .brand-name {
+            flex: 1;
+            font-weight: 500;
+        }
+
+        .brand-bar {
+            flex: 2;
+            height: 8px;
+            background: var(--bg-secondary);
+            border-radius: 4px;
+            overflow: hidden;
+        }
+
+        .brand-bar-fill {
+            height: 100%;
+            border-radius: 4px;
+            transition: width 1s ease-out;
+        }
+
+        .brand-count {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            min-width: 30px;
+            text-align: right;
+        }
+
+        /* Loading */
+        .loading {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 200px;
+            color: var(--text-secondary);
+        }
+
+        .loading-spinner {
+            width: 40px;
+            height: 40px;
+            border: 3px solid var(--border);
+            border-top-color: var(--accent);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin-bottom: 1rem;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 2rem 0;
+            margin-top: 2rem;
+            border-top: 1px solid var(--border);
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+        }
+
+        footer a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        /* Responsive */
+        @media (max-width: 1200px) {
+            .stat-card { grid-column: span 6; }
+            .chart-card { grid-column: span 12; }
+            .threat-card { grid-column: span 6; }
+            .timeline-card { grid-column: span 6; }
+            .table-card { grid-column: span 12; }
+            .brands-card { grid-column: span 12; }
+        }
+
+        @media (max-width: 768px) {
+            .container { padding: 1rem; }
+            .stat-card { grid-column: span 6; }
+            .threat-card { grid-column: span 12; }
+            .timeline-card { grid-column: span 12; }
+            
+            header {
+                flex-direction: column;
+                text-align: center;
+            }
+            
+            .brand {
+                flex-direction: column;
+            }
+            
+            .stat-value {
+                font-size: 2rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .stat-card { grid-column: span 12; }
+        }
+    </style>
+</head>
+<body>
+    <div class="bg-effects">
+        <div class="bg-grid"></div>
+        <div class="bg-glow"></div>
+        <div class="bg-glow-2"></div>
+    </div>
+    
+    <div class="container">
+        <header>
+            <div class="brand">
+                <div class="logo">🐕</div>
+                <div class="brand-text">
+                    <h1>Phishing Watchdog</h1>
+                    <p>Certificate Transparency Monitor</p>
+                </div>
+            </div>
+            <div class="header-actions">
+                <div class="status-badge">
+                    <span class="status-dot"></span>
+                    <span id="last-update">Loading...</span>
+                </div>
+                <a href="data/feed.json" class="btn btn-outline">📡 JSON Feed</a>
+            </div>
+        </header>
+
+        <div class="dashboard">
+            <!-- Stat Cards -->
+            <div class="card stat-card">
+                <div class="card-header">
+                    <span class="card-title">Total Domains</span>
+                    <span class="card-icon">🎯</span>
+                </div>
+                <div class="stat-value accent" id="stat-total">--</div>
+                <div class="stat-change" id="stat-total-change">Loading data...</div>
+            </div>
+
+            <div class="card stat-card">
+                <div class="card-header">
+                    <span class="card-title">Brand Impersonation</span>
+                    <span class="card-icon">🏷️</span>
+                </div>
+                <div class="stat-value warning" id="stat-brands">--</div>
+                <div class="stat-change">Typosquatting attempts</div>
+            </div>
+
+            <div class="card stat-card">
+                <div class="card-header">
+                    <span class="card-title">Email Capable</span>
+                    <span class="card-icon">📧</span>
+                </div>
+                <div class="stat-value danger" id="stat-mx">--</div>
+                <div class="stat-change">Has MX records</div>
+            </div>
+
+            <div class="card stat-card">
+                <div class="card-header">
+                    <span class="card-title">Update Frequency</span>
+                    <span class="card-icon">⏱️</span>
+                </div>
+                <div class="stat-value info">4x</div>
+                <div class="stat-change">Daily (every 6 hours)</div>
+            </div>
+
+            <!-- Keyword Distribution Chart -->
+            <div class="card chart-card">
+                <div class="card-header">
+                    <span class="card-title">Keyword Distribution</span>
+                    <span class="card-icon">📊</span>
+                </div>
+                <div class="chart-container">
+                    <canvas id="keywordChart"></canvas>
+                </div>
+            </div>
+
+            <!-- Detection Timeline Chart -->
+            <div class="card chart-card">
+                <div class="card-header">
+                    <span class="card-title">Detection Timeline</span>
+                    <span class="card-icon">📈</span>
+                </div>
+                <div class="chart-container">
+                    <canvas id="timelineChart"></canvas>
+                </div>
+            </div>
+
+            <!-- Threat Level Meter -->
+            <div class="card threat-card">
+                <div class="card-header">
+                    <span class="card-title">Current Threat Level</span>
+                    <span class="card-icon">⚡</span>
+                </div>
+                <div class="threat-meter">
+                    <div class="threat-gauge">
+                        <div class="threat-needle" id="threat-needle"></div>
+                    </div>
+                    <div class="threat-label" id="threat-label">ANALYZING</div>
+                    <div class="stat-change" id="threat-desc">Calculating...</div>
+                </div>
+            </div>
+
+            <!-- Activity Timeline -->
+            <div class="card timeline-card">
+                <div class="card-header">
+                    <span class="card-title">Recent Activity</span>
+                    <span class="card-icon">🕐</span>
+                </div>
+                <div class="timeline" id="timeline">
+                    <div class="loading">
+                        <div class="loading-spinner"></div>
+                        <span>Loading...</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Top Targeted Brands -->
+            <div class="card brands-card">
+                <div class="card-header">
+                    <span class="card-title">Top Targeted Brands</span>
+                    <span class="card-icon">🎯</span>
+                </div>
+                <div class="brand-list" id="brand-list">
+                    <div class="loading">
+                        <div class="loading-spinner"></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Domains Table -->
+            <div class="card table-card">
+                <div class="card-header">
+                    <span class="card-title">Suspicious Domains</span>
+                    <span class="card-icon">⚠️</span>
+                </div>
+                <div style="overflow-x: auto;">
+                    <table class="domains-table">
+                        <thead>
+                            <tr>
+                                <th>Domain</th>
+                                <th>Threat</th>
+                                <th>Indicators</th>
+                                <th>Detected</th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+                        <tbody id="domains-tbody">
+                            <tr>
+                                <td colspan="5" class="loading">
+                                    <div class="loading-spinner"></div>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            <p>🛡️ Data sourced from <a href="https://crt.sh" target="_blank">crt.sh</a> Certificate Transparency logs</p>
+            <p style="margin-top: 0.5rem;">Protecting users from phishing • Updated every 6 hours</p>
+        </footer>
+    </div>
+
+    <script>
+        let keywordChart, timelineChart;
+        
+        // Color palette
+        const colors = {
+            accent: '#00ff88',
+            danger: '#ff4757',
+            warning: '#ffa502',
+            info: '#3b82f6',
+            purple: '#a855f7',
+            pink: '#ec4899'
+        };
+
+        async function loadDashboard() {
+            try {
+                const response = await fetch('data/feed.json');
+                const domains = await response.json();
+                
+                updateStats(domains);
+                updateThreatLevel(domains);
+                updateTimeline(domains);
+                updateBrandList(domains);
+                updateDomainsTable(domains);
+                updateKeywordChart(domains);
+                updateTimelineChart(domains);
+                
+                // Update last refresh time
+                document.getElementById('last-update').textContent = 
+                    'Updated ' + new Date().toLocaleTimeString();
+                
+            } catch (error) {
+                console.error('Failed to load data:', error);
+                document.getElementById('last-update').textContent = 'Error loading data';
+            }
+        }
+
+        function updateStats(domains) {
+            document.getElementById('stat-total').textContent = domains.length;
+            document.getElementById('stat-brands').textContent = 
+                domains.filter(d => d.brand_match).length;
+            document.getElementById('stat-mx').textContent = 
+                domains.filter(d => d.mx).length;
+            document.getElementById('stat-total-change').textContent = 
+                `Tracked in database`;
+        }
+
+        function updateThreatLevel(domains) {
+            const mxCount = domains.filter(d => d.mx).length;
+            const brandCount = domains.filter(d => d.brand_match).length;
+            const total = domains.length;
+            
+            // Calculate threat score (0-100)
+            let score = 0;
+            if (total > 0) {
+                score = Math.min(100, 
+                    (total * 2) + 
+                    (brandCount * 5) + 
+                    (mxCount * 10)
+                );
+            }
+            
+            // Convert to rotation (-60 to 60 degrees)
+            const rotation = -60 + (score / 100 * 120);
+            
+            const needle = document.getElementById('threat-needle');
+            const label = document.getElementById('threat-label');
+            const desc = document.getElementById('threat-desc');
+            
+            needle.style.setProperty('--needle-rotation', rotation + 'deg');
+            
+            if (score < 30) {
+                label.textContent = 'LOW';
+                label.className = 'threat-label low';
+                desc.textContent = 'Normal activity detected';
+            } else if (score < 70) {
+                label.textContent = 'MODERATE';
+                label.className = 'threat-label medium';
+                desc.textContent = 'Elevated phishing activity';
+            } else {
+                label.textContent = 'HIGH';
+                label.className = 'threat-label high';
+                desc.textContent = 'Significant threats detected';
+            }
+        }
+
+        function updateTimeline(domains) {
+            const container = document.getElementById('timeline');
+            
+            if (domains.length === 0) {
+                container.innerHTML = '<p style="text-align:center;color:var(--text-secondary)">No recent activity</p>';
+                return;
+            }
+            
+            container.innerHTML = domains.slice(0, 10).map(d => {
+                const iconClass = d.brand_match ? 'warning' : (d.mx ? 'danger' : 'info');
+                const icon = d.brand_match ? '🎯' : (d.mx ? '📧' : '⚠️');
+                
+                return `
+                    <div class="timeline-item">
+                        <div class="timeline-icon ${iconClass}">${icon}</div>
+                        <div class="timeline-content">
+                            <div class="timeline-domain">${d.domain}</div>
+                            <div class="timeline-meta">
+                                ${d.brand_match ? `Impersonating ${d.brand_match}` : 
+                                  d.keywords?.slice(0,2).join(', ') || 'Suspicious'} 
+                                • ${getTimeAgo(new Date(d.date))}
+                            </div>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        function updateBrandList(domains) {
+            const container = document.getElementById('brand-list');
+            
+            // Count brand occurrences
+            const brandCounts = {};
+            domains.forEach(d => {
+                if (d.brand_match) {
+                    brandCounts[d.brand_match] = (brandCounts[d.brand_match] || 0) + 1;
+                }
+            });
+            
+            const sortedBrands = Object.entries(brandCounts)
+                .sort((a, b) => b[1] - a[1])
+                .slice(0, 5);
+            
+            if (sortedBrands.length === 0) {
+                container.innerHTML = '<p style="text-align:center;color:var(--text-secondary)">No brand matches yet</p>';
+                return;
+            }
+            
+            const maxCount = sortedBrands[0][1];
+            const barColors = [colors.danger, colors.warning, colors.info, colors.purple, colors.pink];
+            
+            container.innerHTML = sortedBrands.map(([brand, count], i) => `
+                <div class="brand-item">
+                    <span class="brand-name">${brand}</span>
+                    <div class="brand-bar">
+                        <div class="brand-bar-fill" style="width: ${count/maxCount*100}%; background: ${barColors[i]}"></div>
+                    </div>
+                    <span class="brand-count">${count}</span>
+                </div>
+            `).join('');
+        }
+
+        function updateDomainsTable(domains) {
+            const tbody = document.getElementById('domains-tbody');
+            
+            if (domains.length === 0) {
+                tbody.innerHTML = '<tr><td colspan="5" style="text-align:center">No domains detected</td></tr>';
+                return;
+            }
+            
+            // Sort by threat score descending
+            const sorted = [...domains].sort((a, b) => (b.threat_score || 0) - (a.threat_score || 0));
+            
+            tbody.innerHTML = sorted.slice(0, 15).map(d => {
+                const tags = [];
+                if (d.brand_match) {
+                    const similarity = d.brand_similarity ? Math.round(d.brand_similarity * 100) : 100;
+                    tags.push(`<span class="tag tag-brand">🎯 ${d.brand_match} (${similarity}%)</span>`);
+                }
+                if (d.mx) tags.push(`<span class="tag tag-mx">📧 MX</span>`);
+                if (d.keywords) {
+                    d.keywords.slice(0, 2).forEach(k => 
+                        tags.push(`<span class="tag tag-keyword">${k}</span>`)
+                    );
+                }
+                
+                // Threat score badge
+                const score = d.threat_score || 0;
+                const level = d.threat_level || 'LOW';
+                const scoreColor = level === 'CRITICAL' ? '#ff1744' : 
+                                   level === 'HIGH' ? '#ff4757' : 
+                                   level === 'MEDIUM' ? '#ffa502' : '#00ff88';
+                
+                return `
+                    <tr>
+                        <td class="domain-name">${d.domain}</td>
+                        <td>
+                            <span style="
+                                display: inline-flex;
+                                align-items: center;
+                                gap: 0.25rem;
+                                background: ${scoreColor}22;
+                                color: ${scoreColor};
+                                padding: 0.25rem 0.5rem;
+                                border-radius: 4px;
+                                font-family: 'JetBrains Mono', monospace;
+                                font-size: 0.8rem;
+                                font-weight: 600;
+                            ">
+                                ⚡ ${score}
+                            </span>
+                        </td>
+                        <td>${tags.join(' ')}</td>
+                        <td style="color:var(--text-secondary)">${getTimeAgo(new Date(d.date))}</td>
+                        <td><a href="${d.link}" class="view-btn">View →</a></td>
+                    </tr>
+                `;
+            }).join('');
+        }
+
+        function updateKeywordChart(domains) {
+            const keywordCounts = {};
+            domains.forEach(d => {
+                (d.keywords || []).forEach(k => {
+                    keywordCounts[k] = (keywordCounts[k] || 0) + 1;
+                });
+            });
+            
+            const sorted = Object.entries(keywordCounts)
+                .sort((a, b) => b[1] - a[1])
+                .slice(0, 8);
+            
+            const ctx = document.getElementById('keywordChart').getContext('2d');
+            
+            if (keywordChart) keywordChart.destroy();
+            
+            keywordChart = new Chart(ctx, {
+                type: 'doughnut',
+                data: {
+                    labels: sorted.map(([k]) => k),
+                    datasets: [{
+                        data: sorted.map(([, v]) => v),
+                        backgroundColor: [
+                            '#ff4757', '#ffa502', '#3b82f6', '#00ff88',
+                            '#a855f7', '#ec4899', '#06b6d4', '#84cc16'
+                        ],
+                        borderWidth: 0
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            position: 'right',
+                            labels: { color: '#8b8b9e', font: { size: 11 } }
+                        }
+                    }
+                }
+            });
+        }
+
+        function updateTimelineChart(domains) {
+            // Group by hour
+            const hourCounts = {};
+            const now = new Date();
+            
+            for (let i = 23; i >= 0; i--) {
+                const hour = new Date(now - i * 3600000);
+                const key = hour.getHours() + ':00';
+                hourCounts[key] = 0;
+            }
+            
+            domains.forEach(d => {
+                const date = new Date(d.date);
+                const key = date.getHours() + ':00';
+                if (hourCounts.hasOwnProperty(key)) {
+                    hourCounts[key]++;
+                }
+            });
+            
+            const ctx = document.getElementById('timelineChart').getContext('2d');
+            
+            if (timelineChart) timelineChart.destroy();
+            
+            timelineChart = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: Object.keys(hourCounts),
+                    datasets: [{
+                        label: 'Detections',
+                        data: Object.values(hourCounts),
+                        borderColor: colors.accent,
+                        backgroundColor: colors.accent + '22',
+                        fill: true,
+                        tension: 0.4,
+                        pointRadius: 3,
+                        pointHoverRadius: 6
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: { display: false }
+                    },
+                    scales: {
+                        x: {
+                            grid: { color: '#2a2a3a' },
+                            ticks: { color: '#8b8b9e', maxTicksLimit: 8 }
+                        },
+                        y: {
+                            grid: { color: '#2a2a3a' },
+                            ticks: { color: '#8b8b9e', stepSize: 1 },
+                            beginAtZero: true
+                        }
+                    }
+                }
+            });
+        }
+
+        function getTimeAgo(date) {
+            const seconds = Math.floor((new Date() - date) / 1000);
+            if (seconds < 60) return 'just now';
+            if (seconds < 3600) return Math.floor(seconds / 60) + 'm ago';
+            if (seconds < 86400) return Math.floor(seconds / 3600) + 'h ago';
+            return Math.floor(seconds / 86400) + 'd ago';
+        }
+
+        // Load on page load
+        loadDashboard();
+        
+        // Auto-refresh every 2 minutes
+        setInterval(loadDashboard, 2 * 60 * 1000);
+    </script>
+</body>
+</html>

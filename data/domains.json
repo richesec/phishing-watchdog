@@ -1,0 +1,139 @@
+[
+  {
+    "domain": "secure-paypal-login.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "login",
+      "secure"
+    ],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2025-12-05T19:21:10.379215+00:00",
+    "threat_score": 60,
+    "threat_level": "HIGH"
+  },
+  {
+    "domain": "amazon-account-verify.net",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify",
+      "account"
+    ],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2025-12-05T19:21:10.381652+00:00",
+    "threat_score": 60,
+    "threat_level": "HIGH"
+  },
+  {
+    "domain": "googl3.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 0.83,
+    "date": "2025-12-05T19:21:10.382738+00:00",
+    "threat_score": 29,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "microsft-support.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "support"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2025-12-05T19:21:10.383861+00:00",
+    "threat_score": 5,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "bank-secure-login.org",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "login",
+      "secure",
+      "bank"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2025-12-05T19:21:10.385120+00:00",
+    "threat_score": 30,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "crypto-wallet-recovery.io",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "wallet",
+      "crypto",
+      "recovery",
+      "recover"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2025-12-05T19:21:10.386460+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "netflix-password-reset.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "password",
+      "reset"
+    ],
+    "brand_match": "netflix",
+    "brand_similarity": 1.0,
+    "date": "2025-12-05T19:21:10.388024+00:00",
+    "threat_score": 60,
+    "threat_level": "HIGH"
+  },
+  {
+    "domain": "faceb00k-verify.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2025-12-05T19:21:10.389196+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "apple-id-confirm.net",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "confirm"
+    ],
+    "brand_match": "apple",
+    "brand_similarity": 1.0,
+    "date": "2025-12-05T19:21:10.391795+00:00",
+    "threat_score": 40,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "coinbase-support-help.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "support",
+      "help"
+    ],
+    "brand_match": "coinbase",
+    "brand_similarity": 1.0,
+    "date": "2025-12-05T19:21:10.393253+00:00",
+    "threat_score": 45,
+    "threat_level": "MEDIUM"
+  }
+]
