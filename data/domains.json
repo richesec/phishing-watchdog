@@ -7486,5 +7486,31 @@
     "date": "2025-12-06T06:19:37.620470+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "kucoin-login--doc.pages.dev",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "login"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2025-12-06T18:18:43.260867+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "robinhood--login--run.pages.dev",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "login"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2025-12-06T18:18:43.293948+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]
