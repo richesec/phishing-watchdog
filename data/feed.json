@@ -1,5 +1,16 @@
 [
   {
+    "domain": "wifi.google.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/wifi.google.com.html",
+    "date": "2025-12-09T06:21:45.534701+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "poc-edge.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/poc-edge.paypal.com.html",
     "date": "2025-12-09T00:56:16.215185+00:00",
