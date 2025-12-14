@@ -10312,5 +10312,70 @@
     "date": "2025-12-13T00:55:24.067718+00:00",
     "threat_score": 40,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "login--enn---cooo--trezrr.pages.dev",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "login"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2025-12-14T18:19:18.653578+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "kraken-login--run.pages.dev",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "login"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2025-12-14T18:19:18.730624+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "view-login-trezr--x.pages.dev",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [
+      "login"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2025-12-14T18:19:18.781993+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "login---ledger.pages.dev",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "login"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2025-12-14T18:19:18.817288+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "trezrr-login--cdn.pages.dev",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "login"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2025-12-14T18:19:18.853846+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]
