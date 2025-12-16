@@ -10612,5 +10612,32 @@
     "date": "2025-12-16T00:57:51.451775+00:00",
     "threat_score": 20,
     "threat_level": "LOW"
+  },
+  {
+    "domain": "trezor--wallet--cdn.pages.dev",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2025-12-16T06:21:54.314569+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "wallet-trzr--login.pages.dev",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "login",
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2025-12-16T06:21:54.341524+00:00",
+    "threat_score": 25,
+    "threat_level": "MEDIUM"
   }
 ]
