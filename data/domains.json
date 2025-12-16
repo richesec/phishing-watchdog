@@ -10678,5 +10678,83 @@
     "date": "2025-12-16T12:26:32.033960+00:00",
     "threat_score": 20,
     "threat_level": "LOW"
+  },
+  {
+    "domain": "wallet--web3-exods-us.pages.dev",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2025-12-16T18:20:42.369927+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "public-login--trezur.pages.dev",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "login"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2025-12-16T18:20:42.407088+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "verify-sy-cms--store-chatbot-dev.us-central1.hosted.app",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2025-12-16T18:20:42.789622+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "wallet--web3--exods-app.pages.dev",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2025-12-16T18:20:42.827827+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "trezor-wallet--os.pages.dev",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2025-12-16T18:20:42.874317+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "wallet--web3--exods-us.pages.dev",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2025-12-16T18:20:42.935987+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]
