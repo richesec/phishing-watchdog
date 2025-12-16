@@ -10639,5 +10639,44 @@
     "date": "2025-12-16T06:21:54.341524+00:00",
     "threat_score": 25,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "login--io-trezr.pages.dev",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "login"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2025-12-16T12:26:31.969070+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "login---example.pages.dev",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "login"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2025-12-16T12:26:31.989588+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "login--coinsmartt.pages.dev",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "login"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2025-12-16T12:26:32.033960+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]
