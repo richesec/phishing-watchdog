@@ -10808,5 +10808,18 @@
     "date": "2025-12-18T00:54:17.270946+00:00",
     "threat_score": 20,
     "threat_level": "LOW"
+  },
+  {
+    "domain": "api-verify--captcha--london.southcat.cc",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2025-12-18T06:21:21.933764+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]
