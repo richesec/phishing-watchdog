@@ -1,5 +1,31 @@
 [
   {
+    "domain": "rabby--wallet--app.pages.dev",
+    "link": "https://richesec.github.io/phishing-watchdog/check/rabby--wallet--app.pages.dev.html",
+    "date": "2025-12-19T12:24:37.320342+00:00",
+    "mx": false,
+    "keywords": [
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "thorchainn-wallet--guide.pages.dev",
+    "link": "https://richesec.github.io/phishing-watchdog/check/thorchainn-wallet--guide.pages.dev.html",
+    "date": "2025-12-19T12:24:37.298738+00:00",
+    "mx": false,
+    "keywords": [
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "api-edge.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/api-edge.paypal.com.html",
     "date": "2025-12-19T06:22:31.915423+00:00",
@@ -11242,28 +11268,6 @@
     "domain": "threeds-discover.stage.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/threeds-discover.stage.paypal.com.html",
     "date": "2025-12-05T19:48:43.402773+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "besx-airflow-webserver-01.dev51-test-apps-besx-admin.dev51.cbf.dev.paypalinc.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/besx-airflow-webserver-01.dev51-test-apps-besx-admin.dev51.cbf.dev.paypalinc.com.html",
-    "date": "2025-12-05T19:48:43.362487+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "te-xoom-08.qa.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/te-xoom-08.qa.paypal.com.html",
-    "date": "2025-12-05T19:48:43.341149+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "paypal",
