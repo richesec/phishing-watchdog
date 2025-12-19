@@ -1,5 +1,18 @@
 [
   {
+    "domain": "bck-228-wallet-balance--www.biggg.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/bck-228-wallet-balance--www.biggg.com.html",
+    "date": "2025-12-19T18:23:59.868180+00:00",
+    "mx": false,
+    "keywords": [
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "rabby--wallet--app.pages.dev",
     "link": "https://richesec.github.io/phishing-watchdog/check/rabby--wallet--app.pages.dev.html",
     "date": "2025-12-19T12:24:37.320342+00:00",
@@ -11257,17 +11270,6 @@
     "domain": "ccg13splunksrchgp2.ccg13.slc.paypalinc.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/ccg13splunksrchgp2.ccg13.slc.paypalinc.com.html",
     "date": "2025-12-05T19:48:43.436734+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "threeds-discover.stage.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/threeds-discover.stage.paypal.com.html",
-    "date": "2025-12-05T19:48:43.402773+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "paypal",

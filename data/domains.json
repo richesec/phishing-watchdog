@@ -1,16 +1,5 @@
 [
   {
-    "domain": "threeds-discover.stage.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2025-12-05T19:48:43.402773+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "ccg13splunksrchgp2.ccg13.slc.paypalinc.com",
     "mx": false,
     "has_ip": false,
@@ -11272,6 +11261,19 @@
     "brand_match": null,
     "brand_similarity": null,
     "date": "2025-12-19T12:24:37.320342+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "bck-228-wallet-balance--www.biggg.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2025-12-19T18:23:59.868180+00:00",
     "threat_score": 20,
     "threat_level": "LOW"
   }
