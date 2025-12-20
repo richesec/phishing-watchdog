@@ -1,5 +1,27 @@
 [
   {
+    "domain": "google.dev",
+    "link": "https://richesec.github.io/phishing-watchdog/check/google.dev.html",
+    "date": "2025-12-20T18:16:35.052808+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "m.paypal.it",
+    "link": "https://richesec.github.io/phishing-watchdog/check/m.paypal.it.html",
+    "date": "2025-12-20T18:16:34.974862+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "deepmind.google.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/deepmind.google.com.html",
     "date": "2025-12-20T12:22:43.895826+00:00",
@@ -11250,28 +11272,6 @@
     "domain": "www.te-federated.qa.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/www.te-federated.qa.paypal.com.html",
     "date": "2025-12-05T19:48:45.029471+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "deploy.genesis.qa.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/deploy.genesis.qa.paypal.com.html",
-    "date": "2025-12-05T19:48:45.008332+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "www.mercadopago.stage.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/www.mercadopago.stage.paypal.com.html",
-    "date": "2025-12-05T19:48:44.987790+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "paypal",
