@@ -1,5 +1,18 @@
 [
   {
+    "domain": "verify-batch--accessflow--test.acsb-test.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/verify-batch--accessflow--test.acsb-test.com.html",
+    "date": "2025-12-21T12:25:24.715079+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "www.braintreepayments.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/www.braintreepayments.com.html",
     "date": "2025-12-21T06:21:15.646678+00:00",
@@ -11249,17 +11262,6 @@
     "domain": "www.test43.stage.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/www.test43.stage.paypal.com.html",
     "date": "2025-12-05T19:48:48.066402+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "developer.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/developer.paypal.com.html",
-    "date": "2025-12-05T19:48:48.055771+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "paypal",

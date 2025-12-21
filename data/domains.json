@@ -1,16 +1,5 @@
 [
   {
-    "domain": "developer.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2025-12-05T19:48:48.055771+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "www.test43.stage.paypal.com",
     "mx": false,
     "has_ip": true,
@@ -11265,6 +11254,19 @@
     "brand_similarity": null,
     "date": "2025-12-21T06:21:15.646678+00:00",
     "threat_score": 5,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "verify-batch--accessflow--test.acsb-test.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2025-12-21T12:25:24.715079+00:00",
+    "threat_score": 20,
     "threat_level": "LOW"
   }
 ]
