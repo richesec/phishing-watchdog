@@ -1,16 +1,5 @@
 [
   {
-    "domain": "demo.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2025-12-05T19:49:09.786972+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "node-genesisadminserv-vip.dev52.cbf.dev.paypalinc.com",
     "mx": false,
     "has_ip": false,
@@ -11234,5 +11223,18 @@
     "date": "2025-12-22T01:00:12.323809+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "trezor-wallet--faq.pages.dev",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2025-12-22T06:22:12.708485+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]
