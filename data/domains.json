@@ -1,27 +1,5 @@
 [
   {
-    "domain": "node-genesisadminserv-vip.dev52.cbf.dev.paypalinc.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2025-12-05T19:49:09.813177+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ai.google.dev",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "google",
-    "brand_similarity": 1.0,
-    "date": "2025-12-05T19:49:09.984919+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "www.cardinal.stage.paypal.com",
     "mx": false,
     "has_ip": true,
@@ -11236,5 +11214,32 @@
     "date": "2025-12-22T06:22:12.708485+00:00",
     "threat_score": 20,
     "threat_level": "LOW"
+  },
+  {
+    "domain": "uphold-wallet--us-eng.pages.dev",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2025-12-22T12:25:18.640123+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "safe-trezor-wallet--faq.pages.dev",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "safe",
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2025-12-22T12:25:18.680228+00:00",
+    "threat_score": 25,
+    "threat_level": "MEDIUM"
   }
 ]
