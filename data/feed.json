@@ -1,5 +1,32 @@
 [
   {
+    "domain": "wallet-trezor--cdn.pages.dev",
+    "link": "https://richesec.github.io/phishing-watchdog/check/wallet-trezor--cdn.pages.dev.html",
+    "date": "2025-12-22T18:20:15.694365+00:00",
+    "mx": false,
+    "keywords": [
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "trezor-wallet--secure-doc.pages.dev",
+    "link": "https://richesec.github.io/phishing-watchdog/check/trezor-wallet--secure-doc.pages.dev.html",
+    "date": "2025-12-22T18:20:15.652433+00:00",
+    "mx": false,
+    "keywords": [
+      "secure",
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 25,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "safe-trezor-wallet--faq.pages.dev",
     "link": "https://richesec.github.io/phishing-watchdog/check/safe-trezor-wallet--faq.pages.dev.html",
     "date": "2025-12-22T12:25:18.680228+00:00",
@@ -11213,28 +11240,6 @@
     "domain": "cloudmonitor15.poc-dynamic.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/cloudmonitor15.poc-dynamic.paypal.com.html",
     "date": "2025-12-05T19:49:10.119744+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "datasetsearch.research.google.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/datasetsearch.research.google.com.html",
-    "date": "2025-12-05T19:49:10.055953+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "google",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "www.cardinal.stage.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/www.cardinal.stage.paypal.com.html",
-    "date": "2025-12-05T19:49:10.010225+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "paypal",

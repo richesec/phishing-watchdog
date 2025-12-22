@@ -1,27 +1,5 @@
 [
   {
-    "domain": "www.cardinal.stage.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2025-12-05T19:49:10.010225+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "datasetsearch.research.google.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "google",
-    "brand_similarity": 1.0,
-    "date": "2025-12-05T19:49:10.055953+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "cloudmonitor15.poc-dynamic.paypal.com",
     "mx": false,
     "has_ip": true,
@@ -11241,5 +11219,32 @@
     "date": "2025-12-22T12:25:18.680228+00:00",
     "threat_score": 25,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "trezor-wallet--secure-doc.pages.dev",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "secure",
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2025-12-22T18:20:15.652433+00:00",
+    "threat_score": 25,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "wallet-trezor--cdn.pages.dev",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2025-12-22T18:20:15.694365+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]
