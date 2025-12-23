@@ -1,5 +1,57 @@
 [
   {
+    "domain": "wallet--en-rabbyy.pages.dev",
+    "link": "https://richesec.github.io/phishing-watchdog/check/wallet--en-rabbyy.pages.dev.html",
+    "date": "2025-12-23T12:25:42.362141+00:00",
+    "mx": false,
+    "keywords": [
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "coinbase-wallet--ext.pages.dev",
+    "link": "https://richesec.github.io/phishing-watchdog/check/coinbase-wallet--ext.pages.dev.html",
+    "date": "2025-12-23T12:25:42.335871+00:00",
+    "mx": false,
+    "keywords": [
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "wallet-vertex--en-us.pages.dev",
+    "link": "https://richesec.github.io/phishing-watchdog/check/wallet-vertex--en-us.pages.dev.html",
+    "date": "2025-12-23T12:25:42.315481+00:00",
+    "mx": false,
+    "keywords": [
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "wallet-uphoold--en-us.pages.dev",
+    "link": "https://richesec.github.io/phishing-watchdog/check/wallet-uphoold--en-us.pages.dev.html",
+    "date": "2025-12-23T12:25:42.296484+00:00",
+    "mx": false,
+    "keywords": [
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "emf-operator-console-prod-pdx-cell1.corp.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/emf-operator-console-prod-pdx-cell1.corp.amazon.com.html",
     "date": "2025-12-23T06:24:04.168542+00:00",
@@ -11196,50 +11248,6 @@
     "domain": "alt1.gmr-smtp-in.l.google.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/alt1.gmr-smtp-in.l.google.com.html",
     "date": "2025-12-08T12:25:12.416481+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "google",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "da-twd-6.da.ext.google.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/da-twd-6.da.ext.google.com.html",
-    "date": "2025-12-08T12:25:12.398691+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "google",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "adwords.google.cz",
-    "link": "https://richesec.github.io/phishing-watchdog/check/adwords.google.cz.html",
-    "date": "2025-12-08T12:25:12.363790+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "google",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "manifest.lh3-db.googleusercontent.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/manifest.lh3-db.googleusercontent.com.html",
-    "date": "2025-12-08T12:25:12.266311+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "google",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "b067f70f20ac31e.ad.corp.google.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/b067f70f20ac31e.ad.corp.google.com.html",
-    "date": "2025-12-08T12:25:12.212796+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "google",
