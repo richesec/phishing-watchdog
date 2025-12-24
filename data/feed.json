@@ -1,5 +1,32 @@
 [
   {
+    "domain": "wallet-wars--main.preview.bltzr.gg",
+    "link": "https://richesec.github.io/phishing-watchdog/check/wallet-wars--main.preview.bltzr.gg.html",
+    "date": "2025-12-24T12:24:24.116493+00:00",
+    "mx": false,
+    "keywords": [
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "edm-wallet--edm-financeiro.us-central1.hosted.app",
+    "link": "https://richesec.github.io/phishing-watchdog/check/edm-wallet--edm-financeiro.us-central1.hosted.app.html",
+    "date": "2025-12-24T12:24:24.044504+00:00",
+    "mx": false,
+    "keywords": [
+      "wallet",
+      "finance"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 25,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "www.test24.stage.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/www.test24.stage.paypal.com.html",
     "date": "2025-12-24T06:21:53.587441+00:00",
@@ -11159,28 +11186,6 @@
     "domain": "aero-standard-vitesting001.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/aero-standard-vitesting001.amazon.com.html",
     "date": "2025-12-21T01:03:03.261746+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "aero-standard-jtesting999.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/aero-standard-jtesting999.amazon.com.html",
-    "date": "2025-12-21T01:03:02.995323+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "us-west-2-onebox.quicksight.aws.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/us-west-2-onebox.quicksight.aws.amazon.com.html",
-    "date": "2025-12-21T01:03:02.841683+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",

@@ -1,27 +1,5 @@
 [
   {
-    "domain": "us-west-2-onebox.quicksight.aws.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2025-12-21T01:03:02.841683+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "aero-standard-jtesting999.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2025-12-21T01:03:02.995323+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "aero-standard-vitesting001.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11187,5 +11165,32 @@
     "date": "2025-12-24T06:21:53.587441+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "edm-wallet--edm-financeiro.us-central1.hosted.app",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "wallet",
+      "finance"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2025-12-24T12:24:24.044504+00:00",
+    "threat_score": 25,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "wallet-wars--main.preview.bltzr.gg",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2025-12-24T12:24:24.116493+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]
