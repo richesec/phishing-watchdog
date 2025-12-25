@@ -1,18 +1,5 @@
 [
   {
-    "domain": "secure-fortress-fe.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [
-      "secure"
-    ],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2025-12-22T00:59:59.202377+00:00",
-    "threat_score": 55,
-    "threat_level": "HIGH"
-  },
-  {
     "domain": "console.us.cloud.google.com",
     "mx": false,
     "has_ip": true,
@@ -11197,5 +11184,18 @@
     "date": "2025-12-25T06:22:15.119817+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "fix-verify--accesswidget--test.acsb-test.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2025-12-25T18:18:26.134615+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]
