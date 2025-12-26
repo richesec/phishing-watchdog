@@ -1,16 +1,5 @@
 [
   {
-    "domain": "kor-portal.integ.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2025-12-22T00:59:59.581392+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "aegir-ap-southeast-2.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11193,6 +11182,17 @@
     "brand_match": "amazon",
     "brand_similarity": 1.0,
     "date": "2025-12-26T00:57:46.790797+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "console.us.cloud.google.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2025-12-26T06:21:28.331203+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }
