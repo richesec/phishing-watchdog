@@ -1,5 +1,38 @@
 [
   {
+    "domain": "www.te-daon.qa.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/www.te-daon.qa.paypal.com.html",
+    "date": "2025-12-27T12:21:53.318284+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "t.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/t.paypal.com.html",
+    "date": "2025-12-27T12:21:53.269248+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "api.test60.stage.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/api.test60.stage.paypal.com.html",
+    "date": "2025-12-27T12:21:53.167179+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "radian-gamma-jp.corp.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/radian-gamma-jp.corp.amazon.com.html",
     "date": "2025-12-27T06:20:01.244813+00:00",
@@ -11162,39 +11195,6 @@
     "domain": "dealsinternalwebsite.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/dealsinternalwebsite.amazon.com.html",
     "date": "2025-12-22T01:00:00.164746+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "sos-eu-kannadi-dashboard.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/sos-eu-kannadi-dashboard.amazon.com.html",
-    "date": "2025-12-22T01:00:00.150684+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "advertisingtools-beta-ie.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/advertisingtools-beta-ie.corp.amazon.com.html",
-    "date": "2025-12-22T01:00:00.143711+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ihm-waldorf-gamma-pdx.pdx.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/ihm-waldorf-gamma-pdx.pdx.proxy.amazon.com.html",
-    "date": "2025-12-22T01:00:00.130174+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
