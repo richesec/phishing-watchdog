@@ -1,5 +1,16 @@
 [
   {
+    "domain": "cs-gpr-poller-na-pp-iad.iad.proxy.amazon.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/cs-gpr-poller-na-pp-iad.iad.proxy.amazon.com.html",
+    "date": "2025-12-28T18:18:00.090957+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "secure-fortress-na.integ.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/secure-fortress-na.integ.amazon.com.html",
     "date": "2025-12-28T12:23:47.395587+00:00",
@@ -11184,17 +11195,6 @@
     "domain": "mis-mdw.ec2.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/mis-mdw.ec2.amazon.com.html",
     "date": "2025-12-22T01:00:00.638808+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "aegir-us-east-1.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/aegir-us-east-1.amazon.com.html",
-    "date": "2025-12-22T01:00:00.625515+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
