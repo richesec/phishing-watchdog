@@ -1,27 +1,5 @@
 [
   {
-    "domain": "cs-gpr-poller-na-pp-iad.iad.proxy.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2025-12-22T01:00:00.589532+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ihmclaire.integ.amazon.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2025-12-22T01:00:00.611598+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "aegir-us-east-1.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11199,5 +11177,29 @@
     "date": "2025-12-28T06:19:25.549179+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "api.webhnotifications-perf.stage.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2025-12-28T12:23:47.230728+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "secure-fortress-na.integ.amazon.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "secure"
+    ],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2025-12-28T12:23:47.395587+00:00",
+    "threat_score": 55,
+    "threat_level": "HIGH"
   }
 ]
