@@ -1,5 +1,19 @@
 [
   {
+    "domain": "verify--loginn-trzzr.pages.dev",
+    "link": "https://richesec.github.io/phishing-watchdog/check/verify--loginn-trzzr.pages.dev.html",
+    "date": "2025-12-30T06:20:22.693788+00:00",
+    "mx": false,
+    "keywords": [
+      "login",
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 25,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "www.te-credit-test-hub.qa.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/www.te-credit-test-hub.qa.paypal.com.html",
     "date": "2025-12-30T00:57:26.713959+00:00",
@@ -11170,16 +11184,5 @@
     "brand_similarity": 1.0,
     "threat_score": 60,
     "threat_level": "HIGH"
-  },
-  {
-    "domain": "threeds-amex.stage.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/threeds-amex.stage.paypal.com.html",
-    "date": "2025-12-23T00:58:11.440654+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
   }
 ]

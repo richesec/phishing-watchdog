@@ -1,16 +1,5 @@
 [
   {
-    "domain": "threeds-amex.stage.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2025-12-23T00:58:11.440654+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "googleflights-cn.net",
     "mx": true,
     "has_ip": true,
@@ -11180,6 +11169,20 @@
     "brand_similarity": 1.0,
     "date": "2025-12-30T00:57:26.713959+00:00",
     "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "verify--loginn-trzzr.pages.dev",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "login",
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2025-12-30T06:20:22.693788+00:00",
+    "threat_score": 25,
     "threat_level": "MEDIUM"
   }
 ]
