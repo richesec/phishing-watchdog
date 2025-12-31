@@ -1,5 +1,19 @@
 [
   {
+    "domain": "verify---account.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/verify---account.com.html",
+    "date": "2025-12-31T00:58:33.265329+00:00",
+    "mx": false,
+    "keywords": [
+      "verify",
+      "account"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 25,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "threeds-amex.stage.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/threeds-amex.stage.paypal.com.html",
     "date": "2025-12-30T18:19:53.722310+00:00",
@@ -11179,16 +11193,5 @@
     "brand_similarity": null,
     "threat_score": 5,
     "threat_level": "LOW"
-  },
-  {
-    "domain": "ccg13ctmem11.ccg13.slc.paypalinc.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/ccg13ctmem11.ccg13.slc.paypalinc.com.html",
-    "date": "2025-12-23T00:58:12.341094+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
   }
 ]
