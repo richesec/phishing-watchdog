@@ -1,5 +1,19 @@
 [
   {
+    "domain": "verify--coinsmart-login.pages.dev",
+    "link": "https://richesec.github.io/phishing-watchdog/check/verify--coinsmart-login.pages.dev.html",
+    "date": "2026-01-03T12:22:32.619035+00:00",
+    "mx": false,
+    "keywords": [
+      "login",
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 25,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "mx.google.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/mx.google.com.html",
     "date": "2026-01-03T06:19:57.162551+00:00",
@@ -11159,17 +11173,6 @@
     "mx": false,
     "keywords": [],
     "brand_match": "google",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "www.test03.stage.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/www.test03.stage.paypal.com.html",
-    "date": "2025-12-24T00:56:36.999619+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
     "brand_similarity": 1.0,
     "threat_score": 35,
     "threat_level": "MEDIUM"
