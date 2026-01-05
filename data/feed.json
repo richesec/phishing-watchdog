@@ -1,5 +1,18 @@
 [
   {
+    "domain": "trust-wallet--get.pages.dev",
+    "link": "https://richesec.github.io/phishing-watchdog/check/trust-wallet--get.pages.dev.html",
+    "date": "2026-01-05T12:25:40.899704+00:00",
+    "mx": false,
+    "keywords": [
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "datahub.qa.api.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/datahub.qa.api.paypal.com.html",
     "date": "2026-01-05T06:26:32.856864+00:00",
@@ -11140,17 +11153,6 @@
     "domain": "aops-na-kannadi-dashboard.integ.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/aops-na-kannadi-dashboard.integ.amazon.com.html",
     "date": "2025-12-27T06:20:00.851378+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "browse-whereismyasin-eu.integ.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/browse-whereismyasin-eu.integ.amazon.com.html",
-    "date": "2025-12-27T06:20:00.798428+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
