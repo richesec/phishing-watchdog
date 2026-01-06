@@ -1,5 +1,18 @@
 [
   {
+    "domain": "verify-id-cards--verifyid-a3d16.europe-west4.hosted.app",
+    "link": "https://richesec.github.io/phishing-watchdog/check/verify-id-cards--verifyid-a3d16.europe-west4.hosted.app.html",
+    "date": "2026-01-06T00:58:24.138082+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "api.test08.stage.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/api.test08.stage.paypal.com.html",
     "date": "2026-01-05T18:21:10.498359+00:00",
@@ -11166,17 +11179,6 @@
     "domain": "lti.drive.usercontent.google.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/lti.drive.usercontent.google.com.html",
     "date": "2025-12-29T12:25:52.614858+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "google",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "googleapis.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/googleapis.com.html",
-    "date": "2025-12-29T12:25:52.594350+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "google",

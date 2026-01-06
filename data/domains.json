@@ -1,16 +1,5 @@
 [
   {
-    "domain": "googleapis.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "google",
-    "brand_similarity": 1.0,
-    "date": "2025-12-29T12:25:52.594350+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "lti.drive.usercontent.google.com",
     "mx": false,
     "has_ip": true,
@@ -11183,5 +11172,18 @@
     "date": "2026-01-05T18:21:10.498359+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "verify-id-cards--verifyid-a3d16.europe-west4.hosted.app",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-01-06T00:58:24.138082+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]
