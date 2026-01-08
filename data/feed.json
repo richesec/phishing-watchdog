@@ -1,5 +1,18 @@
 [
   {
+    "domain": "verify-limit--accessflow--test.acsb-test.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/verify-limit--accessflow--test.acsb-test.com.html",
+    "date": "2026-01-08T18:18:59.904296+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "google-analytics-cn.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/google-analytics-cn.com.html",
     "date": "2026-01-08T12:27:24.149581+00:00",
@@ -11169,17 +11182,6 @@
     "mx": false,
     "keywords": [],
     "brand_match": "google",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "emf-operator-console-prod-dub-cell2.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/emf-operator-console-prod-dub-cell2.corp.amazon.com.html",
-    "date": "2026-01-03T00:57:09.402671+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
     "brand_similarity": 1.0,
     "threat_score": 35,
     "threat_level": "MEDIUM"

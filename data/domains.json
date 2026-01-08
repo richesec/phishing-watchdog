@@ -1,16 +1,5 @@
 [
   {
-    "domain": "emf-operator-console-prod-dub-cell2.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-01-03T00:57:09.402671+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "aspmx3.googlemail.com",
     "mx": false,
     "has_ip": true,
@@ -11183,5 +11172,18 @@
     "date": "2026-01-08T12:27:24.149581+00:00",
     "threat_score": 65,
     "threat_level": "HIGH"
+  },
+  {
+    "domain": "verify-limit--accessflow--test.acsb-test.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-01-08T18:18:59.904296+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]
