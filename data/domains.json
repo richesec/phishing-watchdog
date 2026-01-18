@@ -1,16 +1,5 @@
 [
   {
-    "domain": "api.devopspartnertest1.stage.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-01-16T12:24:35.348001+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "googletagmanager-cn.com",
     "mx": true,
     "has_ip": true,
@@ -11135,5 +11124,18 @@
     "date": "2026-01-18T01:04:25.570278+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "email-verify--immatriculation-scanner.us-east4.hosted.app",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-01-18T06:19:49.480285+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]

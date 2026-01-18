@@ -1,5 +1,18 @@
 [
   {
+    "domain": "email-verify--immatriculation-scanner.us-east4.hosted.app",
+    "link": "https://richesec.github.io/phishing-watchdog/check/email-verify--immatriculation-scanner.us-east4.hosted.app.html",
+    "date": "2026-01-18T06:19:49.480285+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "airflow-dev-besx.qa.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/airflow-dev-besx.qa.paypal.com.html",
     "date": "2026-01-18T01:04:25.570278+00:00",
@@ -11124,16 +11137,5 @@
     "brand_similarity": 1.0,
     "threat_score": 60,
     "threat_level": "HIGH"
-  },
-  {
-    "domain": "api.devopspartnertest1.stage.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/api.devopspartnertest1.stage.paypal.com.html",
-    "date": "2026-01-16T12:24:35.348001+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
   }
 ]
