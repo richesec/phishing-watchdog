@@ -1,5 +1,27 @@
 [
   {
+    "domain": "pns-int.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/pns-int.paypal.com.html",
+    "date": "2026-01-21T01:00:52.659874+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "tsp-int.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/tsp-int.paypal.com.html",
+    "date": "2026-01-21T01:00:52.611441+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "alt1.aspmx.l.google.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/alt1.aspmx.l.google.com.html",
     "date": "2026-01-20T12:28:37.059012+00:00",
@@ -11107,28 +11129,6 @@
     "domain": "klo.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/klo.amazon.com.html",
     "date": "2026-01-17T12:22:08.142922+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "aaa.integ.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/aaa.integ.amazon.com.html",
-    "date": "2026-01-17T12:22:08.124126+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "art.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/art.amazon.com.html",
-    "date": "2026-01-17T12:22:08.095874+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
