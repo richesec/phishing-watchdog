@@ -1,5 +1,38 @@
 [
   {
+    "domain": "api.test33.stage.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/api.test33.stage.paypal.com.html",
+    "date": "2026-01-22T06:22:16.532585+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "api.test04.stage.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/api.test04.stage.paypal.com.html",
+    "date": "2026-01-22T06:22:16.481393+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "www.test34.stage.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/www.test34.stage.paypal.com.html",
+    "date": "2026-01-22T06:22:16.420574+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "sdc-zaz61-backend.zaz.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/sdc-zaz61-backend.zaz.amazon.com.html",
     "date": "2026-01-22T01:00:18.635470+00:00",
@@ -11123,39 +11156,6 @@
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "mitigation-ui-gamma.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/mitigation-ui-gamma.amazon.com.html",
-    "date": "2026-01-17T18:18:29.136830+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "gso-reports.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/gso-reports.corp.amazon.com.html",
-    "date": "2026-01-17T18:18:29.092310+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "shield.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/shield.paypal.com.html",
-    "date": "2026-01-17T18:18:29.060290+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
     "brand_similarity": 1.0,
     "threat_score": 35,
     "threat_level": "MEDIUM"
