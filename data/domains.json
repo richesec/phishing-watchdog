@@ -1,16 +1,5 @@
 [
   {
-    "domain": "rds-op-springfield.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-01-17T18:18:29.211447+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "dccd.integ.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11157,6 +11146,17 @@
     "brand_match": "paypal",
     "brand_similarity": 1.0,
     "date": "2026-01-22T06:22:16.532585+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "shield.paypal.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-01-22T12:28:53.709827+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }
