@@ -1,5 +1,16 @@
 [
   {
+    "domain": "uc4app03-dev.vip.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/uc4app03-dev.vip.paypal.com.html",
+    "date": "2026-01-23T01:00:48.803288+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "shield.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/shield.paypal.com.html",
     "date": "2026-01-22T12:28:53.709827+00:00",
@@ -11142,17 +11153,6 @@
     "domain": "s3-ap-northeast-1-finder.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/s3-ap-northeast-1-finder.amazon.com.html",
     "date": "2026-01-17T18:18:29.294949+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "dccd.integ.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/dccd.integ.amazon.com.html",
-    "date": "2026-01-17T18:18:29.251586+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
