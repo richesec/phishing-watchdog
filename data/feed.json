@@ -1,5 +1,18 @@
 [
   {
+    "domain": "api-verify--cloudflare.southcat.cc",
+    "link": "https://richesec.github.io/phishing-watchdog/check/api-verify--cloudflare.southcat.cc.html",
+    "date": "2026-01-24T18:18:27.636684+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "api.salesforce.csi2.stage.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/api.salesforce.csi2.stage.paypal.com.html",
     "date": "2026-01-24T12:23:21.172559+00:00",
@@ -11192,17 +11205,6 @@
     "mx": false,
     "keywords": [],
     "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "me-central-1.acm-certificates.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/me-central-1.acm-certificates.amazon.com.html",
-    "date": "2026-01-19T01:03:22.022850+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
     "brand_similarity": 1.0,
     "threat_score": 35,
     "threat_level": "MEDIUM"

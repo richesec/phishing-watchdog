@@ -1,16 +1,5 @@
 [
   {
-    "domain": "me-central-1.acm-certificates.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-01-19T01:03:22.022850+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "te-daon.dev51.cbf.dev.paypalinc.com",
     "mx": false,
     "has_ip": false,
@@ -11206,5 +11195,18 @@
     "date": "2026-01-24T12:23:21.172559+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "api-verify--cloudflare.southcat.cc",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-01-24T18:18:27.636684+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]
