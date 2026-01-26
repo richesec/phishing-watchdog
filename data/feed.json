@@ -1,5 +1,31 @@
 [
   {
+    "domain": "trezor-wallet--info.pages.dev",
+    "link": "https://richesec.github.io/phishing-watchdog/check/trezor-wallet--info.pages.dev.html",
+    "date": "2026-01-26T01:04:08.133148+00:00",
+    "mx": false,
+    "keywords": [
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "trezor--wallet--app.pages.dev",
+    "link": "https://richesec.github.io/phishing-watchdog/check/trezor--wallet--app.pages.dev.html",
+    "date": "2026-01-26T01:04:08.070887+00:00",
+    "mx": false,
+    "keywords": [
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "api.fapidev.stage.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/api.fapidev.stage.paypal.com.html",
     "date": "2026-01-25T18:18:09.781038+00:00",
@@ -11203,28 +11229,6 @@
     "domain": "ap-south-2.awsc-integ.aws.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/ap-south-2.awsc-integ.aws.amazon.com.html",
     "date": "2026-01-20T00:58:48.641253+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ate-portal-na-preprod-j1-iad.iad.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/ate-portal-na-preprod-j1-iad.iad.proxy.amazon.com.html",
-    "date": "2026-01-20T00:58:48.570858+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "substrate-pdx80-zhengyli.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/substrate-pdx80-zhengyli.corp.amazon.com.html",
-    "date": "2026-01-20T00:58:48.523646+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",

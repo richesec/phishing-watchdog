@@ -1,27 +1,5 @@
 [
   {
-    "domain": "substrate-pdx80-zhengyli.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-01-20T00:58:48.523646+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ate-portal-na-preprod-j1-iad.iad.proxy.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-01-20T00:58:48.570858+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "ap-south-2.awsc-integ.aws.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11231,5 +11209,31 @@
     "date": "2026-01-25T18:18:09.781038+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "trezor--wallet--app.pages.dev",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-01-26T01:04:08.070887+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "trezor-wallet--info.pages.dev",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-01-26T01:04:08.133148+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]
