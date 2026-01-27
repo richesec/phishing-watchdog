@@ -1,27 +1,5 @@
 [
   {
-    "domain": "ec2-omega.zaz.amazon.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-01-22T01:00:16.529645+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ec2-launch-reservations-cellb.zaz.amazon.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-01-22T01:00:16.551950+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "ec2-ninx-prod.zaz.amazon.com",
     "mx": false,
     "has_ip": false,
@@ -11219,6 +11197,28 @@
     "brand_match": "paypal",
     "brand_similarity": 1.0,
     "date": "2026-01-27T01:02:21.812354+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "api-aa-3t.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-01-27T06:23:19.152435+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "pilot-payflowpro.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-01-27T06:23:19.191734+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }

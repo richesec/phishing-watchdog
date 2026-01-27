@@ -1,5 +1,27 @@
 [
   {
+    "domain": "pilot-payflowpro.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/pilot-payflowpro.paypal.com.html",
+    "date": "2026-01-27T06:23:19.191734+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "api-aa-3t.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/api-aa-3t.paypal.com.html",
+    "date": "2026-01-27T06:23:19.152435+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "www.venmo.stage.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/www.venmo.stage.paypal.com.html",
     "date": "2026-01-27T01:02:21.812354+00:00",
@@ -11193,28 +11215,6 @@
     "domain": "ec2-ninx-prod.zaz.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/ec2-ninx-prod.zaz.amazon.com.html",
     "date": "2026-01-22T01:00:16.567006+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ec2-launch-reservations-cellb.zaz.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/ec2-launch-reservations-cellb.zaz.amazon.com.html",
-    "date": "2026-01-22T01:00:16.551950+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ec2-omega.zaz.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/ec2-omega.zaz.amazon.com.html",
-    "date": "2026-01-22T01:00:16.529645+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
