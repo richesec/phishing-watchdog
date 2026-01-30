@@ -1,29 +1,5 @@
 [
   {
-    "domain": "account-coop-preprod.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [
-      "account"
-    ],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-01-24T00:57:27.756450+00:00",
-    "threat_score": 40,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "foundry-gamma-dxb.aka.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-01-24T00:57:27.772897+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "account-p2k-br.integ.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11211,6 +11187,30 @@
     "brand_match": "amazon",
     "brand_similarity": 1.0,
     "date": "2026-01-30T01:08:17.701530+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "te-securityscanserv.qa.paypal.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [
+      "security"
+    ],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-01-30T06:39:02.727812+00:00",
+    "threat_score": 40,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "slc2.stats.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-01-30T06:39:02.746060+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }

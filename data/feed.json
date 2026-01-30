@@ -1,5 +1,29 @@
 [
   {
+    "domain": "slc2.stats.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/slc2.stats.paypal.com.html",
+    "date": "2026-01-30T06:39:02.746060+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "te-securityscanserv.qa.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/te-securityscanserv.qa.paypal.com.html",
+    "date": "2026-01-30T06:39:02.727812+00:00",
+    "mx": false,
+    "keywords": [
+      "security"
+    ],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 40,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "eu-south-2.lightsail.aws.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/eu-south-2.lightsail.aws.amazon.com.html",
     "date": "2026-01-30T01:08:17.701530+00:00",
@@ -11181,30 +11205,6 @@
     "domain": "account-p2k-br.integ.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/account-p2k-br.integ.amazon.com.html",
     "date": "2026-01-24T00:57:27.787537+00:00",
-    "mx": false,
-    "keywords": [
-      "account"
-    ],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 40,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "foundry-gamma-dxb.aka.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/foundry-gamma-dxb.aka.amazon.com.html",
-    "date": "2026-01-24T00:57:27.772897+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "account-coop-preprod.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/account-coop-preprod.amazon.com.html",
-    "date": "2026-01-24T00:57:27.756450+00:00",
     "mx": false,
     "keywords": [
       "account"
