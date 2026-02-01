@@ -1,5 +1,31 @@
 [
   {
+    "domain": "ledger-hardwere-wallet--get.pages.dev",
+    "link": "https://richesec.github.io/phishing-watchdog/check/ledger-hardwere-wallet--get.pages.dev.html",
+    "date": "2026-02-01T12:28:19.964914+00:00",
+    "mx": false,
+    "keywords": [
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "ledger-hardwere-wallet--ask.pages.dev",
+    "link": "https://richesec.github.io/phishing-watchdog/check/ledger-hardwere-wallet--ask.pages.dev.html",
+    "date": "2026-02-01T12:28:19.902845+00:00",
+    "mx": false,
+    "keywords": [
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "guarana.corp.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/guarana.corp.amazon.com.html",
     "date": "2026-01-31T01:06:43.189104+00:00",
@@ -11131,28 +11157,6 @@
     "domain": "rc-mas.aka.corp.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/rc-mas.aka.corp.amazon.com.html",
     "date": "2026-01-24T00:57:32.002728+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "dms-dcas-desktop.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/dms-dcas-desktop.corp.amazon.com.html",
-    "date": "2026-01-24T00:57:31.995488+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "goku-ops-ap-southeast-4.aka.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/goku-ops-ap-southeast-4.aka.amazon.com.html",
-    "date": "2026-01-24T00:57:31.986358+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
