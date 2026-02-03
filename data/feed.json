@@ -1,5 +1,18 @@
 [
   {
+    "domain": "ledger-wallet--web.pages.dev",
+    "link": "https://richesec.github.io/phishing-watchdog/check/ledger-wallet--web.pages.dev.html",
+    "date": "2026-02-03T12:38:43.070337+00:00",
+    "mx": false,
+    "keywords": [
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "www.te-credit-test-hub-qa.qa.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/www.te-credit-test-hub-qa.qa.paypal.com.html",
     "date": "2026-02-03T06:40:29.054795+00:00",
@@ -11104,17 +11117,6 @@
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "lti.gemini.google.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/lti.gemini.google.com.html",
-    "date": "2026-01-25T12:24:25.570543+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "google",
     "brand_similarity": 1.0,
     "threat_score": 35,
     "threat_level": "MEDIUM"

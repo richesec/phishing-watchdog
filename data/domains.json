@@ -1,16 +1,5 @@
 [
   {
-    "domain": "lti.gemini.google.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "google",
-    "brand_similarity": 1.0,
-    "date": "2026-01-25T12:24:25.570543+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "cs-alloc-dashboard-za-beta.corp.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11118,5 +11107,18 @@
     "date": "2026-02-03T06:40:29.054795+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "ledger-wallet--web.pages.dev",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-02-03T12:38:43.070337+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]
