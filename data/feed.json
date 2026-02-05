@@ -1,5 +1,31 @@
 [
   {
+    "domain": "www.v22-ispdy5ersd-ai-verify--gcs.g-xyz.xyz",
+    "link": "https://richesec.github.io/phishing-watchdog/check/www.v22-ispdy5ersd-ai-verify--gcs.g-xyz.xyz.html",
+    "date": "2026-02-05T12:38:50.387942+00:00",
+    "mx": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 45,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "verify-wrapped--verify-wrapped.us-central1.hosted.app",
+    "link": "https://richesec.github.io/phishing-watchdog/check/verify-wrapped--verify-wrapped.us-central1.hosted.app.html",
+    "date": "2026-02-05T12:38:50.190764+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "xacademy-payment-verify--x-academy-b5924.us-east4.hosted.app",
     "link": "https://richesec.github.io/phishing-watchdog/check/xacademy-payment-verify--x-academy-b5924.us-east4.hosted.app.html",
     "date": "2026-02-05T06:47:12.942526+00:00",
@@ -11079,30 +11105,6 @@
     "domain": "colab.research.google.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/colab.research.google.com.html",
     "date": "2026-01-28T06:23:59.864084+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "google",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "support.registry-qa.google",
-    "link": "https://richesec.github.io/phishing-watchdog/check/support.registry-qa.google.html",
-    "date": "2026-01-28T06:23:59.839249+00:00",
-    "mx": false,
-    "keywords": [
-      "support"
-    ],
-    "brand_match": null,
-    "brand_similarity": null,
-    "threat_score": 5,
-    "threat_level": "LOW"
-  },
-  {
-    "domain": "misc-sni.google.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/misc-sni.google.com.html",
-    "date": "2026-01-28T06:23:59.645348+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "google",
