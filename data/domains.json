@@ -1,29 +1,5 @@
 [
   {
-    "domain": "looker-staging.chronicle.security",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [
-      "security"
-    ],
-    "brand_match": null,
-    "brand_similarity": null,
-    "date": "2026-01-28T06:23:59.479154+00:00",
-    "threat_score": 5,
-    "threat_level": "LOW"
-  },
-  {
-    "domain": "console.it.cloud.google",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "icloud",
-    "brand_similarity": 0.83,
-    "date": "2026-01-28T06:23:59.627687+00:00",
-    "threat_score": 29,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "misc-sni.google.com",
     "mx": false,
     "has_ip": false,
@@ -11105,6 +11081,33 @@
     "brand_similarity": 1.0,
     "date": "2026-02-05T01:08:42.293821+00:00",
     "threat_score": 40,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "v22-ispdy5ersd-ai-verify--gcs.g-xyz.xyz",
+    "mx": true,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-02-05T06:47:12.792757+00:00",
+    "threat_score": 45,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "xacademy-payment-verify--x-academy-b5924.us-east4.hosted.app",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify",
+      "payment"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-02-05T06:47:12.942526+00:00",
+    "threat_score": 25,
     "threat_level": "MEDIUM"
   }
 ]

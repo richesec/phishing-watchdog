@@ -1,5 +1,32 @@
 [
   {
+    "domain": "xacademy-payment-verify--x-academy-b5924.us-east4.hosted.app",
+    "link": "https://richesec.github.io/phishing-watchdog/check/xacademy-payment-verify--x-academy-b5924.us-east4.hosted.app.html",
+    "date": "2026-02-05T06:47:12.942526+00:00",
+    "mx": false,
+    "keywords": [
+      "verify",
+      "payment"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 25,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "v22-ispdy5ersd-ai-verify--gcs.g-xyz.xyz",
+    "link": "https://richesec.github.io/phishing-watchdog/check/v22-ispdy5ersd-ai-verify--gcs.g-xyz.xyz.html",
+    "date": "2026-02-05T06:47:12.792757+00:00",
+    "mx": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 45,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "ssl.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/ssl.paypal.com.html",
     "date": "2026-02-05T01:08:42.293821+00:00",
@@ -11082,29 +11109,5 @@
     "brand_similarity": 1.0,
     "threat_score": 35,
     "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "console.it.cloud.google",
-    "link": "https://richesec.github.io/phishing-watchdog/check/console.it.cloud.google.html",
-    "date": "2026-01-28T06:23:59.627687+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "icloud",
-    "brand_similarity": 0.83,
-    "threat_score": 29,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "looker-staging.chronicle.security",
-    "link": "https://richesec.github.io/phishing-watchdog/check/looker-staging.chronicle.security.html",
-    "date": "2026-01-28T06:23:59.479154+00:00",
-    "mx": false,
-    "keywords": [
-      "security"
-    ],
-    "brand_match": null,
-    "brand_similarity": null,
-    "threat_score": 5,
-    "threat_level": "LOW"
   }
 ]
