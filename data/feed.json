@@ -1,5 +1,38 @@
 [
   {
+    "domain": "tmga.aea.amazon.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/tmga.aea.amazon.com.html",
+    "date": "2026-02-06T18:35:36.149094+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "tensorflow.google.cn",
+    "link": "https://richesec.github.io/phishing-watchdog/check/tensorflow.google.cn.html",
+    "date": "2026-02-06T18:35:36.031351+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "tensorflow.google.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/tensorflow.google.com.html",
+    "date": "2026-02-06T18:35:35.903484+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "te-federated.dev51.cbf.dev.paypalinc.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/te-federated.dev51.cbf.dev.paypalinc.com.html",
     "date": "2026-02-06T12:36:49.250291+00:00",
@@ -11121,41 +11154,6 @@
     "brand_match": "amazon",
     "brand_similarity": 1.0,
     "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ihmcognitiodata-dub-dub.dub.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/ihmcognitiodata-dub-dub.dub.proxy.amazon.com.html",
-    "date": "2026-01-31T01:06:42.915941+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ihmegdbdocument-pdx.pdx.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/ihmegdbdocument-pdx.pdx.proxy.amazon.com.html",
-    "date": "2026-01-31T01:06:42.890849+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "fc-inbound-dock-execution-service-na-usg1-iad.iad.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/fc-inbound-dock-execution-service-na-usg1-iad.iad.proxy.amazon.com.html",
-    "date": "2026-01-31T01:06:42.871498+00:00",
-    "mx": false,
-    "keywords": [
-      "service"
-    ],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 40,
     "threat_level": "MEDIUM"
   }
 ]
