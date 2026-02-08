@@ -1,16 +1,5 @@
 [
   {
-    "domain": "eu.api.amazonvideo.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-01-31T01:06:43.138788+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "contract-central-gamma.corp.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11155,5 +11144,18 @@
     "date": "2026-02-07T01:07:30.810410+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "verify-sy-cms--store-chatbot-dev.us-central1.hosted.app",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-02-08T01:30:14.019453+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]

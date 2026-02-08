@@ -1,5 +1,18 @@
 [
   {
+    "domain": "verify-sy-cms--store-chatbot-dev.us-central1.hosted.app",
+    "link": "https://richesec.github.io/phishing-watchdog/check/verify-sy-cms--store-chatbot-dev.us-central1.hosted.app.html",
+    "date": "2026-02-08T01:30:14.019453+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "vps-ipn.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/vps-ipn.paypal.com.html",
     "date": "2026-02-07T01:07:30.810410+00:00",
@@ -11138,17 +11151,6 @@
     "domain": "contract-central-gamma.corp.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/contract-central-gamma.corp.amazon.com.html",
     "date": "2026-01-31T01:06:43.152289+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "eu.api.amazonvideo.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/eu.api.amazonvideo.com.html",
-    "date": "2026-01-31T01:06:43.138788+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
