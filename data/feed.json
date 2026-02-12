@@ -1,5 +1,18 @@
 [
   {
+    "domain": "view-login-trezr--x.pages.dev",
+    "link": "https://richesec.github.io/phishing-watchdog/check/view-login-trezr--x.pages.dev.html",
+    "date": "2026-02-12T01:12:25.155134+00:00",
+    "mx": false,
+    "keywords": [
+      "login"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "gradle-build-cache-lb-fe-vip-asia-south1.dev52-test-apps-android-ci.dev52.cbf.dev.paypalinc.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/gradle-build-cache-lb-fe-vip-asia-south1.dev52-test-apps-android-ci.dev52.cbf.dev.paypalinc.com.html",
     "date": "2026-02-11T18:51:40.787343+00:00",
@@ -11081,17 +11094,6 @@
     "domain": "www.test43.stage.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/www.test43.stage.paypal.com.html",
     "date": "2026-02-09T18:45:37.768455+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "datahub.qa.api.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/datahub.qa.api.paypal.com.html",
-    "date": "2026-02-09T18:45:37.692095+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "paypal",
