@@ -1,5 +1,18 @@
 [
   {
+    "domain": "api-verify--back-tokyo.southcat.cc",
+    "link": "https://richesec.github.io/phishing-watchdog/check/api-verify--back-tokyo.southcat.cc.html",
+    "date": "2026-02-14T18:22:16.909652+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "console.in.cloud.google.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/console.in.cloud.google.com.html",
     "date": "2026-02-14T12:27:22.979895+00:00",
@@ -11082,17 +11095,6 @@
     "mx": false,
     "keywords": [],
     "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "console.us.cloud.google.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/console.us.cloud.google.com.html",
-    "date": "2026-02-10T06:57:30.927992+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "google",
     "brand_similarity": 1.0,
     "threat_score": 35,
     "threat_level": "MEDIUM"

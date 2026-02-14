@@ -1,16 +1,5 @@
 [
   {
-    "domain": "console.us.cloud.google.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "google",
-    "brand_similarity": 1.0,
-    "date": "2026-02-10T06:57:30.927992+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "deploy.genesis.paypalcorp.com",
     "mx": false,
     "has_ip": false,
@@ -11096,5 +11085,18 @@
     "date": "2026-02-14T12:27:22.979895+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "api-verify--back-tokyo.southcat.cc",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-02-14T18:22:16.909652+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]
