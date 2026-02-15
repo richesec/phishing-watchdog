@@ -1,16 +1,5 @@
 [
   {
-    "domain": "deploy.genesis.paypalcorp.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-02-10T06:57:30.943463+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "www.test55.stage.paypal.com",
     "mx": false,
     "has_ip": true,
@@ -11096,6 +11085,19 @@
     "brand_match": null,
     "brand_similarity": null,
     "date": "2026-02-14T18:22:16.909652+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "api-verify--captcha--london.southcat.cc",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-02-15T06:42:56.319687+00:00",
     "threat_score": 20,
     "threat_level": "LOW"
   }

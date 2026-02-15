@@ -1,5 +1,18 @@
 [
   {
+    "domain": "api-verify--captcha--london.southcat.cc",
+    "link": "https://richesec.github.io/phishing-watchdog/check/api-verify--captcha--london.southcat.cc.html",
+    "date": "2026-02-15T06:42:56.319687+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "api-verify--back-tokyo.southcat.cc",
     "link": "https://richesec.github.io/phishing-watchdog/check/api-verify--back-tokyo.southcat.cc.html",
     "date": "2026-02-14T18:22:16.909652+00:00",
@@ -11081,17 +11094,6 @@
     "domain": "www.test55.stage.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/www.test55.stage.paypal.com.html",
     "date": "2026-02-10T06:57:30.954893+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "deploy.genesis.paypalcorp.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/deploy.genesis.paypalcorp.com.html",
-    "date": "2026-02-10T06:57:30.943463+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "paypal",
