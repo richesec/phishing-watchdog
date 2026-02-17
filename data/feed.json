@@ -1,5 +1,128 @@
 [
   {
+    "domain": "www.test29.stage.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/www.test29.stage.paypal.com.html",
+    "date": "2026-02-17T12:39:34.037864+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "image.updates.genea.com.au",
+    "link": "https://richesec.github.io/phishing-watchdog/check/image.updates.genea.com.au.html",
+    "date": "2026-02-17T12:39:34.017626+00:00",
+    "mx": false,
+    "keywords": [
+      "update"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 5,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "www.paypal-nederland.nl",
+    "link": "https://richesec.github.io/phishing-watchdog/check/www.paypal-nederland.nl.html",
+    "date": "2026-02-17T12:39:33.805787+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "api.creditauciti.stage.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/api.creditauciti.stage.paypal.com.html",
+    "date": "2026-02-17T12:39:33.774998+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "api.pnp.stage.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/api.pnp.stage.paypal.com.html",
+    "date": "2026-02-17T12:39:33.755492+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "lookerstudio.us.cloud.google.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/lookerstudio.us.cloud.google.com.html",
+    "date": "2026-02-17T12:39:33.733284+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "threeds-common.stage.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/threeds-common.stage.paypal.com.html",
+    "date": "2026-02-17T12:39:33.700322+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "monitor.genesis.paypalcorp.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/monitor.genesis.paypalcorp.com.html",
+    "date": "2026-02-17T12:39:33.677503+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "www.xoommulti.stage.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/www.xoommulti.stage.paypal.com.html",
+    "date": "2026-02-17T12:39:33.631757+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "partners2.stage.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/partners2.stage.paypal.com.html",
+    "date": "2026-02-17T12:39:33.599372+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "threeds.stage.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/threeds.stage.paypal.com.html",
+    "date": "2026-02-17T12:39:33.581937+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "api.test18.stage.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/api.test18.stage.paypal.com.html",
     "date": "2026-02-17T06:46:21.953814+00:00",
@@ -11000,129 +11123,6 @@
     "domain": "rtlax.integ.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/rtlax.integ.amazon.com.html",
     "date": "2026-02-15T12:28:01.836923+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "tvp-admin-jlb.integ.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/tvp-admin-jlb.integ.amazon.com.html",
-    "date": "2026-02-15T12:28:01.817713+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "www.paypal-mena.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/www.paypal-mena.com.html",
-    "date": "2026-02-15T12:28:01.798587+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "procurement-es-kibana-load-na-iad.iad.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/procurement-es-kibana-load-na-iad.iad.proxy.amazon.com.html",
-    "date": "2026-02-15T12:28:01.773110+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "top-elasticsearch-kibana1-prod-eu-dub.dub.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/top-elasticsearch-kibana1-prod-eu-dub.dub.proxy.amazon.com.html",
-    "date": "2026-02-15T12:28:01.764396+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "px-portal-preprod-jlb-iad.iad.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/px-portal-preprod-jlb-iad.iad.proxy.amazon.com.html",
-    "date": "2026-02-15T12:28:01.757020+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "wallet-viewer-sigshen.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/wallet-viewer-sigshen.corp.amazon.com.html",
-    "date": "2026-02-15T12:28:01.750002+00:00",
-    "mx": false,
-    "keywords": [
-      "wallet"
-    ],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 55,
-    "threat_level": "HIGH"
-  },
-  {
-    "domain": "ihmromeo-asset-iad2-iad.iad.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/ihmromeo-asset-iad2-iad.iad.proxy.amazon.com.html",
-    "date": "2026-02-15T12:28:01.730127+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ihmtyrion-tcp-asset-dub3-dub.dub.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/ihmtyrion-tcp-asset-dub3-dub.dub.proxy.amazon.com.html",
-    "date": "2026-02-15T12:28:01.721548+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "s3-throttleco-prod-dxb.aka.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/s3-throttleco-prod-dxb.aka.amazon.com.html",
-    "date": "2026-02-15T12:28:01.714893+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "www.test30.stage.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/www.test30.stage.paypal.com.html",
-    "date": "2026-02-15T12:28:01.707225+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "p11vslzr-prod-eu-dub.dub.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/p11vslzr-prod-eu-dub.dub.proxy.amazon.com.html",
-    "date": "2026-02-15T12:28:01.703707+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
