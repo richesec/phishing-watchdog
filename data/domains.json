@@ -1,16 +1,5 @@
 [
   {
-    "domain": "www.bofa.stage.paypal.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-02-15T12:28:01.031734+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "s3-throttleco-prod-zrh.aka.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11131,5 +11120,18 @@
     "date": "2026-02-16T18:36:57.387036+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "thorchainn-wallet--guide.pages.dev",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-02-17T01:11:31.751911+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]

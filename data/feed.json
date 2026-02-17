@@ -1,5 +1,18 @@
 [
   {
+    "domain": "thorchainn-wallet--guide.pages.dev",
+    "link": "https://richesec.github.io/phishing-watchdog/check/thorchainn-wallet--guide.pages.dev.html",
+    "date": "2026-02-17T01:11:31.751911+00:00",
+    "mx": false,
+    "keywords": [
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "www.paypal.be",
     "link": "https://richesec.github.io/phishing-watchdog/check/www.paypal.be.html",
     "date": "2026-02-16T18:36:57.387036+00:00",
@@ -11117,17 +11130,6 @@
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "www.bofa.stage.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/www.bofa.stage.paypal.com.html",
-    "date": "2026-02-15T12:28:01.031734+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
     "brand_similarity": 1.0,
     "threat_score": 35,
     "threat_level": "MEDIUM"
