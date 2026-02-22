@@ -1,16 +1,5 @@
 [
   {
-    "domain": "api-aa.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-02-18T12:38:13.273811+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "sherlock-admin-jlb.corp.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11108,5 +11097,18 @@
     "date": "2026-02-22T01:12:35.455189+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "verify--metamask-io.pages.dev",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-02-22T06:37:02.896125+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]
