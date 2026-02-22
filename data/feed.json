@@ -1,5 +1,29 @@
 [
   {
+    "domain": "google-analytics.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/google-analytics.com.html",
+    "date": "2026-02-22T12:27:31.753276+00:00",
+    "mx": false,
+    "keywords": [
+      "google-"
+    ],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 40,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "api-aa.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/api-aa.paypal.com.html",
+    "date": "2026-02-22T12:27:31.685460+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "verify--metamask-io.pages.dev",
     "link": "https://richesec.github.io/phishing-watchdog/check/verify--metamask-io.pages.dev.html",
     "date": "2026-02-22T06:37:02.896125+00:00",
@@ -11082,28 +11106,6 @@
     "domain": "elinks.it.stage-business.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/elinks.it.stage-business.amazon.com.html",
     "date": "2026-02-18T12:38:13.528383+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "fi-web-portal-beta-jlb-iad.iad.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/fi-web-portal-beta-jlb-iad.iad.proxy.amazon.com.html",
-    "date": "2026-02-18T12:38:13.317342+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "sherlock-admin-jlb.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/sherlock-admin-jlb.corp.amazon.com.html",
-    "date": "2026-02-18T12:38:13.305791+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
