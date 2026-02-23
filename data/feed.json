@@ -1,5 +1,44 @@
 [
   {
+    "domain": "cloud--login--netcoinss.pages.dev",
+    "link": "https://richesec.github.io/phishing-watchdog/check/cloud--login--netcoinss.pages.dev.html",
+    "date": "2026-02-23T06:55:20.151981+00:00",
+    "mx": false,
+    "keywords": [
+      "login"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "app-login--bits-goldd.pages.dev",
+    "link": "https://richesec.github.io/phishing-watchdog/check/app-login--bits-goldd.pages.dev.html",
+    "date": "2026-02-23T06:55:20.103461+00:00",
+    "mx": false,
+    "keywords": [
+      "login"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "login-web--kucoin.pages.dev",
+    "link": "https://richesec.github.io/phishing-watchdog/check/login-web--kucoin.pages.dev.html",
+    "date": "2026-02-23T06:55:20.072848+00:00",
+    "mx": false,
+    "keywords": [
+      "login"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "test.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/test.paypal.com.html",
     "date": "2026-02-23T01:12:03.096179+00:00",
@@ -11078,39 +11117,6 @@
     "brand_match": "amazon",
     "brand_similarity": 1.0,
     "threat_score": 45,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ihmplanogram-iad5-iad.iad.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/ihmplanogram-iad5-iad.iad.proxy.amazon.com.html",
-    "date": "2026-02-18T12:38:14.478182+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ivas-portal-nrt.nrt.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/ivas-portal-nrt.nrt.proxy.amazon.com.html",
-    "date": "2026-02-18T12:38:14.356782+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "meetingpolls.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/meetingpolls.amazon.com.html",
-    "date": "2026-02-18T12:38:14.346196+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
     "threat_level": "MEDIUM"
   }
 ]
