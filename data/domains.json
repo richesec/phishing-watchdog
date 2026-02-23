@@ -1,19 +1,5 @@
 [
   {
-    "domain": "internal-nlrecovery3.aka.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [
-      "recovery",
-      "recover"
-    ],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-02-18T12:38:14.557506+00:00",
-    "threat_score": 45,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "www.test34.stage.paypal.com",
     "mx": false,
     "has_ip": true,
@@ -11116,6 +11102,19 @@
     "brand_match": null,
     "brand_similarity": null,
     "date": "2026-02-23T06:55:20.151981+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "cloud--enn-login--gold-of-biits.pages.dev",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "login"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-02-23T12:40:05.286263+00:00",
     "threat_score": 20,
     "threat_level": "LOW"
   }

@@ -1,5 +1,18 @@
 [
   {
+    "domain": "cloud--enn-login--gold-of-biits.pages.dev",
+    "link": "https://richesec.github.io/phishing-watchdog/check/cloud--enn-login--gold-of-biits.pages.dev.html",
+    "date": "2026-02-23T12:40:05.286263+00:00",
+    "mx": false,
+    "keywords": [
+      "login"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "cloud--login--netcoinss.pages.dev",
     "link": "https://richesec.github.io/phishing-watchdog/check/cloud--login--netcoinss.pages.dev.html",
     "date": "2026-02-23T06:55:20.151981+00:00",
@@ -11103,20 +11116,6 @@
     "brand_match": "paypal",
     "brand_similarity": 1.0,
     "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "internal-nlrecovery3.aka.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/internal-nlrecovery3.aka.amazon.com.html",
-    "date": "2026-02-18T12:38:14.557506+00:00",
-    "mx": false,
-    "keywords": [
-      "recovery",
-      "recover"
-    ],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 45,
     "threat_level": "MEDIUM"
   }
 ]
