@@ -1,5 +1,18 @@
 [
   {
+    "domain": "verify-id-cards--verifyid-a3d16.europe-west4.hosted.app",
+    "link": "https://richesec.github.io/phishing-watchdog/check/verify-id-cards--verifyid-a3d16.europe-west4.hosted.app.html",
+    "date": "2026-02-28T18:19:50.672815+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "verify---account.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/verify---account.com.html",
     "date": "2026-02-28T01:02:23.110342+00:00",
@@ -11132,16 +11145,5 @@
     "brand_similarity": 1.0,
     "threat_score": 65,
     "threat_level": "HIGH"
-  },
-  {
-    "domain": "iad.stats.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/iad.stats.paypal.com.html",
-    "date": "2026-02-21T12:27:26.130750+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
   }
 ]
