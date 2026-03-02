@@ -1,5 +1,18 @@
 [
   {
+    "domain": "robinhood--login--app.pages.dev",
+    "link": "https://richesec.github.io/phishing-watchdog/check/robinhood--login--app.pages.dev.html",
+    "date": "2026-03-02T06:44:52.679202+00:00",
+    "mx": false,
+    "keywords": [
+      "login"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "clarify-beta-cn.integ.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/clarify-beta-cn.integ.amazon.com.html",
     "date": "2026-03-02T01:10:22.924330+00:00",
@@ -11133,17 +11146,6 @@
     "domain": "ads-superset.aka.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/ads-superset.aka.amazon.com.html",
     "date": "2026-02-25T18:53:14.042237+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "gamma.slate.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/gamma.slate.amazon.com.html",
-    "date": "2026-02-25T18:53:14.019438+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",

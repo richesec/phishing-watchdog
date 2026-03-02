@@ -1,16 +1,5 @@
 [
   {
-    "domain": "gamma.slate.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-02-25T18:53:14.019438+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "ads-superset.aka.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11150,5 +11139,18 @@
     "date": "2026-03-02T01:10:22.924330+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "robinhood--login--app.pages.dev",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [
+      "login"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-03-02T06:44:52.679202+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]
