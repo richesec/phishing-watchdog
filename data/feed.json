@@ -1,5 +1,19 @@
 [
   {
+    "domain": "verify--coinsmart-login.pages.dev",
+    "link": "https://richesec.github.io/phishing-watchdog/check/verify--coinsmart-login.pages.dev.html",
+    "date": "2026-03-03T12:35:06.777451+00:00",
+    "mx": false,
+    "keywords": [
+      "login",
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 25,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "te-federated.qa.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/te-federated.qa.paypal.com.html",
     "date": "2026-03-03T06:39:26.452012+00:00",
@@ -11139,17 +11153,6 @@
     "domain": "www.test14.stage.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/www.test14.stage.paypal.com.html",
     "date": "2026-02-26T06:48:01.388435+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "www.stage2d0022.stage.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/www.stage2d0022.stage.paypal.com.html",
-    "date": "2026-02-26T06:48:01.380970+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "paypal",
