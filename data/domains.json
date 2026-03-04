@@ -1,16 +1,5 @@
 [
   {
-    "domain": "api.test50.stage.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-02-26T12:40:29.406042+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "webhook-observability.paypal.com",
     "mx": false,
     "has_ip": true,
@@ -11171,5 +11160,18 @@
     "date": "2026-03-04T06:36:48.002272+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "login-us--tregr.pages.dev",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "login"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-03-04T12:33:29.896546+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]

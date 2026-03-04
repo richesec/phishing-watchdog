@@ -1,5 +1,18 @@
 [
   {
+    "domain": "login-us--tregr.pages.dev",
+    "link": "https://richesec.github.io/phishing-watchdog/check/login-us--tregr.pages.dev.html",
+    "date": "2026-03-04T12:33:29.896546+00:00",
+    "mx": false,
+    "keywords": [
+      "login"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "api.stage2du152.stage.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/api.stage2du152.stage.paypal.com.html",
     "date": "2026-03-04T06:36:48.002272+00:00",
@@ -11154,17 +11167,6 @@
     "domain": "webhook-observability.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/webhook-observability.paypal.com.html",
     "date": "2026-02-26T12:40:29.458004+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "api.test50.stage.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/api.test50.stage.paypal.com.html",
-    "date": "2026-02-26T12:40:29.406042+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "paypal",
