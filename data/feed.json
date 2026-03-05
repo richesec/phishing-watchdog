@@ -1,5 +1,18 @@
 [
   {
+    "domain": "wallet--trust-pdf.pages.dev",
+    "link": "https://richesec.github.io/phishing-watchdog/check/wallet--trust-pdf.pages.dev.html",
+    "date": "2026-03-05T12:37:14.493301+00:00",
+    "mx": false,
+    "keywords": [
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "www.salesforce.csi2.stage.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/www.salesforce.csi2.stage.paypal.com.html",
     "date": "2026-03-05T06:39:30.198287+00:00",
@@ -11152,17 +11165,6 @@
     "domain": "zootapi.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/zootapi.paypal.com.html",
     "date": "2026-02-26T12:40:30.380345+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "www.izettle.stage.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/www.izettle.stage.paypal.com.html",
-    "date": "2026-02-26T12:40:30.309239+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "paypal",

@@ -1,16 +1,5 @@
 [
   {
-    "domain": "www.izettle.stage.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-02-26T12:40:30.309239+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "zootapi.paypal.com",
     "mx": false,
     "has_ip": true,
@@ -11169,5 +11158,18 @@
     "date": "2026-03-05T06:39:30.198287+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "wallet--trust-pdf.pages.dev",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-03-05T12:37:14.493301+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]
