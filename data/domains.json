@@ -1,16 +1,5 @@
 [
   {
-    "domain": "adwords.google.pt",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "google",
-    "brand_similarity": 1.0,
-    "date": "2026-03-02T12:35:33.752973+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "console.in.cloud.google",
     "mx": false,
     "has_ip": true,
@@ -11150,5 +11139,18 @@
     "date": "2026-03-08T06:33:18.184590+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "ldger-login--eng.pages.dev",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "login"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-03-08T12:27:01.481116+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]

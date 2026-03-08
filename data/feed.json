@@ -1,5 +1,18 @@
 [
   {
+    "domain": "ldger-login--eng.pages.dev",
+    "link": "https://richesec.github.io/phishing-watchdog/check/ldger-login--eng.pages.dev.html",
+    "date": "2026-03-08T12:27:01.481116+00:00",
+    "mx": false,
+    "keywords": [
+      "login"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "alt2.aspmx.l.google.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/alt2.aspmx.l.google.com.html",
     "date": "2026-03-08T06:33:18.184590+00:00",
@@ -11138,17 +11151,6 @@
     "brand_match": "icloud",
     "brand_similarity": 0.83,
     "threat_score": 29,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "adwords.google.pt",
-    "link": "https://richesec.github.io/phishing-watchdog/check/adwords.google.pt.html",
-    "date": "2026-03-02T12:35:33.752973+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "google",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
     "threat_level": "MEDIUM"
   }
 ]
