@@ -1,16 +1,5 @@
 [
   {
-    "domain": "golang.google.cn",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "google",
-    "brand_similarity": 1.0,
-    "date": "2026-03-08T01:11:01.024262+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "googleblog.com",
     "mx": false,
     "has_ip": true,
@@ -11143,5 +11132,19 @@
     "date": "2026-03-11T01:06:31.434637+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "verify---account.com",
+    "mx": true,
+    "has_ip": true,
+    "keywords": [
+      "verify",
+      "account"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-03-11T06:40:28.842549+00:00",
+    "threat_score": 50,
+    "threat_level": "HIGH"
   }
 ]
