@@ -1,5 +1,16 @@
 [
   {
+    "domain": "calhadoop-vip.phx.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/calhadoop-vip.phx.paypal.com.html",
+    "date": "2026-03-20T06:43:27.132899+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "pypl-looker-02.dev51-test-apps-are-bi.dev51.cbf.dev.paypalinc.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/pypl-looker-02.dev51-test-apps-are-bi.dev51.cbf.dev.paypalinc.com.html",
     "date": "2026-03-20T01:10:41.264042+00:00",
@@ -11182,17 +11193,6 @@
     "domain": "brandregistry-marketing-se.corp.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/brandregistry-marketing-se.corp.amazon.com.html",
     "date": "2026-03-16T12:48:03.066074+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "brandregistry-marketing-sg.aka.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/brandregistry-marketing-sg.aka.corp.amazon.com.html",
-    "date": "2026-03-16T12:48:03.042200+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
