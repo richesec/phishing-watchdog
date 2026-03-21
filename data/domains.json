@@ -1,16 +1,5 @@
 [
   {
-    "domain": "uptycspay.paypal.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-03-16T18:48:09.709231+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "api.stage2d0067.stage.paypal.com",
     "mx": false,
     "has_ip": true,
@@ -11162,5 +11151,18 @@
     "date": "2026-03-21T12:28:04.451537+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "robinhood-login--auth.pages.dev",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "login"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-03-21T18:25:33.802030+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]

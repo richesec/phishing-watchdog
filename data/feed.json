@@ -1,5 +1,18 @@
 [
   {
+    "domain": "robinhood-login--auth.pages.dev",
+    "link": "https://richesec.github.io/phishing-watchdog/check/robinhood-login--auth.pages.dev.html",
+    "date": "2026-03-21T18:25:33.802030+00:00",
+    "mx": false,
+    "keywords": [
+      "login"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "pointofsale-s.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/pointofsale-s.paypal.com.html",
     "date": "2026-03-21T12:28:04.451537+00:00",
@@ -11145,17 +11158,6 @@
     "domain": "api.stage2d0067.stage.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/api.stage2d0067.stage.paypal.com.html",
     "date": "2026-03-16T18:48:09.719866+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "uptycspay.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/uptycspay.paypal.com.html",
-    "date": "2026-03-16T18:48:09.709231+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "paypal",
