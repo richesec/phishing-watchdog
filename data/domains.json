@@ -1,16 +1,5 @@
 [
   {
-    "domain": "www.paypal.co",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-03-17T18:49:45.826402+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "pp-au.paypal.com",
     "mx": false,
     "has_ip": false,
@@ -11169,5 +11158,18 @@
     "date": "2026-03-23T12:42:41.190751+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "wallet-trezor-io--us.pages.dev",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-03-23T18:41:29.613309+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]
