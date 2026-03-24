@@ -1,5 +1,18 @@
 [
   {
+    "domain": "api-verify--cloudflare.southcat.cc",
+    "link": "https://richesec.github.io/phishing-watchdog/check/api-verify--cloudflare.southcat.cc.html",
+    "date": "2026-03-24T18:49:05.626249+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "infrasrv-udns-vip.ccg21.lvs.paypalinc.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/infrasrv-udns-vip.ccg21.lvs.paypalinc.com.html",
     "date": "2026-03-24T12:46:20.380917+00:00",
@@ -11147,17 +11160,6 @@
     "brand_match": "paypal",
     "brand_similarity": 1.0,
     "threat_score": 40,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "emf-operator-console-prod-sin-cell1.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/emf-operator-console-prod-sin-cell1.corp.amazon.com.html",
-    "date": "2026-03-18T06:51:57.471087+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
     "threat_level": "MEDIUM"
   }
 ]

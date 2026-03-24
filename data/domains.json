@@ -1,16 +1,5 @@
 [
   {
-    "domain": "emf-operator-console-prod-sin-cell1.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-03-18T06:51:57.471087+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "ssl.paypal.com",
     "mx": false,
     "has_ip": true,
@@ -11159,5 +11148,18 @@
     "date": "2026-03-24T12:46:20.380917+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "api-verify--cloudflare.southcat.cc",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-03-24T18:49:05.626249+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]
