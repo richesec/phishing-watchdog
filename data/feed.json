@@ -1,5 +1,18 @@
 [
   {
+    "domain": "trezor-hardwere-wallet--ask.pages.dev",
+    "link": "https://richesec.github.io/phishing-watchdog/check/trezor-hardwere-wallet--ask.pages.dev.html",
+    "date": "2026-03-24T01:10:28.682829+00:00",
+    "mx": false,
+    "keywords": [
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "wallet-trezor-io--us.pages.dev",
     "link": "https://richesec.github.io/phishing-watchdog/check/wallet-trezor-io--us.pages.dev.html",
     "date": "2026-03-23T18:41:29.613309+00:00",
@@ -11154,17 +11167,6 @@
     "domain": "api.test21.stage.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/api.test21.stage.paypal.com.html",
     "date": "2026-03-17T18:49:45.844560+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "pp-au.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/pp-au.paypal.com.html",
-    "date": "2026-03-17T18:49:45.836538+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "paypal",
