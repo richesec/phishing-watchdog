@@ -1,27 +1,5 @@
 [
   {
-    "domain": "connections-reporting-v2.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-03-27T18:44:53.305083+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "persist.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-03-27T18:44:53.312588+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "pintool.corp.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11166,6 +11144,28 @@
     "brand_match": "paypal",
     "brand_similarity": 1.0,
     "date": "2026-03-30T18:49:08.514145+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "programmablesearchengine.google.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-03-31T01:21:06.501772+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "acs-autopush.voice.google.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-03-31T01:21:06.601016+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }

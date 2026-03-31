@@ -1,5 +1,27 @@
 [
   {
+    "domain": "acs-autopush.voice.google.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/acs-autopush.voice.google.com.html",
+    "date": "2026-03-31T01:21:06.601016+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "programmablesearchengine.google.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/programmablesearchengine.google.com.html",
+    "date": "2026-03-31T01:21:06.501772+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "www.tsp.stage.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/www.tsp.stage.paypal.com.html",
     "date": "2026-03-30T18:49:08.514145+00:00",
@@ -11140,28 +11162,6 @@
     "domain": "pintool.corp.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/pintool.corp.amazon.com.html",
     "date": "2026-03-27T18:44:53.320372+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "persist.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/persist.amazon.com.html",
-    "date": "2026-03-27T18:44:53.312588+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "connections-reporting-v2.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/connections-reporting-v2.corp.amazon.com.html",
-    "date": "2026-03-27T18:44:53.305083+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
