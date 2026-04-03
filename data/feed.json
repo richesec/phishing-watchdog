@@ -1,5 +1,18 @@
 [
   {
+    "domain": "trezor--wallet--info.pages.dev",
+    "link": "https://richesec.github.io/phishing-watchdog/check/trezor--wallet--info.pages.dev.html",
+    "date": "2026-04-03T18:36:35.210304+00:00",
+    "mx": false,
+    "keywords": [
+      "wallet"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "node-cspreportnodeweb-vip.dz1.dev51.cbf.dev.paypalinc.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/node-cspreportnodeweb-vip.dz1.dev51.cbf.dev.paypalinc.com.html",
     "date": "2026-04-01T01:28:06.717466+00:00",
@@ -11151,17 +11164,6 @@
     "domain": "fsc-dub.corp.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/fsc-dub.corp.amazon.com.html",
     "date": "2026-03-27T18:44:53.378944+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "eider.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/eider.corp.amazon.com.html",
-    "date": "2026-03-27T18:44:53.371588+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
