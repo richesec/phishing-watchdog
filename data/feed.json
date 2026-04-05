@@ -1,5 +1,38 @@
 [
   {
+    "domain": "te-dash.qa.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/te-dash.qa.paypal.com.html",
+    "date": "2026-04-05T01:23:30.892550+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "www.te-dash.qa.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/www.te-dash.qa.paypal.com.html",
+    "date": "2026-04-05T01:23:30.871477+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "privacybrands.qa.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/privacybrands.qa.paypal.com.html",
+    "date": "2026-04-05T01:23:30.838667+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "cronus-srepo.qa.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/cronus-srepo.qa.paypal.com.html",
     "date": "2026-04-04T06:49:10.828594+00:00",
@@ -11129,39 +11162,6 @@
     "domain": "redfort.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/redfort.amazon.com.html",
     "date": "2026-03-27T18:44:53.459973+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "tsunqa-device-farm.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/tsunqa-device-farm.corp.amazon.com.html",
-    "date": "2026-03-27T18:44:53.453505+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "beauty-internal-web-na-beta.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/beauty-internal-web-na-beta.corp.amazon.com.html",
-    "date": "2026-03-27T18:44:53.446462+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "globalthreatlist.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/globalthreatlist.corp.amazon.com.html",
-    "date": "2026-03-27T18:44:53.439664+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
