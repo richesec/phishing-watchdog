@@ -1,16 +1,5 @@
 [
   {
-    "domain": "creturnspasture-eu-gamma-tcp-dub.dub.proxy.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-04-05T12:36:39.375869+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "maxwell-eu-gamma.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11163,6 +11152,17 @@
     "brand_match": "paypal",
     "brand_similarity": 1.0,
     "date": "2026-04-08T01:22:48.249807+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "programmablesearchengine.google.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-04-08T07:09:16.968439+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }

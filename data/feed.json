@@ -1,5 +1,16 @@
 [
   {
+    "domain": "programmablesearchengine.google.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/programmablesearchengine.google.com.html",
+    "date": "2026-04-08T07:09:16.968439+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "te-dash.qa.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/te-dash.qa.paypal.com.html",
     "date": "2026-04-08T01:22:48.249807+00:00",
@@ -11148,17 +11159,6 @@
     "domain": "maxwell-eu-gamma.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/maxwell-eu-gamma.amazon.com.html",
     "date": "2026-04-05T12:36:39.386665+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "creturnspasture-eu-gamma-tcp-dub.dub.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/creturnspasture-eu-gamma-tcp-dub.dub.proxy.amazon.com.html",
-    "date": "2026-04-05T12:36:39.375869+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
