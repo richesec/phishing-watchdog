@@ -1,93 +1,5 @@
 [
   {
-    "domain": "maxwell-eu-gamma.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-04-05T12:36:39.386665+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "issuance-dashboard2-na-jlb-l-iad.iad.proxy.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-04-05T12:36:39.398530+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "arnold-cn-gamma.aka.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-04-05T12:36:39.409319+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "catalog-config-sso.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-04-05T12:36:39.419911+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "weblab-redesign-gamma.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-04-05T12:36:39.430579+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "sb-buyplan-gamma.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-04-05T12:36:39.447012+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "clouseau-investigation-gamma-iad.iad.proxy.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-04-05T12:36:39.496988+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "onepod-staffingcommandcenter-na.aka.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-04-05T12:36:39.539750+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "ihmgranite-dub-daemon.integ.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11163,6 +11075,98 @@
     "brand_match": "google",
     "brand_similarity": 1.0,
     "date": "2026-04-08T07:09:16.968439+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "iot-expresslink.aws.amazon.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "ssl"
+    ],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-04-09T07:13:16.042981+00:00",
+    "threat_score": 40,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "dogma-gamma.corp.amazon.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-04-09T07:13:16.257310+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "dogma-api-gamma.corp.amazon.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-04-09T07:13:16.293945+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "iot-expresslink.us-west-2.amazonaws.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "ssl"
+    ],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-04-09T07:13:16.409055+00:00",
+    "threat_score": 40,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "aea-console-canary.aea.amazon.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-04-09T07:13:16.553513+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "appstream2.euc-sso.eu-west-3.aws.amazon.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-04-09T07:13:16.590122+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "workspaces.euc-sso.eu-west-3.aws.amazon.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-04-09T07:13:16.649039+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "groups.v2.learn-alpha.amazon.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-04-09T07:13:16.946266+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }
