@@ -1,5 +1,16 @@
 [
   {
+    "domain": "acs-dev.voice.google.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/acs-dev.voice.google.com.html",
+    "date": "2026-04-12T18:36:48.496530+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "te-evafulfillmentserv-shupaul.dev51.cbf.dev.paypalinc.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/te-evafulfillmentserv-shupaul.dev51.cbf.dev.paypalinc.com.html",
     "date": "2026-04-12T01:27:12.256220+00:00",
@@ -11191,17 +11202,6 @@
     "domain": "autoscaling-mis.integ.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/autoscaling-mis.integ.amazon.com.html",
     "date": "2026-04-05T12:36:40.141081+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "nexus-gamma.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/nexus-gamma.amazon.com.html",
-    "date": "2026-04-05T12:36:40.130191+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
