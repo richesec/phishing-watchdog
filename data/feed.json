@@ -1,5 +1,27 @@
 [
   {
+    "domain": "api.test28.stage.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/api.test28.stage.paypal.com.html",
+    "date": "2026-04-15T19:05:07.577212+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "tdpjacococlientserv.qa.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/tdpjacococlientserv.qa.paypal.com.html",
+    "date": "2026-04-15T19:05:07.545669+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "api-secure.stage.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/api-secure.stage.paypal.com.html",
     "date": "2026-04-15T13:00:07.734390+00:00",
@@ -11128,28 +11150,6 @@
     "domain": "kamino-ui-gamma-jlb-dub.dub.proxy.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/kamino-ui-gamma-jlb-dub.dub.proxy.amazon.com.html",
     "date": "2026-04-07T18:48:43.795950+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "browse-corrections-na-jlb.integ.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/browse-corrections-na-jlb.integ.amazon.com.html",
-    "date": "2026-04-07T18:48:43.785394+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "boiler-ec2.integ.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/boiler-ec2.integ.amazon.com.html",
-    "date": "2026-04-07T18:48:43.774599+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
