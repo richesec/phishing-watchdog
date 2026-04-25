@@ -1,5 +1,27 @@
 [
   {
+    "domain": "gmail-smtp-in.l.google.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/gmail-smtp-in.l.google.com.html",
+    "date": "2026-04-25T07:07:36.304510+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "alt2.gmr-smtp-in.l.google.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/alt2.gmr-smtp-in.l.google.com.html",
+    "date": "2026-04-25T07:07:36.252317+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "console.us.cloud.google.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/console.us.cloud.google.com.html",
     "date": "2026-04-25T01:23:38.965404+00:00",
@@ -11096,28 +11118,6 @@
     "domain": "calhadoop-vip-b.slc.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/calhadoop-vip-b.slc.paypal.com.html",
     "date": "2026-04-15T01:24:24.563003+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "controlm-qa-em-sec.qa.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/controlm-qa-em-sec.qa.paypal.com.html",
-    "date": "2026-04-15T01:24:24.552920+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "smart-vip.qa.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/smart-vip.qa.paypal.com.html",
-    "date": "2026-04-15T01:24:24.542075+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "paypal",
