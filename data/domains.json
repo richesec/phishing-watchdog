@@ -1,16 +1,5 @@
 [
   {
-    "domain": "api.stage2du108.stage.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-04-15T01:24:25.288699+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "alt4.aspmx.l.google.com",
     "mx": false,
     "has_ip": true,
@@ -11123,6 +11112,17 @@
     "brand_similarity": 1.0,
     "date": "2026-04-26T12:41:33.415261+00:00",
     "threat_score": 40,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "manifest.lh3.photos.google.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-04-26T18:37:01.680384+00:00",
+    "threat_score": 35,
     "threat_level": "MEDIUM"
   }
 ]
