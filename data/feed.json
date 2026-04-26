@@ -1,5 +1,38 @@
 [
   {
+    "domain": "gbc.beatthatquote.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/gbc.beatthatquote.com.html",
+    "date": "2026-04-26T07:17:20.273115+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "att",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "cdn.zettleby.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/cdn.zettleby.paypal.com.html",
+    "date": "2026-04-26T07:17:20.211296+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "api.stage2du116.stage.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/api.stage2du116.stage.paypal.com.html",
+    "date": "2026-04-26T07:17:19.874579+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "www.te-grc.qa.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/www.te-grc.qa.paypal.com.html",
     "date": "2026-04-26T01:32:02.068718+00:00",
@@ -11088,41 +11121,6 @@
     "brand_match": "google",
     "brand_similarity": 1.0,
     "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "te-rucs-release.qa.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/te-rucs-release.qa.paypal.com.html",
-    "date": "2026-04-15T01:24:25.223170+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "infrasrv-skynet.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/infrasrv-skynet.paypal.com.html",
-    "date": "2026-04-15T01:24:25.211622+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "securityscanner.qa.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/securityscanner.qa.paypal.com.html",
-    "date": "2026-04-15T01:24:25.201609+00:00",
-    "mx": false,
-    "keywords": [
-      "security"
-    ],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 40,
     "threat_level": "MEDIUM"
   }
 ]
