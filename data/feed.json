@@ -1,5 +1,18 @@
 [
   {
+    "domain": "securityscanner.qa.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/securityscanner.qa.paypal.com.html",
+    "date": "2026-04-26T12:41:33.415261+00:00",
+    "mx": false,
+    "keywords": [
+      "security"
+    ],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 40,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "gbc.beatthatquote.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/gbc.beatthatquote.com.html",
     "date": "2026-04-26T07:17:20.273115+00:00",
@@ -11108,17 +11121,6 @@
     "mx": false,
     "keywords": [],
     "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "manifest.lh3.photos.google.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/manifest.lh3.photos.google.com.html",
-    "date": "2026-04-15T01:24:25.272330+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "google",
     "brand_similarity": 1.0,
     "threat_score": 35,
     "threat_level": "MEDIUM"
