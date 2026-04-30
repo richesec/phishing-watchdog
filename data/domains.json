@@ -1,16 +1,5 @@
 [
   {
-    "domain": "ses-gru.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-04-27T19:06:41.065844+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "ses-cdg.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11119,6 +11108,17 @@
     "brand_match": "google",
     "brand_similarity": 1.0,
     "date": "2026-04-30T08:02:43.330069+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "da-twd-7.da.ext.google.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-04-30T19:06:19.705267+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }
