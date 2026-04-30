@@ -1,16 +1,5 @@
 [
   {
-    "domain": "ddb-mechanic-prod-us-west-1-pod01.aka.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-04-27T19:06:41.041711+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "ses-gru.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11119,6 +11108,17 @@
     "brand_match": "google",
     "brand_similarity": 1.0,
     "date": "2026-04-29T01:58:46.415201+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "da-mtv-5.da.ext.google.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-04-30T08:02:43.330069+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }
