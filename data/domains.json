@@ -1,16 +1,5 @@
 [
   {
-    "domain": "galaxybi-eu.aka.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-04-27T19:06:44.028705+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "et-telescope.corp.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11118,5 +11107,16 @@
     "date": "2026-05-02T01:51:19.200623+00:00",
     "threat_score": 60,
     "threat_level": "HIGH"
+  },
+  {
+    "domain": "upm.dev.paypalinc.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-05-02T07:22:52.517721+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
   }
 ]
