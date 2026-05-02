@@ -1,5 +1,27 @@
 [
   {
+    "domain": "calljoy.area120.google.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/calljoy.area120.google.com.html",
+    "date": "2026-05-02T18:43:08.010725+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "www.stage2du150.stage.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/www.stage2du150.stage.paypal.com.html",
+    "date": "2026-05-02T18:43:07.982028+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "us-east-2.lightsail.aws.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/us-east-2.lightsail.aws.amazon.com.html",
     "date": "2026-05-02T12:46:13.275996+00:00",
@@ -11084,28 +11106,6 @@
     "domain": "assoc-fraud-dashboard-gamma-dub.dub.proxy.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/assoc-fraud-dashboard-gamma-dub.dub.proxy.amazon.com.html",
     "date": "2026-04-27T19:06:45.654185+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "roma-tools-search-proxy-fe-pdx.pdx.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/roma-tools-search-proxy-fe-pdx.pdx.proxy.amazon.com.html",
-    "date": "2026-04-27T19:06:45.630436+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "attendance.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/attendance.corp.amazon.com.html",
-    "date": "2026-04-27T19:06:45.600918+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",

@@ -1,27 +1,5 @@
 [
   {
-    "domain": "attendance.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-04-27T19:06:45.600918+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "roma-tools-search-proxy-fe-pdx.pdx.proxy.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-04-27T19:06:45.630436+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "assoc-fraud-dashboard-gamma-dub.dub.proxy.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11110,6 +11088,28 @@
     "brand_match": "amazon",
     "brand_similarity": 1.0,
     "date": "2026-05-02T12:46:13.275996+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "www.stage2du150.stage.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-05-02T18:43:07.982028+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "calljoy.area120.google.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-05-02T18:43:08.010725+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }
