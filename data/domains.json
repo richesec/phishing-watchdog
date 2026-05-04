@@ -1,16 +1,5 @@
 [
   {
-    "domain": "nsm-bkk.aka.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-04-27T19:06:45.877542+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "securitydashboard.corp.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11108,6 +11097,17 @@
     "brand_match": "paypal",
     "brand_similarity": 1.0,
     "date": "2026-05-03T01:51:46.635271+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "smtp-proxy.corp.google.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-05-04T13:22:49.711559+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }

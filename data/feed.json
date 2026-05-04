@@ -1,5 +1,16 @@
 [
   {
+    "domain": "smtp-proxy.corp.google.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/smtp-proxy.corp.google.com.html",
+    "date": "2026-05-04T13:22:49.711559+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "node-stargatesmokeserv-vip.live44.dcg05.phx.paypalinc.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/node-stargatesmokeserv-vip.live44.dcg05.phx.paypalinc.com.html",
     "date": "2026-05-03T01:51:46.635271+00:00",
@@ -11098,17 +11109,6 @@
     "brand_match": "amazon",
     "brand_similarity": 1.0,
     "threat_score": 40,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "nsm-bkk.aka.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/nsm-bkk.aka.corp.amazon.com.html",
-    "date": "2026-04-27T19:06:45.877542+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
     "threat_level": "MEDIUM"
   }
 ]
