@@ -1,16 +1,5 @@
 [
   {
-    "domain": "emf-operator-console-prod-nrt-cell3.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-04-27T19:06:46.037570+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "ddb-mechanic-prod-us-east-1-pod03.aka.corp.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11106,6 +11095,17 @@
     "brand_match": "google",
     "brand_similarity": 1.0,
     "date": "2026-05-04T19:13:36.399242+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "get.duo.google.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-05-05T07:53:47.580021+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }
