@@ -1,206 +1,5 @@
 [
   {
-    "domain": "mx16.slc.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-04-28T08:09:15.718133+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "resnowserv-qa.us-ce1-tools-mgt-rls-workflow.dev51.cbf.dev.paypalinc.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-04-28T08:09:15.789115+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "relapiserv.us-ce1-tools-mgt-rls-workflow.dev51.cbf.dev.paypalinc.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-04-28T08:09:15.831134+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "node-kafkarecoveryserv-vip.live16.dcg13.slc.paypalinc.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [
-      "recovery",
-      "recover"
-    ],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-04-28T08:09:15.874333+00:00",
-    "threat_score": 45,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "mailapiserv-vip.live16.dcg13.slc.paypalinc.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-04-28T08:09:15.888512+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ccg14mail06.ccg14.slc.paypalinc.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-04-28T08:09:15.916645+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "te-ptf-artcontrollerserv.qa.paypal.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-04-28T08:09:15.932603+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "mx5.phx.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-04-28T08:09:15.939725+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ccg01mail03.ccg01.phx.paypalinc.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-04-28T08:09:15.955294+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "rrs.us-ce1-tools-mgt-rls-workflow.dev51.cbf.dev.paypalinc.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-04-28T08:09:15.975206+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "mx3.slc.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-04-28T08:09:15.985272+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ccg13mail01.ccg13.slc.paypalinc.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-04-28T08:09:16.063994+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "api.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-04-28T08:09:16.100410+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "mx8.slc.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-04-28T08:09:16.108185+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ccg01mail08.ccg01.phx.paypalinc.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-04-28T08:09:16.186411+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "api.stage2du138.stage.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-04-28T08:09:16.201507+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "www.test71.stage.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-04-28T08:09:16.218680+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "paypal-notify.com",
-    "mx": true,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-04-28T08:09:16.254099+00:00",
-    "threat_score": 60,
-    "threat_level": "HIGH"
-  },
-  {
     "domain": "mailapiservnontxn.g.paypalinc.com",
     "mx": false,
     "has_ip": false,
@@ -11154,6 +10953,215 @@
     "brand_similarity": 1.0,
     "date": "2026-05-08T02:02:14.770182+00:00",
     "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "test456.paypal.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-05-08T07:17:37.714621+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "node-kafkarecoveryserv-vip.live6.slc.paypal.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [
+      "recovery",
+      "recover"
+    ],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-05-08T07:17:37.740176+00:00",
+    "threat_score": 45,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "api.stage2du34.stage.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-05-08T07:17:37.774396+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "mx10.phx.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-05-08T07:17:37.914848+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "kafkarecoveryserv-app.paypalinc.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [
+      "recovery",
+      "recover"
+    ],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-05-08T07:17:38.322713+00:00",
+    "threat_score": 45,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "api.stage2d0080.stage.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-05-08T07:17:38.353691+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "mailapiserv.g.paypalinc.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-05-08T07:17:38.404260+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "ait.us-ce1-tools-mgt-rls-workflow.dev51.cbf.dev.paypalinc.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-05-08T07:17:38.527798+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "www.paypal-status.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-05-08T07:17:38.746319+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "uc4app02-prd.vip.paypal.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-05-08T07:17:38.787377+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "cmsapi.qa.paypal.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-05-08T07:17:38.831883+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "node-kafkarecoveryserv-vip.live10.dcg02.phx.paypalinc.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [
+      "recovery",
+      "recover"
+    ],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-05-08T07:17:38.941239+00:00",
+    "threat_score": 45,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "ccg01mail02.ccg01.phx.paypalinc.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-05-08T07:17:39.010813+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "mx4.phx.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-05-08T07:17:39.053911+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "cmsapi.cbf.g.dev.paypalinc.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-05-08T07:17:39.060926+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "paypal-status.com",
+    "mx": true,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-05-08T07:17:39.210804+00:00",
+    "threat_score": 60,
+    "threat_level": "HIGH"
+  },
+  {
+    "domain": "mx7.phx.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-05-08T07:17:39.248066+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "region1.google-analytics.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "google-"
+    ],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-05-08T07:17:39.271332+00:00",
+    "threat_score": 40,
     "threat_level": "MEDIUM"
   }
 ]
