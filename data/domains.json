@@ -1,106 +1,5 @@
 [
   {
-    "domain": "eamimporter-alpha.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-05-09T07:33:41.486335+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "diode-support-gamma-corp-mid.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [
-      "support"
-    ],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-05-09T07:33:41.494144+00:00",
-    "threat_score": 40,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "amazonstores-elasticsearch-gamma.aka.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-05-09T07:33:41.506847+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "atv-autobot-contentregistrywebsite-na-beta-jlb.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-05-09T07:33:41.514001+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "gamma-polaris.aka.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-05-09T07:33:41.522957+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "admin-apac.haystack.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-05-09T07:33:41.552994+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "vip-management.gru.amazon.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-05-09T07:33:41.584161+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "store-admin-gamma-na.aka.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-05-09T07:33:41.618135+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "admin-eu.haystack.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-05-09T07:33:41.631007+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "gtw-eu-beta.integ.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11138,6 +11037,105 @@
     "brand_match": "paypal",
     "brand_similarity": 1.0,
     "date": "2026-05-11T02:03:08.172757+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "fra-wsus-1.ad.corp.google.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-05-11T08:59:02.436756+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "hot-nls-3.hot.corp.google.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-05-11T08:59:02.472968+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "fra-nls-3.fra.corp.google.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-05-11T08:59:02.517997+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "hot-wsus.corp.google.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-05-11T08:59:02.554563+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "hot-wsus-1.ad.corp.google.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-05-11T08:59:02.584532+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "fra-wsus.corp.google.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-05-11T08:59:02.616938+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "cbf-nls-3.cbf.corp.google.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-05-11T08:59:02.650976+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "twd-nls-4.twd.corp.google.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-05-11T08:59:02.690590+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "nls-anycast.corp.google.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-05-11T08:59:02.718300+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }
