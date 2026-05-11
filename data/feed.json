@@ -1,5 +1,16 @@
 [
   {
+    "domain": "mahatest.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/mahatest.paypal.com.html",
+    "date": "2026-05-11T19:28:36.120551+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "workspaces.euc-sso.us-west-2.aws.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/workspaces.euc-sso.us-west-2.aws.amazon.com.html",
     "date": "2026-05-11T14:28:44.656511+00:00",
@@ -11121,17 +11132,6 @@
     "domain": "sonata-g2s2.aka.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/sonata-g2s2.aka.amazon.com.html",
     "date": "2026-05-09T07:33:41.858369+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "aws-billrun-gamma-iad.iad.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/aws-billrun-gamma-iad.iad.proxy.amazon.com.html",
-    "date": "2026-05-09T07:33:41.850655+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
