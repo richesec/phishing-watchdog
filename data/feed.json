@@ -1,5 +1,27 @@
 [
   {
+    "domain": "mx3.phx.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/mx3.phx.paypal.com.html",
+    "date": "2026-05-11T02:03:08.172757+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "www.te-ptf-artcontrollerserv.qa.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/www.te-ptf-artcontrollerserv.qa.paypal.com.html",
+    "date": "2026-05-11T02:03:08.158423+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "vip-management.iad.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/vip-management.iad.amazon.com.html",
     "date": "2026-05-10T18:46:36.596580+00:00",
@@ -11112,28 +11134,6 @@
     "domain": "eamimporter-alpha.corp.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/eamimporter-alpha.corp.amazon.com.html",
     "date": "2026-05-09T07:33:41.486335+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "optimus-preprod.aka.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/optimus-preprod.aka.amazon.com.html",
-    "date": "2026-05-09T07:33:41.479154+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "lbdashboard-iad.iad.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/lbdashboard-iad.iad.proxy.amazon.com.html",
-    "date": "2026-05-09T07:33:41.471036+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",

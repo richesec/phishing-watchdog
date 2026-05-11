@@ -1,27 +1,5 @@
 [
   {
-    "domain": "lbdashboard-iad.iad.proxy.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-05-09T07:33:41.471036+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "optimus-preprod.aka.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-05-09T07:33:41.479154+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "eamimporter-alpha.corp.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11138,6 +11116,28 @@
     "brand_match": "amazon",
     "brand_similarity": 1.0,
     "date": "2026-05-10T18:46:36.596580+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "www.te-ptf-artcontrollerserv.qa.paypal.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-05-11T02:03:08.158423+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "mx3.phx.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-05-11T02:03:08.172757+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }
