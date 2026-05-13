@@ -1,29 +1,5 @@
 [
   {
-    "domain": "safe-config-cdg.aka.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [
-      "safe"
-    ],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-05-09T07:33:42.235521+00:00",
-    "threat_score": 40,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "gtw-na-master-tcp-iad.iad.proxy.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-05-09T07:33:42.243078+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "safe-config-lhr.aka.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11134,6 +11110,28 @@
     "brand_match": "amazon",
     "brand_similarity": 1.0,
     "date": "2026-05-13T08:39:54.932979+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "lti.gemini.google.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-05-13T14:06:26.993245+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "artsandculture.google.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-05-13T14:06:27.033770+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }
