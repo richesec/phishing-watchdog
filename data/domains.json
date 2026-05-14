@@ -1,27 +1,5 @@
 [
   {
-    "domain": "s3-fleet-commander-syd.syd.proxy.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-05-09T07:33:42.747816+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "prod.entities.legal.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-05-09T07:33:42.846070+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "vip-management-tcp-corp.corp.proxy.amazon.com",
     "mx": false,
     "has_ip": false,
@@ -11128,6 +11106,28 @@
     "brand_match": "google",
     "brand_similarity": 1.0,
     "date": "2026-05-13T19:32:56.961782+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "node-mailapiserv-non-txn-vip.live38.dcg16.slc.paypalinc.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-05-14T02:08:52.291037+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "www.test69.stage.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-05-14T02:08:52.354831+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }

@@ -1,5 +1,27 @@
 [
   {
+    "domain": "www.test69.stage.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/www.test69.stage.paypal.com.html",
+    "date": "2026-05-14T02:08:52.354831+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "node-mailapiserv-non-txn-vip.live38.dcg16.slc.paypalinc.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/node-mailapiserv-non-txn-vip.live38.dcg16.slc.paypalinc.com.html",
+    "date": "2026-05-14T02:08:52.291037+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "fra-dc-11.corp.google.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/fra-dc-11.corp.google.com.html",
     "date": "2026-05-13T19:32:56.961782+00:00",
@@ -11102,28 +11124,6 @@
     "domain": "vip-management-tcp-corp.corp.proxy.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/vip-management-tcp-corp.corp.proxy.amazon.com.html",
     "date": "2026-05-09T07:33:42.898004+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "prod.entities.legal.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/prod.entities.legal.amazon.com.html",
-    "date": "2026-05-09T07:33:42.846070+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "s3-fleet-commander-syd.syd.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/s3-fleet-commander-syd.syd.proxy.amazon.com.html",
-    "date": "2026-05-09T07:33:42.747816+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
