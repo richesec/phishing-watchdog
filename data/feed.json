@@ -1,5 +1,40 @@
 [
   {
+    "domain": "region1.app-analytics-services.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/region1.app-analytics-services.com.html",
+    "date": "2026-05-17T12:56:25.673800+00:00",
+    "mx": false,
+    "keywords": [
+      "service"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 5,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "api.test46.stage.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/api.test46.stage.paypal.com.html",
+    "date": "2026-05-17T12:56:25.648947+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "relapiserv-qa.us-ce1-tools-mgt-rls-workflow.dev51.cbf.dev.paypalinc.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/relapiserv-qa.us-ce1-tools-mgt-rls-workflow.dev51.cbf.dev.paypalinc.com.html",
+    "date": "2026-05-17T12:56:25.626633+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "paypal.se",
     "link": "https://richesec.github.io/phishing-watchdog/check/paypal.se.html",
     "date": "2026-05-17T08:11:18.517591+00:00",
@@ -11093,40 +11128,5 @@
     "brand_similarity": 1.0,
     "threat_score": 60,
     "threat_level": "HIGH"
-  },
-  {
-    "domain": "sb-redbutton.aka.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/sb-redbutton.aka.amazon.com.html",
-    "date": "2026-05-16T18:50:03.242548+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "invoice-elasticsearch-na.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/invoice-elasticsearch-na.amazon.com.html",
-    "date": "2026-05-16T18:50:03.234318+00:00",
-    "mx": false,
-    "keywords": [
-      "invoice"
-    ],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 40,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "logistics-sg.integ.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/logistics-sg.integ.amazon.com.html",
-    "date": "2026-05-16T18:50:03.219466+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
   }
 ]
