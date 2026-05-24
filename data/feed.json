@@ -1,5 +1,16 @@
 [
   {
+    "domain": "cdn.messaging.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/cdn.messaging.paypal.com.html",
+    "date": "2026-05-24T19:01:57.747013+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "us-east-1.api.signin.aws",
     "link": "https://richesec.github.io/phishing-watchdog/check/us-east-1.api.signin.aws.html",
     "date": "2026-05-24T13:00:26.506423+00:00",
@@ -11137,17 +11148,6 @@
     "domain": "variations.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/variations.amazon.com.html",
     "date": "2026-05-20T02:09:28.016914+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ironmountain-website-cn.integ.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/ironmountain-website-cn.integ.amazon.com.html",
-    "date": "2026-05-20T02:09:28.002803+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",

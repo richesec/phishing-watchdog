@@ -1,16 +1,5 @@
 [
   {
-    "domain": "ironmountain-website-cn.integ.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-05-20T02:09:28.002803+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "variations.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11154,5 +11143,16 @@
     "date": "2026-05-24T13:00:26.506423+00:00",
     "threat_score": 5,
     "threat_level": "LOW"
+  },
+  {
+    "domain": "cdn.messaging.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-05-24T19:01:57.747013+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
   }
 ]
