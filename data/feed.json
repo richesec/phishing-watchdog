@@ -1,5 +1,16 @@
 [
   {
+    "domain": "ccg13mail07.ccg13.slc.paypalinc.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/ccg13mail07.ccg13.slc.paypalinc.com.html",
+    "date": "2026-05-26T14:40:49.508401+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "www.stonybrook.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/www.stonybrook.amazon.com.html",
     "date": "2026-05-26T09:36:46.668051+00:00",
@@ -11131,17 +11142,6 @@
     "domain": "catur-beta.corp.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/catur-beta.corp.amazon.com.html",
     "date": "2026-05-20T02:09:31.115628+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "meridian.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/meridian.corp.amazon.com.html",
-    "date": "2026-05-20T02:09:31.107779+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
