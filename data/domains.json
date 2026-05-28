@@ -1,16 +1,5 @@
 [
   {
-    "domain": "catur-beta.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-05-20T02:09:31.115628+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "bill2pay-na.integ.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11146,6 +11135,17 @@
     "brand_match": "paypal",
     "brand_similarity": 1.0,
     "date": "2026-05-26T14:40:49.508401+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "data.messaging.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-05-28T01:58:26.150313+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }
