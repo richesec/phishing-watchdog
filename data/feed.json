@@ -1,5 +1,16 @@
 [
   {
+    "domain": "data.newsletter.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/data.newsletter.paypal.com.html",
+    "date": "2026-05-30T02:02:46.211420+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "manifest.lh3.googleusercontent.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/manifest.lh3.googleusercontent.com.html",
     "date": "2026-05-29T20:09:20.975072+00:00",
@@ -11131,17 +11142,6 @@
     "domain": "videodirectpublishing.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/videodirectpublishing.amazon.com.html",
     "date": "2026-05-26T09:36:45.508332+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "g2s2-query-pre-prod.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/g2s2-query-pre-prod.amazon.com.html",
-    "date": "2026-05-26T09:36:45.500014+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",

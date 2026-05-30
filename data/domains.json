@@ -1,16 +1,5 @@
 [
   {
-    "domain": "g2s2-query-pre-prod.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-05-26T09:36:45.500014+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "videodirectpublishing.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11146,6 +11135,17 @@
     "brand_match": "google",
     "brand_similarity": 1.0,
     "date": "2026-05-29T20:09:20.975072+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "data.newsletter.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-05-30T02:02:46.211420+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }
