@@ -1,16 +1,5 @@
 [
   {
-    "domain": "houdini-merchant-regions-jp.integ.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-06-01T17:20:15.109705+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "frp-config-fe-prod.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11125,6 +11114,17 @@
     "brand_match": "paypal",
     "brand_similarity": 1.0,
     "date": "2026-06-02T10:06:13.315759+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "s.svc-1.google.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-06-02T16:00:27.771952+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }
