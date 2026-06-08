@@ -1,16 +1,5 @@
 [
   {
-    "domain": "mandark-gamma-nrt.ec2.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-06-07T08:44:33.520412+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "mobility-onebox.aka.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11097,6 +11086,17 @@
     "brand_match": "paypal",
     "brand_similarity": 1.0,
     "date": "2026-06-08T15:28:33.377842+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "api.stage2du102.stage.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-06-08T20:02:10.126616+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }
