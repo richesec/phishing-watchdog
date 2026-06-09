@@ -1,27 +1,5 @@
 [
   {
-    "domain": "mobility-onebox.aka.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-06-07T08:44:33.535343+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "avs-es.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-06-07T08:44:33.550204+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "autoassigner.corp.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11097,6 +11075,28 @@
     "brand_match": "paypal",
     "brand_similarity": 1.0,
     "date": "2026-06-08T20:02:10.126616+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "github.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-06-09T02:03:12.621130+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "github-central-b-ilb-fr-vip.dev51-tools-data-github.dev51.cbf.dev.paypalinc.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-06-09T02:03:12.680850+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }
