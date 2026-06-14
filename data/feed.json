@@ -1,5 +1,16 @@
 [
   {
+    "domain": "cal-robot-vip.ccg01.phx.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/cal-robot-vip.ccg01.phx.paypal.com.html",
+    "date": "2026-06-14T19:10:04.214475+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "connect.sandbox.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/connect.sandbox.paypal.com.html",
     "date": "2026-06-14T13:33:45.601994+00:00",
@@ -11121,17 +11132,6 @@
     "domain": "test-h2-layla.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/test-h2-layla.amazon.com.html",
     "date": "2026-06-08T02:36:35.861882+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "galaga-pricing.integ.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/galaga-pricing.integ.amazon.com.html",
-    "date": "2026-06-08T02:36:35.637397+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
