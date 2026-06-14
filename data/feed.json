@@ -1,5 +1,16 @@
 [
   {
+    "domain": "connect.sandbox.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/connect.sandbox.paypal.com.html",
+    "date": "2026-06-14T13:33:45.601994+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "node-csmessagingplatfrmserv-vip.live24.dcg15.slc.paypalinc.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/node-csmessagingplatfrmserv-vip.live24.dcg15.slc.paypalinc.com.html",
     "date": "2026-06-14T09:08:05.224621+00:00",
@@ -11124,17 +11135,6 @@
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "cal-robot-vip.ccg01.phx.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/cal-robot-vip.ccg01.phx.paypal.com.html",
-    "date": "2026-06-08T02:36:35.611158+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
     "brand_similarity": 1.0,
     "threat_score": 35,
     "threat_level": "MEDIUM"
