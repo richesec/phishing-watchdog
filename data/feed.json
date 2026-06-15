@@ -1,5 +1,18 @@
 [
   {
+    "domain": "verify-id-cards--verifyid-a3d16.europe-west4.hosted.app",
+    "link": "https://richesec.github.io/phishing-watchdog/check/verify-id-cards--verifyid-a3d16.europe-west4.hosted.app.html",
+    "date": "2026-06-15T11:47:05.443677+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "ihmgranite-jane-dub1-dub.dub.proxy.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/ihmgranite-jane-dub1-dub.dub.proxy.amazon.com.html",
     "date": "2026-06-15T02:44:00.614450+00:00",
@@ -11140,17 +11153,6 @@
     "mx": false,
     "keywords": [],
     "brand_match": "google",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "status.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/status.paypal.com.html",
-    "date": "2026-06-08T10:16:19.856361+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
     "brand_similarity": 1.0,
     "threat_score": 35,
     "threat_level": "MEDIUM"
