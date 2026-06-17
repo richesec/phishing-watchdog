@@ -1,5 +1,16 @@
 [
   {
+    "domain": "gbc.beatthatquote.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/gbc.beatthatquote.com.html",
+    "date": "2026-06-17T14:52:53.802376+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "att",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "ap-northeast-2.awsc-integ.aws.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/ap-northeast-2.awsc-integ.aws.amazon.com.html",
     "date": "2026-06-17T10:26:21.553250+00:00",
@@ -11120,17 +11131,6 @@
     "domain": "eu-acd.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/eu-acd.amazon.com.html",
     "date": "2026-06-11T15:35:57.876702+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "actarusmax.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/actarusmax.corp.amazon.com.html",
-    "date": "2026-06-11T15:35:57.869584+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
