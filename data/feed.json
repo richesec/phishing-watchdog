@@ -1,5 +1,51 @@
 [
   {
+    "domain": "console.eu.cloud.google.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/console.eu.cloud.google.com.html",
+    "date": "2026-06-19T14:44:49.525209+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "paypal-norge.no",
+    "link": "https://richesec.github.io/phishing-watchdog/check/paypal-norge.no.html",
+    "date": "2026-06-19T14:44:49.466162+00:00",
+    "mx": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 60,
+    "threat_level": "HIGH"
+  },
+  {
+    "domain": "braintreepayments.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/braintreepayments.com.html",
+    "date": "2026-06-19T14:44:49.223743+00:00",
+    "mx": true,
+    "keywords": [
+      "payment"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 30,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "c.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/c.paypal.com.html",
+    "date": "2026-06-19T14:44:49.006789+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "alt3.aspmx.l.google.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/alt3.aspmx.l.google.com.html",
     "date": "2026-06-19T10:14:21.470348+00:00",
@@ -11089,49 +11135,5 @@
     "brand_similarity": 1.0,
     "threat_score": 60,
     "threat_level": "HIGH"
-  },
-  {
-    "domain": "srng-prod.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/srng-prod.amazon.com.html",
-    "date": "2026-06-11T15:35:59.065859+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "sat-gamma.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/sat-gamma.corp.amazon.com.html",
-    "date": "2026-06-11T15:35:59.058905+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "foundry-gamma-yul.aka.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/foundry-gamma-yul.aka.amazon.com.html",
-    "date": "2026-06-11T15:35:59.042694+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ssa-central.aka.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/ssa-central.aka.amazon.com.html",
-    "date": "2026-06-11T15:35:59.028270+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
   }
 ]
