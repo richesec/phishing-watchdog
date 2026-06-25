@@ -1,5 +1,19 @@
 [
   {
+    "domain": "verify--loginn-trzzr.pages.dev",
+    "link": "https://richesec.github.io/phishing-watchdog/check/verify--loginn-trzzr.pages.dev.html",
+    "date": "2026-06-25T14:03:38.854813+00:00",
+    "mx": false,
+    "keywords": [
+      "login",
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 25,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "www.braintreepaymentsolutions.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/www.braintreepaymentsolutions.com.html",
     "date": "2026-06-25T02:11:48.985808+00:00",
@@ -11201,17 +11215,6 @@
     "domain": "thinclients.corp.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/thinclients.corp.amazon.com.html",
     "date": "2026-06-20T02:15:42.630508+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ihmlitmus-gamma-tcp-pdx.pdx.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/ihmlitmus-gamma-tcp-pdx.pdx.proxy.amazon.com.html",
-    "date": "2026-06-20T02:15:42.622735+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",

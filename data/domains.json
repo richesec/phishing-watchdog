@@ -1,16 +1,5 @@
 [
   {
-    "domain": "ihmlitmus-gamma-tcp-pdx.pdx.proxy.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-06-20T02:15:42.622735+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "thinclients.corp.amazon.com",
     "mx": false,
     "has_ip": false,
@@ -11218,5 +11207,19 @@
     "date": "2026-06-25T02:11:48.985808+00:00",
     "threat_score": 5,
     "threat_level": "LOW"
+  },
+  {
+    "domain": "verify--loginn-trzzr.pages.dev",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "login",
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-06-25T14:03:38.854813+00:00",
+    "threat_score": 25,
+    "threat_level": "MEDIUM"
   }
 ]
