@@ -1,238 +1,5 @@
 [
   {
-    "domain": "bungee-prod-iad-c8-ops.aka.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-06-20T02:15:42.639964+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ihmshadowreplayworker-alpha-pdx.integ.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-06-20T02:15:42.663626+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "vendoroutage-portal-fe.aka.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-06-20T02:15:42.679109+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "exclusions-rsp-gamma-iad.iad.proxy.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-06-20T02:15:42.695760+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "burt-beta.integ.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-06-20T02:15:42.710535+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "offer-attribution.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-06-20T02:15:42.737623+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ihmplanogram-ihm-iad2-iad.iad.proxy.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-06-20T02:15:42.744617+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "aws21exo-cmh.aka.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-06-20T02:15:42.757948+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "netengautochecks-docs.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-06-20T02:15:42.773367+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "rental-account.hubportal.amazon.fr",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [
-      "account"
-    ],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-06-20T02:15:42.860283+00:00",
-    "threat_score": 40,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ad-api-onboarding-manager-alpha.aka.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-06-20T02:15:42.867463+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "staged-buy-calculator-na.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-06-20T02:15:42.883221+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "percy.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-06-20T02:15:42.891014+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "turtle-cmh52-portal.aka.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-06-20T02:15:42.904952+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "nostradamus.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-06-20T02:15:42.911532+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "merch-product-promotion.aka.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-06-20T02:15:42.936017+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "mdps-kannadi-dashboard-zaz-prod.aka.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-06-20T02:15:42.951426+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "aws21exo-lhr.aka.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-06-20T02:15:42.966621+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "aescloudopstools-mechanic-bom.aka.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-06-20T02:15:42.973243+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "bungee-prod-dub-c4-ops.aka.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-06-20T02:15:42.987848+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "dlps-dbi-main-na-pp-tcp-iad.iad.proxy.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-06-20T02:15:43.003333+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "dsp-lcm-webapp-fe.integ.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11223,5 +10990,238 @@
     "date": "2026-06-27T02:13:30.383767+00:00",
     "threat_score": 55,
     "threat_level": "HIGH"
+  },
+  {
+    "domain": "creator.frizzle.v2.learn.amazon.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-06-28T13:18:14.076457+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "s3bakerstreet-prod-mdw.aka.amazon.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-06-28T13:18:14.310749+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "athena-opsconsole-gamma-ap-east-2.aka.corp.amazon.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-06-28T13:18:14.482245+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "bls-tester-server-iad.iad.proxy.amazon.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-06-28T13:18:14.616493+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "iom.aka.corp.amazon.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-06-28T13:18:14.670341+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "us-east-1.beta.outlook.ai.legal.amazon.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "outlook"
+    ],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-06-28T13:18:14.963973+00:00",
+    "threat_score": 40,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "ah.corp.amazon.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-06-28T13:18:15.057172+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "aea-console-canary.aea.amazon.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-06-28T13:18:15.212034+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "ldaw-kix.aka.corp.amazon.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-06-28T13:18:15.274124+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "fileupload.creator.frizzle.v2.learn.amazon.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-06-28T13:18:15.421961+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "us-east-1.beta.word.ai.legal.amazon.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-06-28T13:18:15.649002+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "athena-opsconsole-ap-east-2.aka.corp.amazon.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-06-28T13:18:15.673290+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "ddb-mechanic-prod-ap-southeast-6.aka.corp.amazon.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-06-28T13:18:15.806790+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "psxt-zaz-devo.aka.corp.amazon.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-06-28T13:18:15.905504+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "package.creator.frizzle.v2.learn.amazon.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-06-28T13:18:16.132951+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "nsm-akl.aka.corp.amazon.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-06-28T13:18:16.176512+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "onepod-staffingcommandcenter-eu.aka.amazon.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-06-28T13:18:16.207000+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "lbdashboard-kul.aka.amazon.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-06-28T13:18:16.336892+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "sort-jp-gamma-test.aka.amazon.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-06-28T13:18:16.384642+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "serco-kannadi-dashboard-prod-pdx.pdx.proxy.amazon.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-06-28T13:18:16.433595+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "api.frizzle.v2.learn.amazon.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-06-28T13:18:16.597399+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
   }
 ]
