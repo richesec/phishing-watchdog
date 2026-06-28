@@ -1,16 +1,5 @@
 [
   {
-    "domain": "dsp-lcm-webapp-fe.integ.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-06-20T02:15:43.009868+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "sts-onboarding.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11221,6 +11210,17 @@
     "brand_match": "amazon",
     "brand_similarity": 1.0,
     "date": "2026-06-28T13:18:16.597399+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "mdps-kannadi-dashboard-zaz-prod.aka.amazon.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-06-28T19:03:06.322459+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }
