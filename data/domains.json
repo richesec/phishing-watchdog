@@ -1,16 +1,5 @@
 [
   {
-    "domain": "spci-vignc.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-06-20T02:15:46.965858+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "triskelion-es-service-kibana.integ.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11167,5 +11156,18 @@
     "date": "2026-06-29T15:30:33.773871+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "email-verify--immatriculation-scanner.us-east4.hosted.app",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-06-29T19:45:22.260068+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]
