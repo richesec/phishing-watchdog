@@ -1,18 +1,5 @@
 [
   {
-    "domain": "triskelion-es-service-kibana.integ.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [
-      "service"
-    ],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-06-20T02:15:46.985715+00:00",
-    "threat_score": 40,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "cimarron-central-na.aka.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11169,5 +11156,16 @@
     "date": "2026-06-29T19:45:22.260068+00:00",
     "threat_score": 20,
     "threat_level": "LOW"
+  },
+  {
+    "domain": "halo.qa.paypal.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-06-30T08:58:24.691841+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
   }
 ]

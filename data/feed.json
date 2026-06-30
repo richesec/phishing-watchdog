@@ -1,5 +1,16 @@
 [
   {
+    "domain": "halo.qa.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/halo.qa.paypal.com.html",
+    "date": "2026-06-30T08:58:24.691841+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "email-verify--immatriculation-scanner.us-east4.hosted.app",
     "link": "https://richesec.github.io/phishing-watchdog/check/email-verify--immatriculation-scanner.us-east4.hosted.app.html",
     "date": "2026-06-29T19:45:22.260068+00:00",
@@ -11155,19 +11166,6 @@
     "brand_match": "amazon",
     "brand_similarity": 1.0,
     "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "triskelion-es-service-kibana.integ.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/triskelion-es-service-kibana.integ.amazon.com.html",
-    "date": "2026-06-20T02:15:46.985715+00:00",
-    "mx": false,
-    "keywords": [
-      "service"
-    ],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 40,
     "threat_level": "MEDIUM"
   }
 ]
