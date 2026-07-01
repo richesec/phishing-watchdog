@@ -1,5 +1,31 @@
 [
   {
+    "domain": "www.verify-xn----9sbfh7ahjkemei0jua1a.ph",
+    "link": "https://richesec.github.io/phishing-watchdog/check/www.verify-xn----9sbfh7ahjkemei0jua1a.ph.html",
+    "date": "2026-07-01T02:18:17.553331+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "verify-xn----9sbfh7ahjkemei0jua1a.ph",
+    "link": "https://richesec.github.io/phishing-watchdog/check/verify-xn----9sbfh7ahjkemei0jua1a.ph.html",
+    "date": "2026-07-01T02:18:17.485262+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "halo.qa.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/halo.qa.paypal.com.html",
     "date": "2026-06-30T08:58:24.691841+00:00",
@@ -11139,28 +11165,6 @@
     "domain": "cordite-ci-test4.corp.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/cordite-ci-test4.corp.amazon.com.html",
     "date": "2026-06-20T02:15:47.021224+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "foundry-gamma-kix.aka.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/foundry-gamma-kix.aka.amazon.com.html",
-    "date": "2026-06-20T02:15:47.014482+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "cimarron-central-na.aka.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/cimarron-central-na.aka.amazon.com.html",
-    "date": "2026-06-20T02:15:47.001061+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
