@@ -1,27 +1,5 @@
 [
   {
-    "domain": "noir-website-fe-tcp-pdx.pdx.proxy.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-07-03T08:49:43.965365+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "mytimeoff-pdx.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-07-03T08:49:43.977467+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "ihmtyrion-tcp-iad5-iad.iad.proxy.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11160,6 +11138,28 @@
     "brand_match": "paypal",
     "brand_similarity": 1.0,
     "date": "2026-07-05T08:41:31.420228+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "payflowlink.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-05T13:08:12.979991+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "api.te-ptf-flexter.qa.paypal.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-05T13:08:12.997617+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }
