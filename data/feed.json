@@ -1,5 +1,44 @@
 [
   {
+    "domain": "6console--main--console-verify--admin.coder.reservie.ai",
+    "link": "https://richesec.github.io/phishing-watchdog/check/6console--main--console-verify--admin.coder.reservie.ai.html",
+    "date": "2026-07-07T09:25:41.240855+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "76console--main--console-verify--admin.coder.reservie.ai",
+    "link": "https://richesec.github.io/phishing-watchdog/check/76console--main--console-verify--admin.coder.reservie.ai.html",
+    "date": "2026-07-07T09:25:41.199202+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "console--main--console-verify--admin.coder.reservie.ai",
+    "link": "https://richesec.github.io/phishing-watchdog/check/console--main--console-verify--admin.coder.reservie.ai.html",
+    "date": "2026-07-07T09:25:41.141422+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "splunk-apollo-mig-6s8c.us-ce1-test-apps-obs-dev.gcp.cbf.dev.paypalinc.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/splunk-apollo-mig-6s8c.us-ce1-test-apps-obs-dev.gcp.cbf.dev.paypalinc.com.html",
     "date": "2026-07-07T02:03:58.222576+00:00",
@@ -11113,39 +11152,6 @@
     "domain": "darwin-corrections-jlb.integ.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/darwin-corrections-jlb.integ.amazon.com.html",
     "date": "2026-07-03T08:49:50.814336+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "noir-website-na-alpha-tcp.integ.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/noir-website-na-alpha-tcp.integ.amazon.com.html",
-    "date": "2026-07-03T08:49:50.781428+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "remdoc-test-tcp-iad.iad.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/remdoc-test-tcp-iad.iad.proxy.amazon.com.html",
-    "date": "2026-07-03T08:49:50.767537+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "eu-acd-jlb-l-dub.dub.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/eu-acd-jlb-l-dub.dub.proxy.amazon.com.html",
-    "date": "2026-07-03T08:49:50.754884+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
