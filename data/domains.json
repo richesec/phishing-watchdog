@@ -1,84 +1,5 @@
 [
   {
-    "domain": "darwin-corrections-jlb.integ.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-07-03T08:49:50.814336+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "bishopsgate-wwcta-prod.aka.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-07-03T08:49:50.847115+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "www.stage2md025.stage.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-03T13:45:18.800955+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "looker.chronicle.security",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [
-      "security"
-    ],
-    "brand_match": null,
-    "brand_similarity": null,
-    "date": "2026-07-03T13:45:18.954703+00:00",
-    "threat_score": 5,
-    "threat_level": "LOW"
-  },
-  {
-    "domain": "www.internal.te-ucp-test-infra.qa.paypal.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-03T13:45:18.983884+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "pilot-rms.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-03T13:45:19.027905+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "uc4app02-dev.vip.paypal.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-03T13:45:19.087823+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "ccg01ppdboud2.ccg01.phx.paypalinc.com",
     "mx": false,
     "has_ip": false,
@@ -11158,5 +11079,82 @@
     "date": "2026-07-07T09:25:41.240855+00:00",
     "threat_score": 20,
     "threat_level": "LOW"
+  },
+  {
+    "domain": "otelcollectormetrics-vip.pp-devcos-sre-monitoring.us-central1.gcp.dev.paypalinc.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-08T01:32:00.394615+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "otelcollectormetrics-qa-l7-forwarding-rule-vip.pp-devcos-sre-monitoring.us-central1.gcp.dev.paypalinc.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-08T01:32:00.433845+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "otelmetrics-pp-observability.us-central1.gcp.dev.paypalinc.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-08T01:32:00.574694+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "view.zettle.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-08T01:32:00.618510+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "click.zettle.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-08T01:32:00.645768+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "dev-otelmetrics-pp-observability.us-central1.gcp.dev.paypalinc.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-08T01:32:00.658430+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "observability.qa.paypal.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-08T01:32:00.673739+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
   }
 ]
