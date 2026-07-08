@@ -1,5 +1,62 @@
 [
   {
+    "domain": "looker.chronicle.security",
+    "link": "https://richesec.github.io/phishing-watchdog/check/looker.chronicle.security.html",
+    "date": "2026-07-08T08:12:11.517632+00:00",
+    "mx": false,
+    "keywords": [
+      "security"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 5,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "www.stage2md025.stage.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/www.stage2md025.stage.paypal.com.html",
+    "date": "2026-07-08T08:12:11.397168+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "uc4app02-dev.vip.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/uc4app02-dev.vip.paypal.com.html",
+    "date": "2026-07-08T08:12:11.345262+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "www.internal.te-ucp-test-infra.qa.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/www.internal.te-ucp-test-infra.qa.paypal.com.html",
+    "date": "2026-07-08T08:12:11.313701+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "pilot-rms.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/pilot-rms.paypal.com.html",
+    "date": "2026-07-08T08:12:11.287494+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "observability.qa.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/observability.qa.paypal.com.html",
     "date": "2026-07-08T01:32:00.673739+00:00",
@@ -11095,61 +11152,6 @@
     "domain": "cloud.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/cloud.paypal.com.html",
     "date": "2026-07-03T13:45:19.760338+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/paypal.com.html",
-    "date": "2026-07-03T13:45:19.715895+00:00",
-    "mx": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 60,
-    "threat_level": "HIGH"
-  },
-  {
-    "domain": "api.stage2d0523.stage.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/api.stage2d0523.stage.paypal.com.html",
-    "date": "2026-07-03T13:45:19.607465+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "console.uk.cloud.google.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/console.uk.cloud.google.com.html",
-    "date": "2026-07-03T13:45:19.525522+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "google",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "cdn.paypal.dev.cjmadobe.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/cdn.paypal.dev.cjmadobe.com.html",
-    "date": "2026-07-03T13:45:19.449027+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "adobe",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ccg01ppdboud2.ccg01.phx.paypalinc.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/ccg01ppdboud2.ccg01.phx.paypalinc.com.html",
-    "date": "2026-07-03T13:45:19.175664+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "paypal",
