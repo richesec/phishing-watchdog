@@ -1,16 +1,5 @@
 [
   {
-    "domain": "cloud.paypal.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-03T13:45:19.760338+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "paypal.de",
     "mx": true,
     "has_ip": true,
@@ -11157,6 +11146,19 @@
     "brand_similarity": null,
     "date": "2026-07-08T08:12:11.517632+00:00",
     "threat_score": 5,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "probe--main--verify--verify.coder.dev.saply.ai",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-07-08T13:31:39.918137+00:00",
+    "threat_score": 20,
     "threat_level": "LOW"
   }
 ]

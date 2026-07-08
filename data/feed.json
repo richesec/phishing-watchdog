@@ -1,5 +1,18 @@
 [
   {
+    "domain": "probe--main--verify--verify.coder.dev.saply.ai",
+    "link": "https://richesec.github.io/phishing-watchdog/check/probe--main--verify--verify.coder.dev.saply.ai.html",
+    "date": "2026-07-08T13:31:39.918137+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "looker.chronicle.security",
     "link": "https://richesec.github.io/phishing-watchdog/check/looker.chronicle.security.html",
     "date": "2026-07-08T08:12:11.517632+00:00",
@@ -11147,16 +11160,5 @@
     "brand_similarity": 1.0,
     "threat_score": 60,
     "threat_level": "HIGH"
-  },
-  {
-    "domain": "cloud.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/cloud.paypal.com.html",
-    "date": "2026-07-03T13:45:19.760338+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
   }
 ]
