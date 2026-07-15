@@ -1,38 +1,5 @@
 [
   {
-    "domain": "rtrup-sap.dev.api.frizzle.v2.learn-alpha.amazon.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-07-04T18:58:25.209583+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "merchant-portal-v3-na-tcp-iad.iad.proxy.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-07-04T18:58:25.239414+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "fba-sns-console-ca.integ.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-07-04T18:58:25.262958+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "journey-gamma.aka.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11202,5 +11169,44 @@
     "date": "2026-07-15T01:22:26.446426+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "ploy-preview-cursor-preview-sandbox-verify--41af.coydog-pound.ts.net",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-07-15T18:55:34.384035+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "verify-wrapped--verify-wrapped.us-central1.hosted.app",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-07-15T18:55:34.645613+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "ploy-preview-cursor-preview-resolve-verify--e2d9.coydog-pound.ts.net",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-07-15T18:55:35.080944+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]

@@ -1,5 +1,44 @@
 [
   {
+    "domain": "ploy-preview-cursor-preview-resolve-verify--e2d9.coydog-pound.ts.net",
+    "link": "https://richesec.github.io/phishing-watchdog/check/ploy-preview-cursor-preview-resolve-verify--e2d9.coydog-pound.ts.net.html",
+    "date": "2026-07-15T18:55:35.080944+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "verify-wrapped--verify-wrapped.us-central1.hosted.app",
+    "link": "https://richesec.github.io/phishing-watchdog/check/verify-wrapped--verify-wrapped.us-central1.hosted.app.html",
+    "date": "2026-07-15T18:55:34.645613+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "ploy-preview-cursor-preview-sandbox-verify--41af.coydog-pound.ts.net",
+    "link": "https://richesec.github.io/phishing-watchdog/check/ploy-preview-cursor-preview-sandbox-verify--41af.coydog-pound.ts.net.html",
+    "date": "2026-07-15T18:55:34.384035+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "api.te-braintree-14.qa.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/api.te-braintree-14.qa.paypal.com.html",
     "date": "2026-07-15T01:22:26.446426+00:00",
@@ -11163,39 +11202,6 @@
     "domain": "journey-gamma.aka.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/journey-gamma.aka.amazon.com.html",
     "date": "2026-07-04T18:58:25.305978+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "fba-sns-console-ca.integ.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/fba-sns-console-ca.integ.amazon.com.html",
-    "date": "2026-07-04T18:58:25.262958+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "merchant-portal-v3-na-tcp-iad.iad.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/merchant-portal-v3-na-tcp-iad.iad.proxy.amazon.com.html",
-    "date": "2026-07-04T18:58:25.239414+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "rtrup-sap.dev.api.frizzle.v2.learn-alpha.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/rtrup-sap.dev.api.frizzle.v2.learn-alpha.amazon.com.html",
-    "date": "2026-07-04T18:58:25.209583+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
