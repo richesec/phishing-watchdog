@@ -1,5 +1,38 @@
 [
   {
+    "domain": "api.te-braintree-14.qa.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/api.te-braintree-14.qa.paypal.com.html",
+    "date": "2026-07-15T01:22:26.446426+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "te-braintree-14.qa.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/te-braintree-14.qa.paypal.com.html",
+    "date": "2026-07-15T01:22:26.398740+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "www.te-braintree-14.qa.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/www.te-braintree-14.qa.paypal.com.html",
+    "date": "2026-07-15T01:22:26.330686+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "a44c59e059b477d.ad.corp.google.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/a44c59e059b477d.ad.corp.google.com.html",
     "date": "2026-07-13T08:47:22.113528+00:00",
@@ -11163,41 +11196,6 @@
     "domain": "rtrup-sap.dev.api.frizzle.v2.learn-alpha.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/rtrup-sap.dev.api.frizzle.v2.learn-alpha.amazon.com.html",
     "date": "2026-07-04T18:58:25.209583+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "amazonrobotics.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/amazonrobotics.com.html",
-    "date": "2026-07-04T18:58:24.938107+00:00",
-    "mx": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 60,
-    "threat_level": "HIGH"
-  },
-  {
-    "domain": "voice-data-service-beta.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/voice-data-service-beta.corp.amazon.com.html",
-    "date": "2026-07-04T18:58:24.865033+00:00",
-    "mx": false,
-    "keywords": [
-      "service"
-    ],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 40,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "code-beta-tcp.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/code-beta-tcp.corp.amazon.com.html",
-    "date": "2026-07-04T18:58:24.785731+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
