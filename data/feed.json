@@ -1,5 +1,18 @@
 [
   {
+    "domain": "notexists9876543210control--control-verify--ghassen.coder.cozero.io",
+    "link": "https://richesec.github.io/phishing-watchdog/check/notexists9876543210control--control-verify--ghassen.coder.cozero.io.html",
+    "date": "2026-07-18T01:23:02.232169+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "splunk-apollo-mig-vczz.us-ce1-test-apps-obs-dev.gcp.cbf.dev.paypalinc.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/splunk-apollo-mig-vczz.us-ce1-test-apps-obs-dev.gcp.cbf.dev.paypalinc.com.html",
     "date": "2026-07-17T18:55:05.815912+00:00",
@@ -11194,16 +11207,5 @@
     "brand_similarity": null,
     "threat_score": 5,
     "threat_level": "LOW"
-  },
-  {
-    "domain": "www.stage2md025.stage.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/www.stage2md025.stage.paypal.com.html",
-    "date": "2026-07-08T08:12:11.397168+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
   }
 ]
