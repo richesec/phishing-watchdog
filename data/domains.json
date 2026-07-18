@@ -1,16 +1,5 @@
 [
   {
-    "domain": "console.uk.cloud.google.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "google",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T01:53:32.479251+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "otel-api-pp-observability.us-central1.gcp.dev.paypalinc.com",
     "mx": false,
     "has_ip": false,
@@ -11205,6 +11194,19 @@
     "brand_match": null,
     "brand_similarity": null,
     "date": "2026-07-18T12:50:30.376277+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "edcnotexists9876543210control--control-verify--ghassen.coder.cozero.io",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-07-18T18:47:52.788593+00:00",
     "threat_score": 20,
     "threat_level": "LOW"
   }

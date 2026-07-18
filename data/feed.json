@@ -1,5 +1,18 @@
 [
   {
+    "domain": "edcnotexists9876543210control--control-verify--ghassen.coder.cozero.io",
+    "link": "https://richesec.github.io/phishing-watchdog/check/edcnotexists9876543210control--control-verify--ghassen.coder.cozero.io.html",
+    "date": "2026-07-18T18:47:52.788593+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "dcnotexists9876543210control--control-verify--ghassen.coder.cozero.io",
     "link": "https://richesec.github.io/phishing-watchdog/check/dcnotexists9876543210control--control-verify--ghassen.coder.cozero.io.html",
     "date": "2026-07-18T12:50:30.376277+00:00",
@@ -11193,17 +11206,6 @@
     "mx": false,
     "keywords": [],
     "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "console.uk.cloud.google.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/console.uk.cloud.google.com.html",
-    "date": "2026-07-09T01:53:32.479251+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "google",
     "brand_similarity": 1.0,
     "threat_score": 35,
     "threat_level": "MEDIUM"
