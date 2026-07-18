@@ -1,18 +1,5 @@
 [
   {
-    "domain": "looker.chronicle.security",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [
-      "security"
-    ],
-    "brand_match": null,
-    "brand_similarity": null,
-    "date": "2026-07-08T08:12:11.517632+00:00",
-    "threat_score": 5,
-    "threat_level": "LOW"
-  },
-  {
     "domain": "probe--main--verify--verify.coder.dev.saply.ai",
     "mx": false,
     "has_ip": true,
@@ -11205,6 +11192,19 @@
     "brand_match": null,
     "brand_similarity": null,
     "date": "2026-07-18T01:23:02.232169+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "cnotexists9876543210control--control-verify--ghassen.coder.cozero.io",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-07-18T07:27:56.351186+00:00",
     "threat_score": 20,
     "threat_level": "LOW"
   }

@@ -1,5 +1,18 @@
 [
   {
+    "domain": "cnotexists9876543210control--control-verify--ghassen.coder.cozero.io",
+    "link": "https://richesec.github.io/phishing-watchdog/check/cnotexists9876543210control--control-verify--ghassen.coder.cozero.io.html",
+    "date": "2026-07-18T07:27:56.351186+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "notexists9876543210control--control-verify--ghassen.coder.cozero.io",
     "link": "https://richesec.github.io/phishing-watchdog/check/notexists9876543210control--control-verify--ghassen.coder.cozero.io.html",
     "date": "2026-07-18T01:23:02.232169+00:00",
@@ -11193,19 +11206,6 @@
     "brand_match": null,
     "brand_similarity": null,
     "threat_score": 20,
-    "threat_level": "LOW"
-  },
-  {
-    "domain": "looker.chronicle.security",
-    "link": "https://richesec.github.io/phishing-watchdog/check/looker.chronicle.security.html",
-    "date": "2026-07-08T08:12:11.517632+00:00",
-    "mx": false,
-    "keywords": [
-      "security"
-    ],
-    "brand_match": null,
-    "brand_similarity": null,
-    "threat_score": 5,
     "threat_level": "LOW"
   }
 ]
