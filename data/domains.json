@@ -1,27 +1,5 @@
 [
   {
-    "domain": "caturasin.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T14:35:31.887683+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "marble-gamma-jp-pdx.pdx.proxy.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T14:35:31.908455+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "d16g-1jb-core-na-pp-iad.iad.proxy.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11209,5 +11187,31 @@
     "date": "2026-07-19T01:31:04.523145+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "gfedcnotexists9876543210control--control-verify--ghassen.coder.cozero.io",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-07-19T07:58:37.114471+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "hgfedcnotexists9876543210control--control-verify--ghassen.coder.cozero.io",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-07-19T07:58:37.165260+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]
