@@ -1,38 +1,5 @@
 [
   {
-    "domain": "d16g-1jb-core-na-pp-iad.iad.proxy.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T14:35:31.960038+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "vamsentry-pdx.pdx.proxy.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T14:35:32.078555+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "gadget-proxy-gamma-fe-jlb-pdx.pdx.proxy.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T14:35:32.178705+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "brandaid-web-beta-na.corp.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11211,6 +11178,45 @@
     "brand_match": null,
     "brand_similarity": null,
     "date": "2026-07-19T07:58:37.165260+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "ihgfedcnotexists9876543210control--control-verify--ghassen.coder.cozero.io",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-07-19T12:53:58.242195+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "jihgfedcnotexists9876543210control--control-verify--ghassen.coder.cozero.io",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-07-19T12:53:58.283413+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "kjihgfedcnotexists9876543210control--control-verify--ghassen.coder.cozero.io",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-07-19T12:53:58.475438+00:00",
     "threat_score": 20,
     "threat_level": "LOW"
   }
