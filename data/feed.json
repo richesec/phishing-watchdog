@@ -1,5 +1,57 @@
 [
   {
+    "domain": "mlkjihgfedcnotexists9876543210control--control-verify--ghassen.coder.cozero.io",
+    "link": "https://richesec.github.io/phishing-watchdog/check/mlkjihgfedcnotexists9876543210control--control-verify--ghassen.coder.cozero.io.html",
+    "date": "2026-07-20T08:41:13.122912+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "mailpit--please-verify-the-tests-d314--hschneider.coder.lomalab-technologies.de",
+    "link": "https://richesec.github.io/phishing-watchdog/check/mailpit--please-verify-the-tests-d314--hschneider.coder.lomalab-technologies.de.html",
+    "date": "2026-07-20T08:41:13.066244+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "nmlkjihgfedcnotexists9876543210control--control-verify--ghassen.coder.cozero.io",
+    "link": "https://richesec.github.io/phishing-watchdog/check/nmlkjihgfedcnotexists9876543210control--control-verify--ghassen.coder.cozero.io.html",
+    "date": "2026-07-20T08:41:12.191028+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "notexists10control--control-verify--ghassen.coder.cozero.io",
+    "link": "https://richesec.github.io/phishing-watchdog/check/notexists10control--control-verify--ghassen.coder.cozero.io.html",
+    "date": "2026-07-20T08:41:12.114748+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "console.in.cloud.google.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/console.in.cloud.google.com.html",
     "date": "2026-07-20T01:58:19.675023+00:00",
@@ -11166,50 +11218,6 @@
     "brand_match": "amazon",
     "brand_similarity": 1.0,
     "threat_score": 40,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ridr-eu-gamma-dub.dub.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/ridr-eu-gamma-dub.dub.proxy.amazon.com.html",
-    "date": "2026-07-09T14:35:34.779388+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "frontier-dev.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/frontier-dev.amazon.com.html",
-    "date": "2026-07-09T14:35:34.605642+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "shipwindowportal-fe-pdx.pdx.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/shipwindowportal-fe-pdx.pdx.proxy.amazon.com.html",
-    "date": "2026-07-09T14:35:34.564042+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "atv-draper-scheduling-fe-gamma.aka.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/atv-draper-scheduling-fe-gamma.aka.amazon.com.html",
-    "date": "2026-07-09T14:35:34.453451+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
     "threat_level": "MEDIUM"
   }
 ]
