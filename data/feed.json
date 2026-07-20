@@ -1,5 +1,32 @@
 [
   {
+    "domain": "verify-sy-cms--store-chatbot-dev.us-central1.hosted.app",
+    "link": "https://richesec.github.io/phishing-watchdog/check/verify-sy-cms--store-chatbot-dev.us-central1.hosted.app.html",
+    "date": "2026-07-20T19:26:59.566014+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "xacademy-payment-verify--x-academy-b5924.us-east4.hosted.app",
+    "link": "https://richesec.github.io/phishing-watchdog/check/xacademy-payment-verify--x-academy-b5924.us-east4.hosted.app.html",
+    "date": "2026-07-20T19:26:59.130456+00:00",
+    "mx": false,
+    "keywords": [
+      "verify",
+      "payment"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 25,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "api-verify--cloudflare.southcat.cc",
     "link": "https://richesec.github.io/phishing-watchdog/check/api-verify--cloudflare.southcat.cc.html",
     "date": "2026-07-20T13:47:59.888159+00:00",
@@ -11195,29 +11222,5 @@
     "brand_similarity": 1.0,
     "threat_score": 35,
     "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "jesops-gamma-ap-northeast-3.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/jesops-gamma-ap-northeast-3.corp.amazon.com.html",
-    "date": "2026-07-09T14:35:35.196037+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "beta.maps.security.aws.dev",
-    "link": "https://richesec.github.io/phishing-watchdog/check/beta.maps.security.aws.dev.html",
-    "date": "2026-07-09T14:35:35.037759+00:00",
-    "mx": false,
-    "keywords": [
-      "security"
-    ],
-    "brand_match": null,
-    "brand_similarity": null,
-    "threat_score": 5,
-    "threat_level": "LOW"
   }
 ]

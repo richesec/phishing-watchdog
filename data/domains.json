@@ -1,29 +1,5 @@
 [
   {
-    "domain": "beta.maps.security.aws.dev",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [
-      "security"
-    ],
-    "brand_match": null,
-    "brand_similarity": null,
-    "date": "2026-07-09T14:35:35.037759+00:00",
-    "threat_score": 5,
-    "threat_level": "LOW"
-  },
-  {
-    "domain": "jesops-gamma-ap-northeast-3.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T14:35:35.196037+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "loom-explorer-pek-pek.pek.proxy.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11217,6 +11193,33 @@
     "brand_match": null,
     "brand_similarity": null,
     "date": "2026-07-20T13:47:59.888159+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "xacademy-payment-verify--x-academy-b5924.us-east4.hosted.app",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify",
+      "payment"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-07-20T19:26:59.130456+00:00",
+    "threat_score": 25,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "verify-sy-cms--store-chatbot-dev.us-central1.hosted.app",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-07-20T19:26:59.566014+00:00",
     "threat_score": 20,
     "threat_level": "LOW"
   }
