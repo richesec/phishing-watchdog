@@ -1,18 +1,5 @@
 [
   {
-    "domain": "frontier-dev.self-service.amazon.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [
-      "service"
-    ],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T14:35:34.820963+00:00",
-    "threat_score": 40,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "beta.maps.security.aws.dev",
     "mx": false,
     "has_ip": true,
@@ -11217,6 +11204,19 @@
     "brand_match": null,
     "brand_similarity": null,
     "date": "2026-07-20T08:41:13.122912+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "api-verify--cloudflare.southcat.cc",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-07-20T13:47:59.888159+00:00",
     "threat_score": 20,
     "threat_level": "LOW"
   }
