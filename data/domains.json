@@ -1,547 +1,5 @@
 [
   {
-    "domain": "www.stage2d0100.stage.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:41.675613+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "console.au.cloud.google.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "google",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:41.713680+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "te-qe-nginx-proxy-serv.qa.paypal.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:41.754838+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "beatthatquote.com",
-    "mx": true,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "att",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:41.837228+00:00",
-    "threat_score": 60,
-    "threat_level": "HIGH"
-  },
-  {
-    "domain": "api.stage2d0141.stage.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:41.860646+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "thegooglestore.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "google",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:41.905656+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "chronicle.security",
-    "mx": true,
-    "has_ip": true,
-    "keywords": [
-      "security"
-    ],
-    "brand_match": null,
-    "brand_similarity": null,
-    "date": "2026-07-09T19:23:41.978355+00:00",
-    "threat_score": 30,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "svcs-v2.sandbox.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:42.022068+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "console.jp.cloud.google",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "icloud",
-    "brand_similarity": 0.83,
-    "date": "2026-07-09T19:23:42.137003+00:00",
-    "threat_score": 29,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "wallet.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [
-      "wallet"
-    ],
-    "brand_match": null,
-    "brand_similarity": null,
-    "date": "2026-07-09T19:23:42.254512+00:00",
-    "threat_score": 20,
-    "threat_level": "LOW"
-  },
-  {
-    "domain": "googlecnapps.cn",
-    "mx": true,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "google",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:42.486672+00:00",
-    "threat_score": 60,
-    "threat_level": "HIGH"
-  },
-  {
-    "domain": "console.ca.cloud.google.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "google",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:42.521065+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "console.uk.cloud.google",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "icloud",
-    "brand_similarity": 0.83,
-    "date": "2026-07-09T19:23:42.599664+00:00",
-    "threat_score": 29,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "cdn.news.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:42.770349+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ddbm2.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:42.851402+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "mlcc.google.cn",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "google",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:42.875470+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "datastudio.us.cloud.google.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "google",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:42.913201+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "uc4app01-prd.vip.paypal.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:42.952956+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ctm-devqa-em-03.dev51-test-apps-besx-admin.dev51.cbf.dev.paypalinc.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:43.033271+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "support.registry-sandbox.google",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [
-      "support"
-    ],
-    "brand_match": null,
-    "brand_similarity": null,
-    "date": "2026-07-09T19:23:43.197132+00:00",
-    "threat_score": 5,
-    "threat_level": "LOW"
-  },
-  {
-    "domain": "www.stage2d0104.stage.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:43.224852+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "te-ptf-flexter.qa.paypal.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:43.263122+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "pns.paypal.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:43.295994+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "console.sa.cloud.google.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "google",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:43.328938+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "payment.goog",
-    "mx": true,
-    "has_ip": true,
-    "keywords": [
-      "payment"
-    ],
-    "brand_match": null,
-    "brand_similarity": null,
-    "date": "2026-07-09T19:23:43.568085+00:00",
-    "threat_score": 30,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "www.googleoptimize.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "google",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:43.616271+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "www.stage2du80.stage.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:43.649016+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "cdn.service.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [
-      "service"
-    ],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:43.761291+00:00",
-    "threat_score": 40,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "api.stage2d0068.stage.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:43.800449+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "datastudio.eu.cloud.google.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "google",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:43.842933+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "googlemaps.com",
-    "mx": true,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "google",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:44.057809+00:00",
-    "threat_score": 60,
-    "threat_level": "HIGH"
-  },
-  {
-    "domain": "api.stage2d0014.stage.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:44.077596+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "tsp-ext.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:44.149378+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "googleadservices-cn.com",
-    "mx": true,
-    "has_ip": true,
-    "keywords": [
-      "service"
-    ],
-    "brand_match": "google",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:44.247998+00:00",
-    "threat_score": 65,
-    "threat_level": "HIGH"
-  },
-  {
-    "domain": "www.stage2d0115.stage.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:44.274954+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "api.stage2d0102.stage.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:44.310570+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "smokestargate.paypalinc.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:44.342727+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "api-v2.sandbox.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:44.412683+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "i.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:44.464916+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "connect.sandbox.paypal.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:44.500055+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "controlmem-ss-api-dev.qa.paypal.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:44.541977+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "accounts.mandiant.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [
-      "account"
-    ],
-    "brand_match": null,
-    "brand_similarity": null,
-    "date": "2026-07-09T19:23:44.631104+00:00",
-    "threat_score": 5,
-    "threat_level": "LOW"
-  },
-  {
-    "domain": "paypalmanager.sandbox.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:44.705461+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "console.sa.cloud.google",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "icloud",
-    "brand_similarity": 0.83,
-    "date": "2026-07-09T19:23:44.748408+00:00",
-    "threat_score": 29,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "rms.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:44.806217+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "api-v1.sandbox.paypal.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:44.853340+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "api.te-ucp-infra-test.dev51.cbf.dev.paypalinc.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:44.891277+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "api.stage2du52.stage.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:44.942447+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "www.stage2du13.stage.paypal.com",
     "mx": false,
     "has_ip": true,
@@ -11168,6 +10626,540 @@
     "brand_match": "amazon",
     "brand_similarity": 1.0,
     "date": "2026-07-21T08:09:36.794780+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "www.stage2d0032.stage.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:56.801306+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "pics.sandbox.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:56.823432+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "backfill-prod-sfx-observability.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:56.845136+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "deepmind.google.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:56.887306+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "github-central-b-ilb-fr-vip.dev51-tools-data-github.dev51.cbf.dev.paypalinc.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:56.903523+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "www.stage2du40.stage.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:56.923426+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "flyhookqa.stage.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:56.978442+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "s.svc-1.google.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:57.045896+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "www.stage2std072.stage.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:57.057532+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "www.stage2d0102.stage.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:57.066774+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "te-alm-22897452002192114059670.qa.paypal.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:57.081080+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "mlcc.google.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:57.116418+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "api.stage2md025.stage.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:57.132108+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "www.googlestore.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:57.201459+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "googleflights-cn.net",
+    "mx": true,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:57.287828+00:00",
+    "threat_score": 60,
+    "threat_level": "HIGH"
+  },
+  {
+    "domain": "www.stage2du92.stage.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:57.306665+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "googleapps-cn.com",
+    "mx": true,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:57.384405+00:00",
+    "threat_score": 60,
+    "threat_level": "HIGH"
+  },
+  {
+    "domain": "www.stage2du52.stage.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:57.395327+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "learn.mapsplatform.google.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:57.438176+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "api.stage2d0070.stage.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:57.457695+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "ddbm.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:57.497768+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "api.stage2du59.stage.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:57.504907+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "api.stage2d0032.stage.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:57.522498+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "region1.app-analytics-services-att.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "service"
+    ],
+    "brand_match": "att",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:57.567710+00:00",
+    "threat_score": 40,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "te-cosmos-ai.qa.paypal.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:57.585047+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "api.stage2d0095.stage.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:57.600672+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "cors.api.sandbox.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:57.617848+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "console.jp.cloud.google.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:57.655158+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "googledanmark.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:57.776210+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "console.ch.cloud.google.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:57.810694+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "api.stage2d0069.stage.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:57.825138+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "www.stage2mb044.stage.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:57.881066+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "www.stage2d0069.stage.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:57.899317+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "api.stage2d0100.stage.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:57.916154+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "edge.paypal.com",
+    "mx": true,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:57.966567+00:00",
+    "threat_score": 60,
+    "threat_level": "HIGH"
+  },
+  {
+    "domain": "console.us.cloud.google",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "icloud",
+    "brand_similarity": 0.83,
+    "date": "2026-07-21T13:20:58.030205+00:00",
+    "threat_score": 29,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "api.stage2du61.stage.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:58.039933+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "pns-ext.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:58.058771+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "youtubemobilesupport.com",
+    "mx": true,
+    "has_ip": true,
+    "keywords": [
+      "support"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-07-21T13:20:58.130605+00:00",
+    "threat_score": 30,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "console.in.cloud.google",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "icloud",
+    "brand_similarity": 0.83,
+    "date": "2026-07-21T13:20:58.238675+00:00",
+    "threat_score": 29,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "jaws-staging.qa.paypal.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:58.253786+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "googlebook.google",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:58.432181+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "home.google.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:58.469775+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "api.stage2du132.stage.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:58.495571+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "region1.google-analytics.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "google-"
+    ],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:58.539603+00:00",
+    "threat_score": 40,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "www.stage2du117.stage.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:58.549037+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "fastlane.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:58.572654+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "www.stage2du61.stage.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-07-21T13:20:58.580593+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }
