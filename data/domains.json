@@ -1,16 +1,5 @@
 [
   {
-    "domain": "google.berlin",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "google",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:50.189581+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "www.stage2du23.stage.paypal.com",
     "mx": false,
     "has_ip": true,
@@ -11166,5 +11155,18 @@
     "date": "2026-07-22T13:21:30.176380+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "omailpit--please-verify-the-tests-d314--hschneider.coder.lomalab-technologies.de",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-07-22T18:58:57.293198+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]

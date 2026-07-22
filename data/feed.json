@@ -1,5 +1,18 @@
 [
   {
+    "domain": "omailpit--please-verify-the-tests-d314--hschneider.coder.lomalab-technologies.de",
+    "link": "https://richesec.github.io/phishing-watchdog/check/omailpit--please-verify-the-tests-d314--hschneider.coder.lomalab-technologies.de.html",
+    "date": "2026-07-22T18:58:57.293198+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "adgoogle.net",
     "link": "https://richesec.github.io/phishing-watchdog/check/adgoogle.net.html",
     "date": "2026-07-22T13:21:30.176380+00:00",
@@ -11152,17 +11165,6 @@
     "mx": false,
     "keywords": [],
     "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "google.berlin",
-    "link": "https://richesec.github.io/phishing-watchdog/check/google.berlin.html",
-    "date": "2026-07-09T19:23:50.189581+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "google",
     "brand_similarity": 1.0,
     "threat_score": 35,
     "threat_level": "MEDIUM"
