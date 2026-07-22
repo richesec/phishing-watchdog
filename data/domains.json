@@ -1,16 +1,5 @@
 [
   {
-    "domain": "api-m.sandbox.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-09T19:23:48.093657+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "www.te-venmo-63.qa.paypal.com",
     "mx": false,
     "has_ip": false,
@@ -11167,5 +11156,18 @@
     "date": "2026-07-21T19:07:42.653898+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "verify--metamask-io.pages.dev",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-07-22T01:30:44.710703+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]

@@ -1,5 +1,18 @@
 [
   {
+    "domain": "verify--metamask-io.pages.dev",
+    "link": "https://richesec.github.io/phishing-watchdog/check/verify--metamask-io.pages.dev.html",
+    "date": "2026-07-22T01:30:44.710703+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "rms.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/rms.paypal.com.html",
     "date": "2026-07-21T19:07:42.653898+00:00",
@@ -11150,17 +11163,6 @@
     "domain": "www.te-venmo-63.qa.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/www.te-venmo-63.qa.paypal.com.html",
     "date": "2026-07-09T19:23:48.137803+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "api-m.sandbox.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/api-m.sandbox.paypal.com.html",
-    "date": "2026-07-09T19:23:48.093657+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "paypal",
