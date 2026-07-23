@@ -1,82 +1,5 @@
 [
   {
-    "domain": "stratus-sc-na-tcp.integ.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-07-23T08:12:56.929890+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "sc-annotation-portal-alpha-jlb.integ.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-07-23T08:12:56.952267+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "misv2-cdg.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-07-23T08:12:56.974622+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "tgw-mandark-dub.aka.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-07-23T08:12:57.014586+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "www.stage2du125.stage.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-23T08:12:57.027610+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "de.paypal-qrc.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-07-23T08:12:57.061886+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "elb-api-scope-sfo.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-07-23T08:12:57.083810+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "assoc-analytics-bsfaaa-dub.dub.proxy.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11144,5 +11067,108 @@
     "date": "2026-07-23T08:13:27.623501+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "facebook-verify--urgent.ph",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify",
+      "urgent",
+      "facebook-"
+    ],
+    "brand_match": "facebook",
+    "brand_similarity": 1.0,
+    "date": "2026-07-23T13:27:49.723269+00:00",
+    "threat_score": 65,
+    "threat_level": "HIGH"
+  },
+  {
+    "domain": "www.facebook-verify--security.ph",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify",
+      "security",
+      "facebook-"
+    ],
+    "brand_match": "facebook",
+    "brand_similarity": 1.0,
+    "date": "2026-07-23T13:27:49.781880+00:00",
+    "threat_score": 65,
+    "threat_level": "HIGH"
+  },
+  {
+    "domain": "www.facebook-verify--warning.ph",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify",
+      "warning",
+      "facebook-"
+    ],
+    "brand_match": "facebook",
+    "brand_similarity": 1.0,
+    "date": "2026-07-23T13:27:49.849318+00:00",
+    "threat_score": 65,
+    "threat_level": "HIGH"
+  },
+  {
+    "domain": "facebook-verify--warning.ph",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify",
+      "warning",
+      "facebook-"
+    ],
+    "brand_match": "facebook",
+    "brand_similarity": 1.0,
+    "date": "2026-07-23T13:27:49.915642+00:00",
+    "threat_score": 65,
+    "threat_level": "HIGH"
+  },
+  {
+    "domain": "www.facebook-verify--urgent.ph",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify",
+      "urgent",
+      "facebook-"
+    ],
+    "brand_match": "facebook",
+    "brand_similarity": 1.0,
+    "date": "2026-07-23T13:27:49.969227+00:00",
+    "threat_score": 65,
+    "threat_level": "HIGH"
+  },
+  {
+    "domain": "facebook-verify--security.ph",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify",
+      "security",
+      "facebook-"
+    ],
+    "brand_match": "facebook",
+    "brand_similarity": 1.0,
+    "date": "2026-07-23T13:27:50.084005+00:00",
+    "threat_score": 65,
+    "threat_level": "HIGH"
+  },
+  {
+    "domain": "chat--please-verify-the-tests-d314--hschneider.coder.lomalab-technologies.de",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-07-23T13:27:50.425344+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]

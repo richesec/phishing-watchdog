@@ -1,5 +1,108 @@
 [
   {
+    "domain": "chat--please-verify-the-tests-d314--hschneider.coder.lomalab-technologies.de",
+    "link": "https://richesec.github.io/phishing-watchdog/check/chat--please-verify-the-tests-d314--hschneider.coder.lomalab-technologies.de.html",
+    "date": "2026-07-23T13:27:50.425344+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "facebook-verify--security.ph",
+    "link": "https://richesec.github.io/phishing-watchdog/check/facebook-verify--security.ph.html",
+    "date": "2026-07-23T13:27:50.084005+00:00",
+    "mx": false,
+    "keywords": [
+      "verify",
+      "security",
+      "facebook-"
+    ],
+    "brand_match": "facebook",
+    "brand_similarity": 1.0,
+    "threat_score": 65,
+    "threat_level": "HIGH"
+  },
+  {
+    "domain": "www.facebook-verify--urgent.ph",
+    "link": "https://richesec.github.io/phishing-watchdog/check/www.facebook-verify--urgent.ph.html",
+    "date": "2026-07-23T13:27:49.969227+00:00",
+    "mx": false,
+    "keywords": [
+      "verify",
+      "urgent",
+      "facebook-"
+    ],
+    "brand_match": "facebook",
+    "brand_similarity": 1.0,
+    "threat_score": 65,
+    "threat_level": "HIGH"
+  },
+  {
+    "domain": "facebook-verify--warning.ph",
+    "link": "https://richesec.github.io/phishing-watchdog/check/facebook-verify--warning.ph.html",
+    "date": "2026-07-23T13:27:49.915642+00:00",
+    "mx": false,
+    "keywords": [
+      "verify",
+      "warning",
+      "facebook-"
+    ],
+    "brand_match": "facebook",
+    "brand_similarity": 1.0,
+    "threat_score": 65,
+    "threat_level": "HIGH"
+  },
+  {
+    "domain": "www.facebook-verify--warning.ph",
+    "link": "https://richesec.github.io/phishing-watchdog/check/www.facebook-verify--warning.ph.html",
+    "date": "2026-07-23T13:27:49.849318+00:00",
+    "mx": false,
+    "keywords": [
+      "verify",
+      "warning",
+      "facebook-"
+    ],
+    "brand_match": "facebook",
+    "brand_similarity": 1.0,
+    "threat_score": 65,
+    "threat_level": "HIGH"
+  },
+  {
+    "domain": "www.facebook-verify--security.ph",
+    "link": "https://richesec.github.io/phishing-watchdog/check/www.facebook-verify--security.ph.html",
+    "date": "2026-07-23T13:27:49.781880+00:00",
+    "mx": false,
+    "keywords": [
+      "verify",
+      "security",
+      "facebook-"
+    ],
+    "brand_match": "facebook",
+    "brand_similarity": 1.0,
+    "threat_score": 65,
+    "threat_level": "HIGH"
+  },
+  {
+    "domain": "facebook-verify--urgent.ph",
+    "link": "https://richesec.github.io/phishing-watchdog/check/facebook-verify--urgent.ph.html",
+    "date": "2026-07-23T13:27:49.723269+00:00",
+    "mx": false,
+    "keywords": [
+      "verify",
+      "urgent",
+      "facebook-"
+    ],
+    "brand_match": "facebook",
+    "brand_similarity": 1.0,
+    "threat_score": 65,
+    "threat_level": "HIGH"
+  },
+  {
     "domain": "mcm-beta.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/mcm-beta.amazon.com.html",
     "date": "2026-07-23T08:13:27.623501+00:00",
@@ -11061,83 +11164,6 @@
     "domain": "assoc-analytics-bsfaaa-dub.dub.proxy.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/assoc-analytics-bsfaaa-dub.dub.proxy.amazon.com.html",
     "date": "2026-07-23T08:12:57.091129+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "elb-api-scope-sfo.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/elb-api-scope-sfo.corp.amazon.com.html",
-    "date": "2026-07-23T08:12:57.083810+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "de.paypal-qrc.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/de.paypal-qrc.com.html",
-    "date": "2026-07-23T08:12:57.061886+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "www.stage2du125.stage.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/www.stage2du125.stage.paypal.com.html",
-    "date": "2026-07-23T08:12:57.027610+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "tgw-mandark-dub.aka.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/tgw-mandark-dub.aka.amazon.com.html",
-    "date": "2026-07-23T08:12:57.014586+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "misv2-cdg.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/misv2-cdg.corp.amazon.com.html",
-    "date": "2026-07-23T08:12:56.974622+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "sc-annotation-portal-alpha-jlb.integ.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/sc-annotation-portal-alpha-jlb.integ.amazon.com.html",
-    "date": "2026-07-23T08:12:56.952267+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "stratus-sc-na-tcp.integ.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/stratus-sc-na-tcp.integ.amazon.com.html",
-    "date": "2026-07-23T08:12:56.929890+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
