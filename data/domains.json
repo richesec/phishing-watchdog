@@ -1,16 +1,5 @@
 [
   {
-    "domain": "tgw-mandark-iad.aka.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-07-24T01:47:01.888321+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "ddb-mechanic-prod-ca-central-1.aka.corp.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11124,5 +11113,18 @@
     "date": "2026-07-24T01:47:16.395894+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "lchat--please-verify-the-tests-d314--hschneider.coder.lomalab-technologies.de",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-07-24T08:09:03.828511+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]

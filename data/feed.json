@@ -1,5 +1,18 @@
 [
   {
+    "domain": "lchat--please-verify-the-tests-d314--hschneider.coder.lomalab-technologies.de",
+    "link": "https://richesec.github.io/phishing-watchdog/check/lchat--please-verify-the-tests-d314--hschneider.coder.lomalab-technologies.de.html",
+    "date": "2026-07-24T08:09:03.828511+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "grasshopper.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/grasshopper.amazon.com.html",
     "date": "2026-07-24T01:47:16.395894+00:00",
@@ -11107,17 +11120,6 @@
     "domain": "ddb-mechanic-prod-ca-central-1.aka.corp.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/ddb-mechanic-prod-ca-central-1.aka.corp.amazon.com.html",
     "date": "2026-07-24T01:47:01.895733+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "tgw-mandark-iad.aka.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/tgw-mandark-iad.aka.amazon.com.html",
-    "date": "2026-07-24T01:47:01.888321+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
