@@ -1,5 +1,44 @@
 [
   {
+    "domain": "live-verify-nonempty--dev01.stg.onstage.run",
+    "link": "https://richesec.github.io/phishing-watchdog/check/live-verify-nonempty--dev01.stg.onstage.run.html",
+    "date": "2026-07-24T19:14:04.044219+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "mlchat--please-verify-the-tests-d314--hschneider.coder.lomalab-technologies.de",
+    "link": "https://richesec.github.io/phishing-watchdog/check/mlchat--please-verify-the-tests-d314--hschneider.coder.lomalab-technologies.de.html",
+    "date": "2026-07-24T19:14:03.857154+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "live-verify-wp3--dev01.stg.onstage.run",
+    "link": "https://richesec.github.io/phishing-watchdog/check/live-verify-wp3--dev01.stg.onstage.run.html",
+    "date": "2026-07-24T19:14:03.416915+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "local-it-items-beta.integ.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/local-it-items-beta.integ.amazon.com.html",
     "date": "2026-07-24T13:24:30.484848+00:00",
@@ -11041,39 +11080,6 @@
     "domain": "slamops-dub.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/slamops-dub.amazon.com.html",
     "date": "2026-07-24T13:23:54.419668+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "vbi-redash-na.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/vbi-redash-na.corp.amazon.com.html",
-    "date": "2026-07-24T13:23:54.403776+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "journaldb.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/journaldb.corp.amazon.com.html",
-    "date": "2026-07-24T13:23:54.391190+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "smores-fe.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/smores-fe.corp.amazon.com.html",
-    "date": "2026-07-24T13:23:54.377817+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",

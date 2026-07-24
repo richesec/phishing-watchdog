@@ -1,38 +1,5 @@
 [
   {
-    "domain": "smores-fe.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-07-24T13:23:54.377817+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "journaldb.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-07-24T13:23:54.391190+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "vbi-redash-na.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-07-24T13:23:54.403776+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "slamops-dub.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11080,5 +11047,44 @@
     "date": "2026-07-24T13:24:30.484848+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "live-verify-wp3--dev01.stg.onstage.run",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-07-24T19:14:03.416915+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "mlchat--please-verify-the-tests-d314--hschneider.coder.lomalab-technologies.de",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-07-24T19:14:03.857154+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "live-verify-nonempty--dev01.stg.onstage.run",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-07-24T19:14:04.044219+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]
