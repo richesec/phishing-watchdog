@@ -1,5 +1,19 @@
 [
   {
+    "domain": "verify--loginn-trzzr.pages.dev",
+    "link": "https://richesec.github.io/phishing-watchdog/check/verify--loginn-trzzr.pages.dev.html",
+    "date": "2026-07-25T01:34:46.611507+00:00",
+    "mx": false,
+    "keywords": [
+      "login",
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 25,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "live-verify-nonempty--dev01.stg.onstage.run",
     "link": "https://richesec.github.io/phishing-watchdog/check/live-verify-nonempty--dev01.stg.onstage.run.html",
     "date": "2026-07-24T19:14:04.044219+00:00",
@@ -11069,17 +11083,6 @@
     "domain": "beejakconsole-gamma-na.aka.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/beejakconsole-gamma-na.aka.amazon.com.html",
     "date": "2026-07-24T13:23:54.496831+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "slamops-dub.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/slamops-dub.amazon.com.html",
-    "date": "2026-07-24T13:23:54.419668+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
