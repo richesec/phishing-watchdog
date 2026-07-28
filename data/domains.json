@@ -1,16 +1,5 @@
 [
   {
-    "domain": "ihmrayder-gamma-tcp-pdx.pdx.proxy.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-07-28T08:16:26.251806+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "cpprediction-eu.aka.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11125,5 +11114,18 @@
     "date": "2026-07-28T08:17:04.202828+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "sts9876543210control--control-verify--ghassen.coder.cozero.io",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-07-28T13:31:19.483095+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]
