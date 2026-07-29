@@ -1,5 +1,16 @@
 [
   {
+    "domain": "braintreeppp.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/braintreeppp.paypal.com.html",
+    "date": "2026-07-29T13:50:02.263375+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "utsrqpomailpit--please-verify-the-tests-d314--hschneider.coder.lomalab-technologies.de",
     "link": "https://richesec.github.io/phishing-watchdog/check/utsrqpomailpit--please-verify-the-tests-d314--hschneider.coder.lomalab-technologies.de.html",
     "date": "2026-07-29T08:20:30.557798+00:00",
@@ -11139,17 +11150,6 @@
     "domain": "retrocharge-tool-fe-uat-pdx.pdx.proxy.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/retrocharge-tool-fe-uat-pdx.pdx.proxy.amazon.com.html",
     "date": "2026-07-28T08:16:47.437322+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ihmlibra-dub2-dub.dub.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/ihmlibra-dub2-dub.dub.proxy.amazon.com.html",
-    "date": "2026-07-28T08:16:47.386793+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
