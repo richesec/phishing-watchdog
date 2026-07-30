@@ -1,16 +1,5 @@
 [
   {
-    "domain": "ihmlibby-drthy-pdx1-pdx.pdx.proxy.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-07-28T08:16:47.548630+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "gitfarm-alpha-sso.corp.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11160,6 +11149,19 @@
     "brand_match": null,
     "brand_similarity": null,
     "date": "2026-07-29T18:58:00.470562+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "zyxwvutsrqpomailpit--please-verify-the-tests-d314--hschneider.coder.lomalab-technologies.de",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-07-30T01:22:38.102983+00:00",
     "threat_score": 20,
     "threat_level": "LOW"
   }
