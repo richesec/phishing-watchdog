@@ -1,5 +1,31 @@
 [
   {
+    "domain": "v22-ispda6ersd-ai-verify--gcs.z-o0m.digital",
+    "link": "https://richesec.github.io/phishing-watchdog/check/v22-ispda6ersd-ai-verify--gcs.z-o0m.digital.html",
+    "date": "2026-08-01T08:05:21.779370+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "onmlchat--please-verify-the-tests-d314--hschneider.coder.lomalab-technologies.de",
+    "link": "https://richesec.github.io/phishing-watchdog/check/onmlchat--please-verify-the-tests-d314--hschneider.coder.lomalab-technologies.de.html",
+    "date": "2026-08-01T08:05:21.300625+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "tsp.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/tsp.paypal.com.html",
     "date": "2026-08-01T01:50:44.921001+00:00",
@@ -11115,28 +11141,6 @@
     "domain": "ihmgalactus-us-wa-992-iad.iad.proxy.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/ihmgalactus-us-wa-992-iad.iad.proxy.amazon.com.html",
     "date": "2026-07-31T13:34:01.511086+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "upma-q13-eu-pdx-d-midway-tcp.integ.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/upma-q13-eu-pdx-d-midway-tcp.integ.amazon.com.html",
-    "date": "2026-07-31T13:34:01.452037+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ihmgalactus-us-wa-899-pdx.pdx.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/ihmgalactus-us-wa-899-pdx.pdx.proxy.amazon.com.html",
-    "date": "2026-07-31T13:34:01.437591+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
