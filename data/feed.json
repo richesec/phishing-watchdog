@@ -1,5 +1,18 @@
 [
   {
+    "domain": "verify-app-mc--verifybymc-ai-powered.europe-west4.hosted.app",
+    "link": "https://richesec.github.io/phishing-watchdog/check/verify-app-mc--verifybymc-ai-powered.europe-west4.hosted.app.html",
+    "date": "2026-08-01T18:55:18.937317+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "obi-alpha-jlb.corp.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/obi-alpha-jlb.corp.amazon.com.html",
     "date": "2026-08-01T12:58:58.425055+00:00",
@@ -11125,17 +11138,6 @@
     "domain": "woodshop-gamma-jlb.corp.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/woodshop-gamma-jlb.corp.amazon.com.html",
     "date": "2026-07-31T19:11:48.107643+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "bigmesh.integ.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/bigmesh.integ.amazon.com.html",
-    "date": "2026-07-31T19:11:48.077136+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
