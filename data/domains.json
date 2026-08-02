@@ -1,16 +1,5 @@
 [
   {
-    "domain": "woodshop-gamma-jlb.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-07-31T19:11:48.107643+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "audible-tools-es-preprod.corp.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11142,6 +11131,19 @@
     "brand_match": null,
     "brand_similarity": null,
     "date": "2026-08-01T18:55:18.937317+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "ponmlchat--please-verify-the-tests-d314--hschneider.coder.lomalab-technologies.de",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-08-02T01:48:31.016369+00:00",
     "threat_score": 20,
     "threat_level": "LOW"
   }

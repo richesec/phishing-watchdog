@@ -1,5 +1,18 @@
 [
   {
+    "domain": "ponmlchat--please-verify-the-tests-d314--hschneider.coder.lomalab-technologies.de",
+    "link": "https://richesec.github.io/phishing-watchdog/check/ponmlchat--please-verify-the-tests-d314--hschneider.coder.lomalab-technologies.de.html",
+    "date": "2026-08-02T01:48:31.016369+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "verify-app-mc--verifybymc-ai-powered.europe-west4.hosted.app",
     "link": "https://richesec.github.io/phishing-watchdog/check/verify-app-mc--verifybymc-ai-powered.europe-west4.hosted.app.html",
     "date": "2026-08-01T18:55:18.937317+00:00",
@@ -11127,17 +11140,6 @@
     "domain": "audible-tools-es-preprod.corp.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/audible-tools-es-preprod.corp.amazon.com.html",
     "date": "2026-07-31T19:11:48.130687+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "woodshop-gamma-jlb.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/woodshop-gamma-jlb.corp.amazon.com.html",
-    "date": "2026-07-31T19:11:48.107643+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
