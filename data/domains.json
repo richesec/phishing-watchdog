@@ -1,27 +1,5 @@
 [
   {
-    "domain": "pypl-tableau-02.dev51-test-apps-are-bi.dev51.cbf.dev.paypalinc.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-08-01T01:50:31.959827+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "deepmind.google.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "google",
-    "brand_similarity": 1.0,
-    "date": "2026-08-01T01:50:32.005474+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "www.googletagmanager.com",
     "mx": false,
     "has_ip": true,
@@ -11144,5 +11122,31 @@
     "date": "2026-08-02T18:57:38.343367+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "notexistsponmlchat--please-verify-the-tests-d314--hschneider.coder.lomalab-technologies.de",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-08-03T01:49:25.898789+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "znotexistsponmlchat--please-verify-the-tests-d314--hschneider.coder.lomalab-technologies.de",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-08-03T01:49:26.325539+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]

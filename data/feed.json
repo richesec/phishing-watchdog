@@ -1,5 +1,31 @@
 [
   {
+    "domain": "znotexistsponmlchat--please-verify-the-tests-d314--hschneider.coder.lomalab-technologies.de",
+    "link": "https://richesec.github.io/phishing-watchdog/check/znotexistsponmlchat--please-verify-the-tests-d314--hschneider.coder.lomalab-technologies.de.html",
+    "date": "2026-08-03T01:49:26.325539+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "notexistsponmlchat--please-verify-the-tests-d314--hschneider.coder.lomalab-technologies.de",
+    "link": "https://richesec.github.io/phishing-watchdog/check/notexistsponmlchat--please-verify-the-tests-d314--hschneider.coder.lomalab-technologies.de.html",
+    "date": "2026-08-03T01:49:25.898789+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "doesitfit-prod-kannadi-dashboard-nrt.nrt.proxy.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/doesitfit-prod-kannadi-dashboard-nrt.nrt.proxy.amazon.com.html",
     "date": "2026-08-02T18:57:38.343367+00:00",
@@ -11119,28 +11145,6 @@
     "mx": false,
     "keywords": [],
     "brand_match": "google",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "deepmind.google.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/deepmind.google.com.html",
-    "date": "2026-08-01T01:50:32.005474+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "google",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "pypl-tableau-02.dev51-test-apps-are-bi.dev51.cbf.dev.paypalinc.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/pypl-tableau-02.dev51-test-apps-are-bi.dev51.cbf.dev.paypalinc.com.html",
-    "date": "2026-08-01T01:50:31.959827+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
     "brand_similarity": 1.0,
     "threat_score": 35,
     "threat_level": "MEDIUM"
