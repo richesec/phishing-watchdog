@@ -1,16 +1,5 @@
 [
   {
-    "domain": "vulnerabilities.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-08-01T12:58:52.472851+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "itmarketplace-gamma.corp.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11170,5 +11159,18 @@
     "date": "2026-08-04T08:19:27.614248+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "notexistsqponmlchat--please-verify-the-tests-d314--hschneider.coder.lomalab-technologies.de",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-08-04T13:48:05.704919+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]

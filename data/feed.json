@@ -1,5 +1,18 @@
 [
   {
+    "domain": "notexistsqponmlchat--please-verify-the-tests-d314--hschneider.coder.lomalab-technologies.de",
+    "link": "https://richesec.github.io/phishing-watchdog/check/notexistsqponmlchat--please-verify-the-tests-d314--hschneider.coder.lomalab-technologies.de.html",
+    "date": "2026-08-04T13:48:05.704919+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "portal-appstream2.ap-northeast-2.amazonaws.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/portal-appstream2.ap-northeast-2.amazonaws.com.html",
     "date": "2026-08-04T08:19:27.614248+00:00",
@@ -11153,17 +11166,6 @@
     "domain": "itmarketplace-gamma.corp.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/itmarketplace-gamma.corp.amazon.com.html",
     "date": "2026-08-01T12:58:52.487031+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "vulnerabilities.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/vulnerabilities.amazon.com.html",
-    "date": "2026-08-01T12:58:52.472851+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
