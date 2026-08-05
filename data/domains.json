@@ -1,71 +1,5 @@
 [
   {
-    "domain": "caishen-python-tools-console.integ.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-08-01T12:58:54.462138+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "wiki.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-08-01T12:58:54.469461+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "rds-access-sin.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-08-01T12:58:54.485040+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ftxg-wtj-fits-eu-pp-dub.dub.proxy.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-08-01T12:58:54.500584+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "cit-new-master-dub.dub.proxy.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-08-01T12:58:54.508186+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "accord-website-gamma-sa-dub.dub.proxy.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-08-01T12:58:54.515279+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "dare-website-dub.dub.proxy.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11174,5 +11108,86 @@
     "date": "2026-08-05T13:41:17.023693+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "codex-sbx-profile-verify-20260805-a--codex-verifier.runtime.sandbox-daily.yuntoo-inc.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-08-05T19:16:24.362434+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "codex-sbx-profile-verify-20260805-a--codex-verifier.runtime.sandbox-daily-4096.yuntoo-inc.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-08-05T19:16:24.770235+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "codex-sbx-service-verify-20260805-c--codex-verifier.runtime.sandbox-daily-4096.yuntoo-inc.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify",
+      "service"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-08-05T19:16:25.127597+00:00",
+    "threat_score": 25,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "codex-sbx-service-verify-20260805-c--codex-verifier.runtime.sandbox-daily.yuntoo-inc.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify",
+      "service"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-08-05T19:16:25.514736+00:00",
+    "threat_score": 25,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "codex-sbx-service-verify-20260805-c--codex-verifier.sandbox-daily-4096.yuntoo-inc.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify",
+      "service"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-08-05T19:16:25.825069+00:00",
+    "threat_score": 25,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "codex-sbx-profile-verify-20260805-a--codex-verifier.sandbox-daily-4096.yuntoo-inc.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-08-05T19:16:26.207809+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]
