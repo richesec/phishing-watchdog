@@ -1,5 +1,18 @@
 [
   {
+    "domain": "verify--z607.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/verify--z607.com.html",
+    "date": "2026-08-09T00:54:33.587177+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "chimeadapter-prod.corp.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/chimeadapter-prod.corp.amazon.com.html",
     "date": "2026-08-08T18:24:50.350117+00:00",
@@ -11187,17 +11200,6 @@
     "brand_match": "amazon",
     "brand_similarity": 1.0,
     "threat_score": 40,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "lbdashboard-kul.aka.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/lbdashboard-kul.aka.amazon.com.html",
-    "date": "2026-08-02T18:57:34.261016+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
     "threat_level": "MEDIUM"
   }
 ]

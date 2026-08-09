@@ -1,16 +1,5 @@
 [
   {
-    "domain": "lbdashboard-kul.aka.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-08-02T18:57:34.261016+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "kratosservice-jp-pdx.integ.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11199,5 +11188,18 @@
     "date": "2026-08-08T18:24:50.350117+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "verify--z607.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-08-09T00:54:33.587177+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]
