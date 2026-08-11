@@ -1,16 +1,5 @@
 [
   {
-    "domain": "tmga.aea.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-08-06T01:26:49.485888+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "capa-avatar-beta.aka.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11141,6 +11130,17 @@
     "brand_match": "paypal",
     "brand_similarity": 1.0,
     "date": "2026-08-11T12:41:03.607750+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "te-rt-email-builder.qa.paypal.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-08-11T18:52:29.277785+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }
