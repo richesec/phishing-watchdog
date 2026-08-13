@@ -1,5 +1,49 @@
 [
   {
+    "domain": "airflow-dev-besx.qa.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/airflow-dev-besx.qa.paypal.com.html",
+    "date": "2026-08-13T01:04:14.234470+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "jaws.paypalcorp.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/jaws.paypalcorp.com.html",
+    "date": "2026-08-13T01:04:14.216316+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "vopqwac.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/vopqwac.paypal.com.html",
+    "date": "2026-08-13T01:04:14.129253+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "airflow-dev-besx-vip.dev51.cbf.dev.paypalinc.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/airflow-dev-besx-vip.dev51.cbf.dev.paypalinc.com.html",
+    "date": "2026-08-13T01:04:14.110598+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "aebcs-gamma-zaz.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/aebcs-gamma-zaz.amazon.com.html",
     "date": "2026-08-12T07:08:03.657462+00:00",
@@ -11081,52 +11125,6 @@
     "domain": "itdoorbell.corp.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/itdoorbell.corp.amazon.com.html",
     "date": "2026-08-06T01:26:49.852614+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "aics-alpha-midway-iad.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/aics-alpha-midway-iad.corp.amazon.com.html",
-    "date": "2026-08-06T01:26:49.845208+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "alexa-feature-gate-service.integ.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/alexa-feature-gate-service.integ.amazon.com.html",
-    "date": "2026-08-06T01:26:49.831154+00:00",
-    "mx": false,
-    "keywords": [
-      "service"
-    ],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 40,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "terrapin-alpha-jlb.integ.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/terrapin-alpha-jlb.integ.amazon.com.html",
-    "date": "2026-08-06T01:26:49.815933+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "a9-hflow-prod.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/a9-hflow-prod.amazon.com.html",
-    "date": "2026-08-06T01:26:49.801907+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
