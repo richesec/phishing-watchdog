@@ -1,5 +1,16 @@
 [
   {
+    "domain": "www.te-rt-email-builder.qa.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/www.te-rt-email-builder.qa.paypal.com.html",
+    "date": "2026-08-14T01:02:08.364734+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "hawkeye-view-beta.aka.corp.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/hawkeye-view-beta.aka.corp.amazon.com.html",
     "date": "2026-08-13T18:49:14.850829+00:00",
@@ -11103,17 +11114,6 @@
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "maven-readonly.dev.paypalinc.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/maven-readonly.dev.paypalinc.com.html",
-    "date": "2026-08-06T08:16:22.077808+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
     "brand_similarity": 1.0,
     "threat_score": 35,
     "threat_level": "MEDIUM"
