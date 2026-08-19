@@ -1,16 +1,5 @@
 [
   {
-    "domain": "misv2-tlv-gamma.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-08-14T12:40:08.332924+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "gops-weblogic-admin.qa.paypal.com",
     "mx": false,
     "has_ip": false,
@@ -11112,6 +11101,17 @@
     "brand_match": "paypal",
     "brand_similarity": 1.0,
     "date": "2026-08-19T12:24:22.977015+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "msmaster1intdev51.qa.paypal.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-08-19T18:18:34.836450+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }
