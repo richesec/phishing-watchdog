@@ -1,5 +1,29 @@
 [
   {
+    "domain": "developer.braintreepayments.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/developer.braintreepayments.com.html",
+    "date": "2026-08-21T18:22:58.937294+00:00",
+    "mx": false,
+    "keywords": [
+      "payment"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 5,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "pypl-tableau-03.dev51-test-apps-are-bi.dev51.cbf.dev.paypalinc.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/pypl-tableau-03.dev51-test-apps-are-bi.dev51.cbf.dev.paypalinc.com.html",
+    "date": "2026-08-21T18:22:58.864425+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "gbc.beatthatquote.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/gbc.beatthatquote.com.html",
     "date": "2026-08-21T12:24:45.658778+00:00",
@@ -11083,28 +11107,6 @@
     "mx": false,
     "keywords": [],
     "brand_match": "google",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "cdex-portal-api-fra.aka.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/cdex-portal-api-fra.aka.amazon.com.html",
-    "date": "2026-08-14T18:40:36.861224+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "msp-astrea.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/msp-astrea.corp.amazon.com.html",
-    "date": "2026-08-14T18:40:36.831605+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
     "brand_similarity": 1.0,
     "threat_score": 35,
     "threat_level": "MEDIUM"

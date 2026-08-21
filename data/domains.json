@@ -1,27 +1,5 @@
 [
   {
-    "domain": "msp-astrea.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-08-14T18:40:36.831605+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "cdex-portal-api-fra.aka.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-08-14T18:40:36.861224+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "googlefinland.com",
     "mx": false,
     "has_ip": true,
@@ -11108,5 +11086,29 @@
     "date": "2026-08-21T12:24:45.658778+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "pypl-tableau-03.dev51-test-apps-are-bi.dev51.cbf.dev.paypalinc.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-08-21T18:22:58.864425+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "developer.braintreepayments.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "payment"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-08-21T18:22:58.937294+00:00",
+    "threat_score": 5,
+    "threat_level": "LOW"
   }
 ]
