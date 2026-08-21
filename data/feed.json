@@ -1,5 +1,60 @@
 [
   {
+    "domain": "gbc.beatthatquote.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/gbc.beatthatquote.com.html",
+    "date": "2026-08-21T12:24:45.658778+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "att",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "www.thegooglestore.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/www.thegooglestore.com.html",
+    "date": "2026-08-21T12:24:45.607956+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "ping.feedburner.google.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/ping.feedburner.google.com.html",
+    "date": "2026-08-21T12:24:45.534921+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "console.in.cloud.google",
+    "link": "https://richesec.github.io/phishing-watchdog/check/console.in.cloud.google.html",
+    "date": "2026-08-21T12:24:45.499249+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "icloud",
+    "brand_similarity": 0.83,
+    "threat_score": 29,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "console.sa.cloud.google",
+    "link": "https://richesec.github.io/phishing-watchdog/check/console.sa.cloud.google.html",
+    "date": "2026-08-21T12:24:45.349307+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "icloud",
+    "brand_similarity": 0.83,
+    "threat_score": 29,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "www.msmaster.meridian-dev.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/www.msmaster.meridian-dev.paypal.com.html",
     "date": "2026-08-21T06:33:37.080950+00:00",
@@ -11047,63 +11102,6 @@
     "domain": "msp-astrea.corp.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/msp-astrea.corp.amazon.com.html",
     "date": "2026-08-14T18:40:36.831605+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "dev51dbtoolmcp02.qa.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/dev51dbtoolmcp02.qa.paypal.com.html",
-    "date": "2026-08-14T18:40:36.793616+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "pypl-tableau-03.dev51-test-apps-are-bi.dev51.cbf.dev.paypalinc.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/pypl-tableau-03.dev51-test-apps-are-bi.dev51.cbf.dev.paypalinc.com.html",
-    "date": "2026-08-14T18:40:36.758577+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "misv2-pdx.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/misv2-pdx.corp.amazon.com.html",
-    "date": "2026-08-14T18:40:36.698002+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "developer.braintreepayments.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/developer.braintreepayments.com.html",
-    "date": "2026-08-14T18:40:36.660664+00:00",
-    "mx": false,
-    "keywords": [
-      "payment"
-    ],
-    "brand_match": null,
-    "brand_similarity": null,
-    "threat_score": 5,
-    "threat_level": "LOW"
-  },
-  {
-    "domain": "serco-kannadi-comp-dashboard-iad.iad.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/serco-kannadi-comp-dashboard-iad.iad.proxy.amazon.com.html",
-    "date": "2026-08-14T18:40:36.564263+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
