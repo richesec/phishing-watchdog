@@ -1,5 +1,49 @@
 [
   {
+    "domain": "beta.brc.occentral.legal.amazon.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/beta.brc.occentral.legal.amazon.com.html",
+    "date": "2026-08-24T06:42:12.093833+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "yinghaix-us-west-2.beta.api-proxy.aws-dev.amazon.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/yinghaix-us-west-2.beta.api-proxy.aws-dev.amazon.com.html",
+    "date": "2026-08-24T06:42:11.793088+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "us-west-2.beta.api-proxy.aws-dev.amazon.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/us-west-2.beta.api-proxy.aws-dev.amazon.com.html",
+    "date": "2026-08-24T06:42:11.632369+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "www.test61.stage.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/www.test61.stage.paypal.com.html",
+    "date": "2026-08-24T06:42:11.395118+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "api.browserstack-vip3.stage.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/api.browserstack-vip3.stage.paypal.com.html",
     "date": "2026-08-24T00:38:21.895885+00:00",
@@ -11074,50 +11118,6 @@
     "domain": "kaleidoscope-beta-jlb.integ.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/kaleidoscope-beta-jlb.integ.amazon.com.html",
     "date": "2026-08-16T00:40:40.970983+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "tuna.integ.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/tuna.integ.amazon.com.html",
-    "date": "2026-08-16T00:40:40.906070+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "flx-ui-tool-dub.integ.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/flx-ui-tool-dub.integ.amazon.com.html",
-    "date": "2026-08-16T00:40:40.827535+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "policyengine-integ.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/policyengine-integ.amazon.com.html",
-    "date": "2026-08-16T00:40:40.785235+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "nlu-evaluation.integ.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/nlu-evaluation.integ.amazon.com.html",
-    "date": "2026-08-16T00:40:40.749307+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
