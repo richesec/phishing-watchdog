@@ -1,16 +1,5 @@
 [
   {
-    "domain": "imdb-ingestion-elasticsearch.integ.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-08-16T00:40:41.050293+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "ccg01splunksrchgp1.ccg01.phx.paypalinc.com",
     "mx": false,
     "has_ip": false,
@@ -11122,6 +11111,17 @@
     "brand_match": "google",
     "brand_similarity": 1.0,
     "date": "2026-08-24T12:25:29.123198+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "teaserv-dev-vip.qa.paypal.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-08-24T18:24:32.013466+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }
