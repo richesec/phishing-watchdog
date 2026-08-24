@@ -1,5 +1,27 @@
 [
   {
+    "domain": "v.ext.google.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/v.ext.google.com.html",
+    "date": "2026-08-24T12:25:29.123198+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "bod.google.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/bod.google.com.html",
+    "date": "2026-08-24T12:25:29.028497+00:00",
+    "mx": true,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 60,
+    "threat_level": "HIGH"
+  },
+  {
     "domain": "beta.brc.occentral.legal.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/beta.brc.occentral.legal.amazon.com.html",
     "date": "2026-08-24T06:42:12.093833+00:00",
@@ -11096,28 +11118,6 @@
     "domain": "imdb-ingestion-elasticsearch.integ.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/imdb-ingestion-elasticsearch.integ.amazon.com.html",
     "date": "2026-08-16T00:40:41.050293+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "teaserv-dev-vip.qa.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/teaserv-dev-vip.qa.paypal.com.html",
-    "date": "2026-08-16T00:40:41.020275+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "kaleidoscope-beta-jlb.integ.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/kaleidoscope-beta-jlb.integ.amazon.com.html",
-    "date": "2026-08-16T00:40:40.970983+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
