@@ -1,29 +1,5 @@
 [
   {
-    "domain": "ccg01splunksrchgp1.ccg01.phx.paypalinc.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-08-16T00:40:41.098949+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "db-onboarding-service-integ-ca.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [
-      "service"
-    ],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-08-16T00:40:41.216539+00:00",
-    "threat_score": 40,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "logistics-br.integ.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11122,6 +11098,28 @@
     "brand_match": "paypal",
     "brand_similarity": 1.0,
     "date": "2026-08-24T18:24:32.013466+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "te-worldreadyjs-referencenodeweb.qa.paypal.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-08-25T00:40:21.030854+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "www.te-worldreadyjs-referencenodeweb.qa.paypal.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-08-25T00:40:21.082083+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }
