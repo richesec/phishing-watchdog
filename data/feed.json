@@ -1,5 +1,16 @@
 [
   {
+    "domain": "smtp-proxy.corp.google.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/smtp-proxy.corp.google.com.html",
+    "date": "2026-09-07T10:59:53.581802+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "onebox.roa.buywithprime.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/onebox.roa.buywithprime.amazon.com.html",
     "date": "2026-09-06T01:48:51.617376+00:00",
@@ -11102,17 +11113,6 @@
     "domain": "ihmegdbrelationship-us-ny-66-iad.iad.proxy.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/ihmegdbrelationship-us-ny-66-iad.iad.proxy.amazon.com.html",
     "date": "2026-09-02T20:15:40.060032+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "act-alpha.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/act-alpha.corp.amazon.com.html",
-    "date": "2026-09-02T20:15:40.019229+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
