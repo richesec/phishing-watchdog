@@ -1,5 +1,27 @@
 [
   {
+    "domain": "maxis-prod-pdx.amazon.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/maxis-prod-pdx.amazon.com.html",
+    "date": "2026-09-11T10:10:20.065223+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "ssass.corp.amazon.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/ssass.corp.amazon.com.html",
+    "date": "2026-09-11T10:10:20.041551+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "prime-apis.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/prime-apis.amazon.com.html",
     "date": "2026-09-11T01:56:04.638793+00:00",
@@ -11090,28 +11112,6 @@
     "domain": "kindleworldsadmin-gamma.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/kindleworldsadmin-gamma.amazon.com.html",
     "date": "2026-09-08T02:02:45.077192+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "scs-fe.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/scs-fe.amazon.com.html",
-    "date": "2026-09-08T02:02:45.068157+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "consolidation-portal-nrt-jlb-nrt.nrt.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/consolidation-portal-nrt-jlb-nrt.nrt.proxy.amazon.com.html",
-    "date": "2026-09-08T02:02:45.043898+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
