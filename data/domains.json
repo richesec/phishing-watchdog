@@ -1,73 +1,5 @@
 [
   {
-    "domain": "aplus-admin-eu.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-09-08T02:02:44.957299+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "mfcat.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-09-08T02:02:44.974137+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "modeled-cm-api-service-alpha.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [
-      "service"
-    ],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-09-08T02:02:44.980828+00:00",
-    "threat_score": 40,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ssass.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-09-08T02:02:44.996659+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "fclm-portal-dub.dub.proxy.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-09-08T02:02:45.010488+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "maxis-prod-pdx.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-09-08T02:02:45.027383+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "consolidation-portal-nrt-jlb-nrt.nrt.proxy.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11118,6 +11050,72 @@
     "brand_match": "amazon",
     "brand_similarity": 1.0,
     "date": "2026-09-10T20:12:56.790618+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "mbsecondarytool.pdx.corp.amazon.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-09-11T01:56:04.082385+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "auth.aws.amazon.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-09-11T01:56:04.186786+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "tests.playwright.na.gamma.app.act.legal.amazon.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-09-11T01:56:04.443286+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "lwa-sso.mobileauth.amazon.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-09-11T01:56:04.534748+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "tmga.aea.amazon.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-09-11T01:56:04.594875+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "prime-apis.amazon.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-09-11T01:56:04.638793+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }

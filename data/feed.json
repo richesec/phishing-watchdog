@@ -1,5 +1,71 @@
 [
   {
+    "domain": "prime-apis.amazon.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/prime-apis.amazon.com.html",
+    "date": "2026-09-11T01:56:04.638793+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "tmga.aea.amazon.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/tmga.aea.amazon.com.html",
+    "date": "2026-09-11T01:56:04.594875+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "lwa-sso.mobileauth.amazon.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/lwa-sso.mobileauth.amazon.com.html",
+    "date": "2026-09-11T01:56:04.534748+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "tests.playwright.na.gamma.app.act.legal.amazon.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/tests.playwright.na.gamma.app.act.legal.amazon.com.html",
+    "date": "2026-09-11T01:56:04.443286+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "auth.aws.amazon.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/auth.aws.amazon.com.html",
+    "date": "2026-09-11T01:56:04.186786+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "mbsecondarytool.pdx.corp.amazon.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/mbsecondarytool.pdx.corp.amazon.com.html",
+    "date": "2026-09-11T01:56:04.082385+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "elbdataplanescope-fra.aka.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/elbdataplanescope-fra.aka.amazon.com.html",
     "date": "2026-09-10T20:12:56.790618+00:00",
@@ -11046,74 +11112,6 @@
     "domain": "consolidation-portal-nrt-jlb-nrt.nrt.proxy.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/consolidation-portal-nrt-jlb-nrt.nrt.proxy.amazon.com.html",
     "date": "2026-09-08T02:02:45.043898+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "maxis-prod-pdx.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/maxis-prod-pdx.amazon.com.html",
-    "date": "2026-09-08T02:02:45.027383+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "fclm-portal-dub.dub.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/fclm-portal-dub.dub.proxy.amazon.com.html",
-    "date": "2026-09-08T02:02:45.010488+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ssass.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/ssass.corp.amazon.com.html",
-    "date": "2026-09-08T02:02:44.996659+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "modeled-cm-api-service-alpha.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/modeled-cm-api-service-alpha.amazon.com.html",
-    "date": "2026-09-08T02:02:44.980828+00:00",
-    "mx": false,
-    "keywords": [
-      "service"
-    ],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 40,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "mfcat.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/mfcat.corp.amazon.com.html",
-    "date": "2026-09-08T02:02:44.974137+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "aplus-admin-eu.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/aplus-admin-eu.corp.amazon.com.html",
-    "date": "2026-09-08T02:02:44.957299+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
