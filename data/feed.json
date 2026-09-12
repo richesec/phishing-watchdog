@@ -1,5 +1,38 @@
 [
   {
+    "domain": "eink-utilitystack.aka.amazon.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/eink-utilitystack.aka.amazon.com.html",
+    "date": "2026-09-12T19:52:57.712995+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "ccg13splunksrchdcn4007.ccg13.slc.paypalinc.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/ccg13splunksrchdcn4007.ccg13.slc.paypalinc.com.html",
+    "date": "2026-09-12T19:52:57.680428+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "frp-tortuga-document-viewer-fe-gamma-jlb-l-pdx.pdx.proxy.amazon.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/frp-tortuga-document-viewer-fe-gamma-jlb-l-pdx.pdx.proxy.amazon.com.html",
+    "date": "2026-09-12T19:52:57.594917+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "kratosservice-na-pdx.integ.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/kratosservice-na-pdx.integ.amazon.com.html",
     "date": "2026-09-12T14:35:46.774694+00:00",
@@ -11084,39 +11117,6 @@
     "mx": false,
     "keywords": [],
     "brand_match": "google",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "mslnp.qa.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/mslnp.qa.paypal.com.html",
-    "date": "2026-09-08T10:15:32.230133+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "flyhooknodewebqa.cbf.g.dev.paypalinc.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/flyhooknodewebqa.cbf.g.dev.paypalinc.com.html",
-    "date": "2026-09-08T10:15:32.212979+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "www.te-xoom-08.qa.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/www.te-xoom-08.qa.paypal.com.html",
-    "date": "2026-09-08T10:15:32.112489+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
     "brand_similarity": 1.0,
     "threat_score": 35,
     "threat_level": "MEDIUM"

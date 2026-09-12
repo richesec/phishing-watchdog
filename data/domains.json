@@ -1,38 +1,5 @@
 [
   {
-    "domain": "www.te-xoom-08.qa.paypal.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-09-08T10:15:32.112489+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "flyhooknodewebqa.cbf.g.dev.paypalinc.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-09-08T10:15:32.212979+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "mslnp.qa.paypal.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-09-08T10:15:32.230133+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "console.sa.cloud.google.com",
     "mx": false,
     "has_ip": true,
@@ -11119,6 +11086,39 @@
     "brand_similarity": 1.0,
     "date": "2026-09-12T14:35:46.774694+00:00",
     "threat_score": 40,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "frp-tortuga-document-viewer-fe-gamma-jlb-l-pdx.pdx.proxy.amazon.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-09-12T19:52:57.594917+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "ccg13splunksrchdcn4007.ccg13.slc.paypalinc.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-09-12T19:52:57.680428+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "eink-utilitystack.aka.amazon.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-09-12T19:52:57.712995+00:00",
+    "threat_score": 35,
     "threat_level": "MEDIUM"
   }
 ]
