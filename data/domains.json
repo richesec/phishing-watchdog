@@ -1,16 +1,5 @@
 [
   {
-    "domain": "mamba-beta.integ.amazon.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-09-10T01:59:17.597096+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "fosportal-cn.corp.amazon.com",
     "mx": false,
     "has_ip": false,
@@ -11119,6 +11108,17 @@
     "brand_match": "paypal",
     "brand_similarity": 1.0,
     "date": "2026-09-16T02:12:57.335896+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "antigravity.google.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-09-16T10:27:03.795920+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }

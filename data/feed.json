@@ -1,5 +1,16 @@
 [
   {
+    "domain": "antigravity.google.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/antigravity.google.com.html",
+    "date": "2026-09-16T10:27:03.795920+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "msgeo22intdev52.qa.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/msgeo22intdev52.qa.paypal.com.html",
     "date": "2026-09-16T02:12:57.335896+00:00",
@@ -11104,17 +11115,6 @@
     "domain": "fosportal-cn.corp.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/fosportal-cn.corp.amazon.com.html",
     "date": "2026-09-10T01:59:17.627323+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "mamba-beta.integ.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/mamba-beta.integ.amazon.com.html",
-    "date": "2026-09-10T01:59:17.597096+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
