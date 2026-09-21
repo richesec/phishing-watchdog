@@ -1,5 +1,49 @@
 [
   {
+    "domain": "ccure-gsrs-uat-mas-app.corp.google.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/ccure-gsrs-uat-mas-app.corp.google.com.html",
+    "date": "2026-09-21T11:24:05.721017+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "c512c074ec21dc9.ad.corp.google.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/c512c074ec21dc9.ad.corp.google.com.html",
+    "date": "2026-09-21T11:24:05.698712+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "ccure-csrm-uat-mas-app.corp.google.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/ccure-csrm-uat-mas-app.corp.google.com.html",
+    "date": "2026-09-21T11:24:05.669184+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "e954f0cfa187e5f.ad.corp.google.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/e954f0cfa187e5f.ad.corp.google.com.html",
+    "date": "2026-09-21T11:24:05.645921+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "advertisingtools-sa.corp.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/advertisingtools-sa.corp.amazon.com.html",
     "date": "2026-09-20T10:17:17.397887+00:00",
@@ -11070,50 +11114,6 @@
     "domain": "payroll-pda-beta.integ.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/payroll-pda-beta.integ.amazon.com.html",
     "date": "2026-09-10T10:13:40.133102+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "mpf-csvtester2-eu.aka.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/mpf-csvtester2-eu.aka.amazon.com.html",
-    "date": "2026-09-10T10:13:40.099904+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "cn-linktree-jlb-l-pek.pek.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/cn-linktree-jlb-l-pek.pek.proxy.amazon.com.html",
-    "date": "2026-09-10T10:13:40.092802+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "norn-beta-02.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/norn-beta-02.corp.amazon.com.html",
-    "date": "2026-09-10T10:13:40.076335+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "norn-interface-gamma-01.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/norn-interface-gamma-01.corp.amazon.com.html",
-    "date": "2026-09-10T10:13:40.064061+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
