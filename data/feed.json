@@ -1,5 +1,62 @@
 [
   {
+    "domain": "discovertokenserv-jwe.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/discovertokenserv-jwe.paypal.com.html",
+    "date": "2026-09-23T20:53:02.462430+00:00",
+    "mx": false,
+    "keywords": [
+      "token"
+    ],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 40,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "ppdba-cloud-console.qa.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/ppdba-cloud-console.qa.paypal.com.html",
+    "date": "2026-09-23T20:53:02.452290+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "ppdba-cloud-console-vip.dev52.cbf.dev.paypalinc.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/ppdba-cloud-console-vip.dev52.cbf.dev.paypalinc.com.html",
+    "date": "2026-09-23T20:53:02.438178+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "ppdba-cloud-console-vip.dev51.cbf.dev.paypalinc.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/ppdba-cloud-console-vip.dev51.cbf.dev.paypalinc.com.html",
+    "date": "2026-09-23T20:53:02.422358+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "ppdba-cloud-console.g.dev.paypalinc.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/ppdba-cloud-console.g.dev.paypalinc.com.html",
+    "date": "2026-09-23T20:53:02.403228+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "auth.cloudshell.us-east-2.aws.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/auth.cloudshell.us-east-2.aws.amazon.com.html",
     "date": "2026-09-23T15:45:04.950637+00:00",
@@ -11051,61 +11108,6 @@
     "domain": "clap-fe.aka.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/clap-fe.aka.amazon.com.html",
     "date": "2026-09-12T14:35:46.553444+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "cname1-vreproduce-dnsvalfail-5.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/cname1-vreproduce-dnsvalfail-5.amazon.com.html",
-    "date": "2026-09-12T09:45:07.876271+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "cname2-vreproduce-dnsvalfail-5.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/cname2-vreproduce-dnsvalfail-5.amazon.com.html",
-    "date": "2026-09-12T09:45:07.842609+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "vreproduce-dnsvalfail-4.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/vreproduce-dnsvalfail-4.amazon.com.html",
-    "date": "2026-09-12T09:45:07.814521+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "lwa-sso-devo.mobileauth.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/lwa-sso-devo.mobileauth.amazon.com.html",
-    "date": "2026-09-12T09:45:07.740352+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "cname1-vreproduce-dnsvalfail-1.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/cname1-vreproduce-dnsvalfail-1.amazon.com.html",
-    "date": "2026-09-12T09:45:07.457466+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
