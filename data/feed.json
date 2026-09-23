@@ -1,5 +1,60 @@
 [
   {
+    "domain": "jpmc-v2.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/jpmc-v2.paypal.com.html",
+    "date": "2026-09-23T02:17:43.442592+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "privacygovernance.api.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/privacygovernance.api.paypal.com.html",
+    "date": "2026-09-23T02:17:43.393617+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "mcpui.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/mcpui.paypal.com.html",
+    "date": "2026-09-23T02:17:43.382993+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "tsp-int.stage.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/tsp-int.stage.paypal.com.html",
+    "date": "2026-09-23T02:17:43.346552+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "pns-int.stage.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/pns-int.stage.paypal.com.html",
+    "date": "2026-09-23T02:17:43.332469+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "tfe-lnp.dev51.cbf.dev.paypalinc.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/tfe-lnp.dev51.cbf.dev.paypalinc.com.html",
     "date": "2026-09-22T02:20:02.807698+00:00",
@@ -11055,63 +11110,6 @@
     "domain": "counterpunch-beta.corp.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/counterpunch-beta.corp.amazon.com.html",
     "date": "2026-09-10T10:13:40.458693+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "frp-tortuga-document-viewer-cn-prod-jlb-l-pek.pek.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/frp-tortuga-document-viewer-cn-prod-jlb-l-pek.pek.proxy.amazon.com.html",
-    "date": "2026-09-10T10:13:40.441914+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "maxis-file-service-prod-tcp-iad.iad.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/maxis-file-service-prod-tcp-iad.iad.proxy.amazon.com.html",
-    "date": "2026-09-10T10:13:40.435033+00:00",
-    "mx": false,
-    "keywords": [
-      "service"
-    ],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 40,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "mint-search-platform-es-prod-iad.iad.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/mint-search-platform-es-prod-iad.iad.proxy.amazon.com.html",
-    "date": "2026-09-10T10:13:40.414144+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ihmlangoliers-ihm-dub1-dub.dub.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/ihmlangoliers-ihm-dub1-dub.dub.proxy.amazon.com.html",
-    "date": "2026-09-10T10:13:40.393959+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "retail-promotions-rsp-config-eu-dub.dub.proxy.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/retail-promotions-rsp-config-eu-dub.dub.proxy.amazon.com.html",
-    "date": "2026-09-10T10:13:40.387775+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
