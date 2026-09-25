@@ -1,16 +1,5 @@
 [
   {
-    "domain": "tradein-na.aka.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-09-14T02:13:33.006042+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "www.ppb.stage.paypal.com",
     "mx": false,
     "has_ip": true,
@@ -11099,6 +11088,17 @@
     "brand_match": "paypal",
     "brand_similarity": 1.0,
     "date": "2026-09-24T16:06:45.607578+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "argo-ti.qa.paypal.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-09-25T02:22:19.241322+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }

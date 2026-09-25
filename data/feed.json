@@ -1,5 +1,16 @@
 [
   {
+    "domain": "argo-ti.qa.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/argo-ti.qa.paypal.com.html",
+    "date": "2026-09-25T02:22:19.241322+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "www.test-clm2.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/www.test-clm2.paypal.com.html",
     "date": "2026-09-24T16:06:45.607578+00:00",
@@ -11087,17 +11098,6 @@
     "mx": false,
     "keywords": [],
     "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "tradein-na.aka.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/tradein-na.aka.amazon.com.html",
-    "date": "2026-09-14T02:13:33.006042+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
     "brand_similarity": 1.0,
     "threat_score": 35,
     "threat_level": "MEDIUM"
