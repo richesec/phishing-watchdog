@@ -1,93 +1,5 @@
 [
   {
-    "domain": "colab.research.google.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "google",
-    "brand_similarity": 1.0,
-    "date": "2026-09-15T15:52:29.568404+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "lvs1-ssoma-002.paypalcorp.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-09-15T15:52:29.639294+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ccg01splunksrchmgmt1.ccg01.phx.paypalinc.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-09-15T15:52:29.691885+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "mscalhadoop-qa-paypal-com-vip.pp-devcos-sre-monitoring.us-central1.gcp.dev.paypalinc.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-09-15T15:52:29.794999+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ccg24airflow-dalm-web1.ccg24-hrzana-airflow.ccg24.lvs.paypalinc.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-09-15T15:52:29.852238+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "api.test67.stage.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-09-15T15:52:29.902656+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "te-release-worldready.qa.paypal.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-09-15T15:52:29.934694+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "www.test07.stage.paypal.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "date": "2026-09-15T15:52:29.987954+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "www.test27.stage.paypal.com",
     "mx": false,
     "has_ip": true,
@@ -11080,5 +10992,102 @@
     "date": "2026-09-29T21:39:54.440667+00:00",
     "threat_score": 40,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "api.test10.stage.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-09-30T02:59:05.358711+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "image.info.smallbusinessloans.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "ssl"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-09-30T02:59:05.404674+00:00",
+    "threat_score": 5,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "image.college.citizensbank.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "bank"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-09-30T02:59:05.473214+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "ccg24airflow-dalm-web4.ccg24-hrzana-airflow.ccg24.lvs.paypalinc.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-09-30T02:59:05.518852+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "gcd-poc-region2.paypal.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-09-30T02:59:05.534906+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "image.notices.cvs.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "notice"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-09-30T02:59:05.553341+00:00",
+    "threat_score": 5,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "image.fastlane-emails.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-09-30T02:59:05.580374+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "image.h.usma.dsicustomerservice.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "service",
+      "customer"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-09-30T02:59:05.802018+00:00",
+    "threat_score": 10,
+    "threat_level": "LOW"
   }
 ]
