@@ -1,5 +1,38 @@
 [
   {
+    "domain": "dev51edge.stage.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/dev51edge.stage.paypal.com.html",
+    "date": "2026-10-02T17:00:30.822720+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "dev51fautgen01.qa.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/dev51fautgen01.qa.paypal.com.html",
+    "date": "2026-10-02T17:00:30.797076+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "bu-partner-monitoring.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/bu-partner-monitoring.paypal.com.html",
+    "date": "2026-10-02T17:00:30.777902+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "adjvendor-vip.ccg13.slc.paypalinc.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/adjvendor-vip.ccg13.slc.paypalinc.com.html",
     "date": "2026-10-02T11:33:17.893796+00:00",
@@ -11057,41 +11090,6 @@
     "domain": "mag-na-gamma.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/mag-na-gamma.amazon.com.html",
     "date": "2026-09-19T09:54:28.138406+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "podiumedgeservice-preprod.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/podiumedgeservice-preprod.amazon.com.html",
-    "date": "2026-09-19T09:54:28.008993+00:00",
-    "mx": false,
-    "keywords": [
-      "service"
-    ],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 40,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "hc-csa.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/hc-csa.amazon.com.html",
-    "date": "2026-09-19T09:54:27.896562+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "nlb-partitioning-testing3.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/nlb-partitioning-testing3.amazon.com.html",
-    "date": "2026-09-19T09:54:27.782130+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
