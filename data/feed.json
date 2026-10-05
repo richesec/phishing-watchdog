@@ -1,5 +1,60 @@
 [
   {
+    "domain": "fra-nls-3.fra.corp.google.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/fra-nls-3.fra.corp.google.com.html",
+    "date": "2026-10-05T12:59:41.778317+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "cbf-nls-3.cbf.corp.google.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/cbf-nls-3.cbf.corp.google.com.html",
+    "date": "2026-10-05T12:59:41.702621+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "twd-nls-4.twd.corp.google.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/twd-nls-4.twd.corp.google.com.html",
+    "date": "2026-10-05T12:59:41.667639+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "hot-nls-3.hot.corp.google.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/hot-nls-3.hot.corp.google.com.html",
+    "date": "2026-10-05T12:59:41.609214+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "nls-anycast.corp.google.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/nls-anycast.corp.google.com.html",
+    "date": "2026-10-05T12:59:41.578413+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "alm-api-qa1.qa.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/alm-api-qa1.qa.paypal.com.html",
     "date": "2026-10-03T02:46:46.525989+00:00",
@@ -11035,61 +11090,6 @@
     "domain": "partner-portal.pv.amazon.dev",
     "link": "https://richesec.github.io/phishing-watchdog/check/partner-portal.pv.amazon.dev.html",
     "date": "2026-09-19T09:54:29.526371+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "nlb-partitioning-testing1.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/nlb-partitioning-testing1.amazon.com.html",
-    "date": "2026-09-19T09:54:29.516501+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "www.stage-business.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/www.stage-business.amazon.com.html",
-    "date": "2026-09-19T09:54:29.431212+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "agl-ops.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/agl-ops.amazon.com.html",
-    "date": "2026-09-19T09:54:29.389781+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "slate.amazon.dev",
-    "link": "https://richesec.github.io/phishing-watchdog/check/slate.amazon.dev.html",
-    "date": "2026-09-19T09:54:29.245142+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "beta.slate.amazon.dev",
-    "link": "https://richesec.github.io/phishing-watchdog/check/beta.slate.amazon.dev.html",
-    "date": "2026-09-19T09:54:29.101590+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
