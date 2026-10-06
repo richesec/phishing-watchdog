@@ -1,16 +1,5 @@
 [
   {
-    "domain": "partner-portal.pv.amazon.dev",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-09-19T09:54:29.526371+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "rum.creator.frizzle.v2.learn-alpha.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11094,6 +11083,17 @@
     "brand_match": "google",
     "brand_similarity": 1.0,
     "date": "2026-10-05T12:59:41.778317+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "partner-monitoring.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-10-06T03:46:05.099129+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }

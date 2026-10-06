@@ -1,5 +1,16 @@
 [
   {
+    "domain": "partner-monitoring.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/partner-monitoring.paypal.com.html",
+    "date": "2026-10-06T03:46:05.099129+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "fra-nls-3.fra.corp.google.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/fra-nls-3.fra.corp.google.com.html",
     "date": "2026-10-05T12:59:41.778317+00:00",
@@ -11079,17 +11090,6 @@
     "domain": "rum.creator.frizzle.v2.learn-alpha.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/rum.creator.frizzle.v2.learn-alpha.amazon.com.html",
     "date": "2026-09-19T09:54:29.633229+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "partner-portal.pv.amazon.dev",
-    "link": "https://richesec.github.io/phishing-watchdog/check/partner-portal.pv.amazon.dev.html",
-    "date": "2026-09-19T09:54:29.526371+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
