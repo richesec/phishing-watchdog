@@ -1,16 +1,5 @@
 [
   {
-    "domain": "transient-fe.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-09-20T10:17:10.990621+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "jobs-us-west.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11100,5 +11089,18 @@
     "date": "2026-10-06T21:59:38.788282+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "verify--z607.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-10-07T03:11:42.853728+00:00",
+    "threat_score": 20,
+    "threat_level": "LOW"
   }
 ]

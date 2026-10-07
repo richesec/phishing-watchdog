@@ -1,5 +1,18 @@
 [
   {
+    "domain": "verify--z607.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/verify--z607.com.html",
+    "date": "2026-10-07T03:11:42.853728+00:00",
+    "mx": false,
+    "keywords": [
+      "verify"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 20,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "dl.signage.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/dl.signage.amazon.com.html",
     "date": "2026-10-06T21:59:38.788282+00:00",
@@ -11083,17 +11096,6 @@
     "domain": "jobs-us-west.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/jobs-us-west.amazon.com.html",
     "date": "2026-09-20T10:17:11.164585+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "transient-fe.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/transient-fe.amazon.com.html",
-    "date": "2026-09-20T10:17:10.990621+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
