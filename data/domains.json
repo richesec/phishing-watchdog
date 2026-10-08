@@ -1,49 +1,5 @@
 [
   {
-    "domain": "datavault.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-09-20T10:17:14.667887+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "sophap.beta.gql.music.amazon.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-09-20T10:17:14.871285+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "datavault.amazon.in",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-09-20T10:17:15.012220+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "adtw-eu.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-09-20T10:17:15.092341+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "brandregistry.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11097,6 +11053,50 @@
     "brand_match": "google",
     "brand_similarity": 1.0,
     "date": "2026-10-07T22:25:30.730371+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "bu-partner-monitoring.stage.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-10-08T03:28:30.011666+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "api.bu-partner-monitoring.stage.paypal.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-10-08T03:28:30.034474+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "www.bu-partner-monitoring.stage.paypal.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-10-08T03:28:30.046195+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "bu-test-partner-monitoring.paypal.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-10-08T03:28:30.057573+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }
