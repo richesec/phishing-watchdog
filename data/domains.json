@@ -1,16 +1,5 @@
 [
   {
-    "domain": "brandregistry.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-09-20T10:17:15.289519+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "advertisingtools-eg.corp.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11097,6 +11086,17 @@
     "brand_match": "paypal",
     "brand_similarity": 1.0,
     "date": "2026-10-08T03:28:30.057573+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "vincuna.bld.corp.google.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-10-08T22:38:08.008661+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }
