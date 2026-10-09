@@ -1,5 +1,16 @@
 [
   {
+    "domain": "api-stage.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/api-stage.paypal.com.html",
+    "date": "2026-10-09T03:32:07.803408+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "vincuna.bld.corp.google.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/vincuna.bld.corp.google.com.html",
     "date": "2026-10-08T22:38:08.008661+00:00",
@@ -11082,17 +11093,6 @@
     "domain": "agl-frontend.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/agl-frontend.amazon.com.html",
     "date": "2026-09-20T10:17:15.474040+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "advertisingtools-eg.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/advertisingtools-eg.corp.amazon.com.html",
-    "date": "2026-09-20T10:17:15.347050+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
