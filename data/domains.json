@@ -1,16 +1,5 @@
 [
   {
-    "domain": "themisstudio-alpha.integ.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-09-23T15:45:02.140996+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "heal-readonly-stagingodm-yul.aka.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11101,6 +11090,17 @@
     "brand_match": "google",
     "brand_similarity": 1.0,
     "date": "2026-10-12T23:56:44.822022+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "grow.google.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "date": "2026-10-14T10:48:54.965703+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }

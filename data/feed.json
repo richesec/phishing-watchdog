@@ -1,5 +1,16 @@
 [
   {
+    "domain": "grow.google.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/grow.google.com.html",
+    "date": "2026-10-14T10:48:54.965703+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "googlesverige.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/googlesverige.com.html",
     "date": "2026-10-12T23:56:44.822022+00:00",
@@ -11086,17 +11097,6 @@
     "domain": "heal-readonly-stagingodm-yul.aka.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/heal-readonly-stagingodm-yul.aka.amazon.com.html",
     "date": "2026-09-23T15:45:02.170862+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "themisstudio-alpha.integ.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/themisstudio-alpha.integ.amazon.com.html",
-    "date": "2026-09-23T15:45:02.140996+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
