@@ -1,5 +1,16 @@
 [
   {
+    "domain": "ec2-test-bastions-pilot-pdx80.corp.amazon.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/ec2-test-bastions-pilot-pdx80.corp.amazon.com.html",
+    "date": "2026-10-20T02:31:11.672808+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "optima-cp.qa.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/optima-cp.qa.paypal.com.html",
     "date": "2026-10-19T02:18:10.058015+00:00",
@@ -11084,17 +11095,6 @@
     "domain": "misv2-kix-gamma.corp.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/misv2-kix-gamma.corp.amazon.com.html",
     "date": "2026-09-23T15:45:03.693106+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "api-dashboard-thf.ec2.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/api-dashboard-thf.ec2.amazon.com.html",
-    "date": "2026-09-23T15:45:03.663634+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",

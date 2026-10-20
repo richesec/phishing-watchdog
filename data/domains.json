@@ -1,16 +1,5 @@
 [
   {
-    "domain": "api-dashboard-thf.ec2.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-09-23T15:45:03.663634+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "misv2-kix-gamma.corp.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11099,6 +11088,17 @@
     "brand_match": "paypal",
     "brand_similarity": 1.0,
     "date": "2026-10-19T02:18:10.058015+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "ec2-test-bastions-pilot-pdx80.corp.amazon.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "date": "2026-10-20T02:31:11.672808+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }
