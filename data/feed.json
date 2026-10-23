@@ -1,5 +1,42 @@
 [
   {
+    "domain": "image.updates.genea.com.au",
+    "link": "https://richesec.github.io/phishing-watchdog/check/image.updates.genea.com.au.html",
+    "date": "2026-10-23T16:05:31.011560+00:00",
+    "mx": false,
+    "keywords": [
+      "update"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 5,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "www.test09.stage.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/www.test09.stage.paypal.com.html",
+    "date": "2026-10-23T16:05:30.879486+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "image.updates.ucb-usa.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/image.updates.ucb-usa.com.html",
+    "date": "2026-10-23T16:05:30.859930+00:00",
+    "mx": false,
+    "keywords": [
+      "update"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 5,
+    "threat_level": "LOW"
+  },
+  {
     "domain": "www.te-daon.qa.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/www.te-daon.qa.paypal.com.html",
     "date": "2026-10-23T10:41:26.012801+00:00",
@@ -11074,41 +11111,6 @@
     "mx": false,
     "keywords": [
       "payment"
-    ],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 40,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "catalog-retail.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/catalog-retail.amazon.com.html",
-    "date": "2026-10-22T02:20:30.621071+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "storepickup.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/storepickup.amazon.com.html",
-    "date": "2026-10-22T02:20:30.463978+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "account-firetv.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/account-firetv.amazon.com.html",
-    "date": "2026-10-22T02:20:30.277831+00:00",
-    "mx": false,
-    "keywords": [
-      "account"
     ],
     "brand_match": "amazon",
     "brand_similarity": 1.0,
