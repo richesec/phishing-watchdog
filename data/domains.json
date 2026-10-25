@@ -1,38 +1,5 @@
 [
   {
-    "domain": "trex-ext-prod-na-iad.iad.proxy.amazon.com.amazon.com",
-    "mx": false,
-    "has_ip": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-10-22T02:20:46.006709+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "vdp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-10-22T02:20:46.026284+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "onsite.amazon.ae",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-10-22T02:20:46.184076+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "wbautomation-preprod.corp.amazon.com",
     "mx": false,
     "has_ip": false,
@@ -11090,6 +11057,41 @@
     "brand_match": "amazon",
     "brand_similarity": 1.0,
     "date": "2026-10-25T02:12:03.792488+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "www.creditauciti.stage.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-10-25T10:22:15.077500+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "image.manoamiga.comfandi.com.co",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [
+      "mfa"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "date": "2026-10-25T10:22:15.376367+00:00",
+    "threat_score": 5,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "image.zettle.paypal.com",
+    "mx": false,
+    "has_ip": true,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-10-25T10:22:15.475879+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }

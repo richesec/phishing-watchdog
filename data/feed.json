@@ -1,5 +1,40 @@
 [
   {
+    "domain": "image.zettle.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/image.zettle.paypal.com.html",
+    "date": "2026-10-25T10:22:15.475879+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "image.manoamiga.comfandi.com.co",
+    "link": "https://richesec.github.io/phishing-watchdog/check/image.manoamiga.comfandi.com.co.html",
+    "date": "2026-10-25T10:22:15.376367+00:00",
+    "mx": false,
+    "keywords": [
+      "mfa"
+    ],
+    "brand_match": null,
+    "brand_similarity": null,
+    "threat_score": 5,
+    "threat_level": "LOW"
+  },
+  {
+    "domain": "www.creditauciti.stage.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/www.creditauciti.stage.paypal.com.html",
+    "date": "2026-10-25T10:22:15.077500+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "www.wwwaamazonbooks.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/www.wwwaamazonbooks.com.html",
     "date": "2026-10-25T02:12:03.792488+00:00",
@@ -11053,39 +11088,6 @@
     "domain": "wbautomation-preprod.corp.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/wbautomation-preprod.corp.amazon.com.html",
     "date": "2026-10-22T02:20:46.273241+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "onsite.amazon.ae",
-    "link": "https://richesec.github.io/phishing-watchdog/check/onsite.amazon.ae.html",
-    "date": "2026-10-22T02:20:46.184076+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "vdp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/vdp.amazon.com.html",
-    "date": "2026-10-22T02:20:46.026284+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "trex-ext-prod-na-iad.iad.proxy.amazon.com.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/trex-ext-prod-na-iad.iad.proxy.amazon.com.amazon.com.html",
-    "date": "2026-10-22T02:20:46.006709+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",
