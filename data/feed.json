@@ -1,5 +1,29 @@
 [
   {
+    "domain": "googletraveladservices.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/googletraveladservices.com.html",
+    "date": "2026-11-12T14:13:32.535400+00:00",
+    "mx": false,
+    "keywords": [
+      "service"
+    ],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 40,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "api.gopaye2e.stage.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/api.gopaye2e.stage.paypal.com.html",
+    "date": "2026-11-12T14:13:32.477883+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "ppdba-cloud-console.qa.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/ppdba-cloud-console.qa.paypal.com.html",
     "date": "2026-11-12T04:47:31.756491+00:00",
@@ -11099,28 +11123,6 @@
     "mx": false,
     "keywords": [],
     "brand_match": "google",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "rewards.google.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/rewards.google.com.html",
-    "date": "2026-11-05T04:06:44.805960+00:00",
-    "mx": true,
-    "keywords": [],
-    "brand_match": "google",
-    "brand_similarity": 1.0,
-    "threat_score": 60,
-    "threat_level": "HIGH"
-  },
-  {
-    "domain": "www.test36.tage.paypal.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/www.test36.tage.paypal.com.html",
-    "date": "2026-11-05T04:06:44.783698+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
     "brand_similarity": 1.0,
     "threat_score": 35,
     "threat_level": "MEDIUM"
