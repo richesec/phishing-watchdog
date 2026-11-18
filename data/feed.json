@@ -1,5 +1,38 @@
 [
   {
+    "domain": "www.te-credit-test-hub.qa.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/www.te-credit-test-hub.qa.paypal.com.html",
+    "date": "2026-11-18T14:46:04.246300+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "controlmem-upg-mops-admin.qa.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/controlmem-upg-mops-admin.qa.paypal.com.html",
+    "date": "2026-11-18T14:46:04.230766+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "alm-api-qa1.qa.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/alm-api-qa1.qa.paypal.com.html",
+    "date": "2026-11-18T14:46:04.220278+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "te-credit-test.qa.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/te-credit-test.qa.paypal.com.html",
     "date": "2026-11-18T00:10:17.364181+00:00",
@@ -11112,39 +11145,6 @@
     "mx": false,
     "keywords": [],
     "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ccg13splunksrchdcn7532.ccg13.slc.paypalinc.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/ccg13splunksrchdcn7532.ccg13.slc.paypalinc.com.html",
-    "date": "2026-11-06T22:32:13.823402+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "paypal",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "nsm-ruh.aka.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/nsm-ruh.aka.corp.amazon.com.html",
-    "date": "2026-11-06T22:32:13.809362+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "misv2-zaz-gamma.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/misv2-zaz-gamma.corp.amazon.com.html",
-    "date": "2026-11-06T22:32:13.791421+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
     "brand_similarity": 1.0,
     "threat_score": 35,
     "threat_level": "MEDIUM"
