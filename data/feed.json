@@ -1,5 +1,60 @@
 [
   {
+    "domain": "calljoy.area120.google.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/calljoy.area120.google.com.html",
+    "date": "2026-11-22T22:57:07.898672+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "beta.partner-portal.pv.amazon.dev",
+    "link": "https://richesec.github.io/phishing-watchdog/check/beta.partner-portal.pv.amazon.dev.html",
+    "date": "2026-11-22T22:57:07.860155+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "www.paypal-shopping.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/www.paypal-shopping.com.html",
+    "date": "2026-11-22T22:57:07.812632+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "goku-ops-ap-southeast-6.aka.amazon.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/goku-ops-ap-southeast-6.aka.amazon.com.html",
+    "date": "2026-11-22T22:57:07.754243+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "amazon",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "console.it.cloud.google.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/console.it.cloud.google.com.html",
+    "date": "2026-11-22T22:57:07.702666+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "google",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "api.amex.stage.paypal.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/api.amex.stage.paypal.com.html",
     "date": "2026-11-22T13:45:49.133970+00:00",
@@ -11060,63 +11115,6 @@
     "brand_match": "amazon",
     "brand_similarity": 1.0,
     "threat_score": 40,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "ihmknox-tcp-pdx.integ.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/ihmknox-tcp-pdx.integ.amazon.com.html",
-    "date": "2026-11-14T21:47:39.997574+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "athena-opsconsole-gamma-ap-northeast-1.aka.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/athena-opsconsole-gamma-ap-northeast-1.aka.corp.amazon.com.html",
-    "date": "2026-11-14T21:47:39.973469+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "p7.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/p7.amazon.com.html",
-    "date": "2026-11-14T21:47:39.949814+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "account-jobs-beta.integ.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/account-jobs-beta.integ.amazon.com.html",
-    "date": "2026-11-14T21:47:39.836809+00:00",
-    "mx": false,
-    "keywords": [
-      "account"
-    ],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 40,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "vip-management-api-corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/vip-management-api-corp.amazon.com.html",
-    "date": "2026-11-14T21:47:39.762741+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
     "threat_level": "MEDIUM"
   }
 ]
