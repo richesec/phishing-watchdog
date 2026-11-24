@@ -1,5 +1,16 @@
 [
   {
+    "domain": "te-ukadam-test2.qa.paypal.com",
+    "link": "https://richesec.github.io/phishing-watchdog/check/te-ukadam-test2.qa.paypal.com.html",
+    "date": "2026-11-24T16:41:28.051098+00:00",
+    "mx": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
     "domain": "eu-central-1-onebox.quicksight.aws.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/eu-central-1-onebox.quicksight.aws.amazon.com.html",
     "date": "2026-11-24T03:35:59.725051+00:00",
@@ -11101,17 +11112,6 @@
     "domain": "zme-caaw-pdx.pdx.proxy.amazon.com",
     "link": "https://richesec.github.io/phishing-watchdog/check/zme-caaw-pdx.pdx.proxy.amazon.com.html",
     "date": "2026-11-14T21:47:40.913314+00:00",
-    "mx": false,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
-    "domain": "madcat-alpha-jlb.corp.amazon.com",
-    "link": "https://richesec.github.io/phishing-watchdog/check/madcat-alpha-jlb.corp.amazon.com.html",
-    "date": "2026-11-14T21:47:40.896852+00:00",
     "mx": false,
     "keywords": [],
     "brand_match": "amazon",

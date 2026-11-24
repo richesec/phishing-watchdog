@@ -1,16 +1,5 @@
 [
   {
-    "domain": "madcat-alpha-jlb.corp.amazon.com",
-    "mx": false,
-    "has_ip": true,
-    "keywords": [],
-    "brand_match": "amazon",
-    "brand_similarity": 1.0,
-    "date": "2026-11-14T21:47:40.896852+00:00",
-    "threat_score": 35,
-    "threat_level": "MEDIUM"
-  },
-  {
     "domain": "zme-caaw-pdx.pdx.proxy.amazon.com",
     "mx": false,
     "has_ip": true,
@@ -11116,6 +11105,17 @@
     "brand_match": "amazon",
     "brand_similarity": 1.0,
     "date": "2026-11-24T03:35:59.725051+00:00",
+    "threat_score": 35,
+    "threat_level": "MEDIUM"
+  },
+  {
+    "domain": "te-ukadam-test2.qa.paypal.com",
+    "mx": false,
+    "has_ip": false,
+    "keywords": [],
+    "brand_match": "paypal",
+    "brand_similarity": 1.0,
+    "date": "2026-11-24T16:41:28.051098+00:00",
     "threat_score": 35,
     "threat_level": "MEDIUM"
   }
